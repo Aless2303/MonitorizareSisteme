@@ -5,6 +5,7 @@ Utilitar pentru monitorizarea la distanță a mai multor sisteme Linux
 ## 17.06.2024
 
 -Am ales tema pentru proiect si am citit despre ce implica aceasta tema.
+
 -Utilitarul va colecta date despre resursele de sistem, utilizatori, servicii active și dispozitive hardware, și va oferi posibilitatea de a efectua acțiuni la distanță cum ar fi oprirea/pornirea serviciilor, copierea fișierelor și instalarea aplicațiilor.
 
 

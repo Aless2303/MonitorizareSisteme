@@ -1,0 +1,21 @@
+[2024-06-21 13:17:06] 
+RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-21 13:17:30] 
+RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-21 13:17:33] 
+RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-21 13:17:35] 
+RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-21 13:17:39] 
+RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-21 13:17:42] 
+RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-21 13:17:46] 
+RAM Usage: 9%
+CPU Usage: 0%

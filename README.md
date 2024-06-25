@@ -37,6 +37,12 @@ Utilitar pentru monitorizarea la distanță a mai multor sisteme Linux
 -Daca procentele sunt prea crescute, mai mult de 80%, rezultate se vor inregistra in fisierul text alerts.txt si va trimite si un mesaj de notificare folosind comanda "notify-send" la utilizatorul la care s-au gasit procentele prea mari. Acest script se va executa la infinit in background, monitorizand constant utilizatorii conectati.
 
 
+## 25.06.2024
+
+-Am mai actualizat scriptul care monitorizeaza constant sistemele Linux conectate la server. Acum acest script monitorizeaza si serviciile active si dispozitivele hardware. Daca un dispozitiv hardware este conectat sau deconectat de la unul dintre aceste sisteme conectate, se va loga in fisier aceasta modificare. Daca un serviciu se modifica sau apare unul se termina unul, modificarile se vor loga in fisier. 
+
+-Am creat si un meniu pentru actiuni remote asupra sistemelor Linux conectate. In acest meniu vei putea sa pornesti/opresti un serviciu sau un proces, sa instalezi aplicatii sau servicii sau sa copiezi fisiere de pe server pe unul dintre sistemele conectate, sau de pe un sistem conectat la altul. Astazi am realizat oprirea si pornirea de servicii/procese si instalarea de aplicatii si servicii, mai trebuie copierea de fisiere.
+
 
 
 

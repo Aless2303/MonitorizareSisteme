@@ -1,21 +1,384 @@
-[2024-06-21 13:17:06] 
-RAM Usage: 9%
+[2024-06-25 10:42:40] RAM Usage: 10%
+CPU Usage: 7%
+[2024-06-25 10:42:45] RAM Usage: 10%
+CPU Usage: 6%
+[2024-06-25 10:42:50] RAM Usage: 10%
 CPU Usage: 0%
-[2024-06-21 13:17:30] 
-RAM Usage: 9%
+[2024-06-25 10:42:54] RAM Usage: 10%
 CPU Usage: 1%
-[2024-06-21 13:17:33] 
-RAM Usage: 9%
+[2024-06-25 10:43:00] RAM Usage: 10%
+CPU Usage: 4%
+[2024-06-25 10:43:04] RAM Usage: 10%
 CPU Usage: 0%
-[2024-06-21 13:17:35] 
-RAM Usage: 9%
+[2024-06-25 10:43:09] RAM Usage: 10%
+CPU Usage: 2%
+[2024-06-25 10:43:14] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:43:19] RAM Usage: 10%
+CPU Usage: 2%
+[2024-06-25 10:43:24] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:43:28] RAM Usage: 10%
 CPU Usage: 1%
-[2024-06-21 13:17:39] 
-RAM Usage: 9%
+[2024-06-25 10:43:33] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:43:38] RAM Usage: 10%
+CPU Usage: 3%
+[2024-06-25 10:43:43] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:43:47] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:43:52] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:43:57] RAM Usage: 10%
+CPU Usage: 2%
+[2024-06-25 10:44:03] RAM Usage: 10%
+CPU Usage: 5%
+[2024-06-25 10:44:08] RAM Usage: 11%
+CPU Usage: 2%
+[2024-06-25 10:44:13] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:45:48] RAM Usage: 10%
+CPU Usage: 3%
+[2024-06-25 10:45:52] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:46:30] RAM Usage: 10%
 CPU Usage: 0%
-[2024-06-21 13:17:42] 
-RAM Usage: 9%
+[2024-06-25 10:46:35] RAM Usage: 10%
+CPU Usage: 3%
+[2024-06-25 10:46:39] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:46:44] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:46:49] RAM Usage: 10%
 CPU Usage: 0%
-[2024-06-21 13:17:46] 
-RAM Usage: 9%
+[2024-06-25 10:46:53] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:46:58] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:47:03] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:47:08] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:47:13] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:47:17] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:47:22] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:47:27] RAM Usage: 10%
+CPU Usage: 2%
+[2024-06-25 10:47:33] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:47:38] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:47:42] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:47:47] RAM Usage: 10%
+CPU Usage: 3%
+[2024-06-25 10:47:52] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:47:57] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:48:02] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:48:07] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:48:11] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:48:16] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:48:22] RAM Usage: 10%
+CPU Usage: 2%
+[2024-06-25 10:48:27] RAM Usage: 10%
+CPU Usage: 2%
+[2024-06-25 10:48:32] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:48:37] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:48:42] RAM Usage: 10%
+CPU Usage: 2%
+[2024-06-25 10:48:47] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:48:51] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:50:26] RAM Usage: 10%
+CPU Usage: 2%
+[2024-06-25 10:50:31] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:50:36] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:50:41] RAM Usage: 10%
+CPU Usage: 7%
+[2024-06-25 10:50:46] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:50:50] RAM Usage: 10%
+CPU Usage: 3%
+[2024-06-25 10:59:12] RAM Usage: 10%
+CPU Usage: 2%
+[2024-06-25 10:59:17] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:59:22] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:59:27] RAM Usage: 10%
+CPU Usage: 5%
+[2024-06-25 10:59:32] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:59:37] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:59:42] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 10:59:47] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:59:52] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 10:59:57] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:00:02] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:00:07] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:00:12] RAM Usage: 10%
+CPU Usage: 3%
+[2024-06-25 11:00:17] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:00:21] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:00:26] RAM Usage: 10%
+CPU Usage: 2%
+[2024-06-25 11:00:31] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:00:35] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:00:40] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:00:45] RAM Usage: 10%
+CPU Usage: 3%
+[2024-06-25 11:00:50] RAM Usage: 10%
+CPU Usage: 4%
+[2024-06-25 11:00:54] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:00:59] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:01:04] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:01:08] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:01:14] RAM Usage: 10%
+CPU Usage: 2%
+[2024-06-25 11:01:18] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:01:23] RAM Usage: 10%
+CPU Usage: 3%
+[2024-06-25 11:01:28] RAM Usage: 10%
+CPU Usage: 8%
+[2024-06-25 11:01:33] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:01:37] RAM Usage: 10%
+CPU Usage: 3%
+[2024-06-25 11:01:42] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:01:47] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:01:51] RAM Usage: 10%
+CPU Usage: 2%
+[2024-06-25 11:01:56] RAM Usage: 10%
+CPU Usage: 6%
+[2024-06-25 11:02:01] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:02:06] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:02:10] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:02:16] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:02:21] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:02:26] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:02:31] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:02:36] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:02:40] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:02:45] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:02:50] RAM Usage: 10%
+CPU Usage: 3%
+[2024-06-25 11:02:54] RAM Usage: 10%
+CPU Usage: 3%
+[2024-06-25 11:02:59] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:03:04] RAM Usage: 10%
+CPU Usage: 4%
+[2024-06-25 11:03:09] RAM Usage: 10%
+CPU Usage: 6%
+[2024-06-25 11:03:14] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:03:19] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:03:24] RAM Usage: 10%
+CPU Usage: 12%
+[2024-06-25 11:03:28] RAM Usage: 10%
+CPU Usage: 3%
+[2024-06-25 11:03:34] RAM Usage: 10%
+CPU Usage: 2%
+[2024-06-25 11:03:38] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:03:43] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:03:48] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:03:53] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:03:58] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:04:02] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:04:07] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:04:12] RAM Usage: 10%
+CPU Usage: 3%
+[2024-06-25 11:04:17] RAM Usage: 10%
+CPU Usage: 2%
+[2024-06-25 11:04:22] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:04:27] RAM Usage: 10%
+CPU Usage: 2%
+[2024-06-25 11:04:32] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:04:37] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:04:42] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:04:46] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:04:51] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:04:57] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:05:01] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:05:06] RAM Usage: 10%
+CPU Usage: 1%
+[2024-06-25 11:05:11] RAM Usage: 10%
+CPU Usage: 4%
+[2024-06-25 11:05:16] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:05:21] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 11:05:26] RAM Usage: 10%
+CPU Usage: 0%
+[2024-06-25 12:57:59] RAM Usage: 9%
+CPU Usage: 2%
+[2024-06-25 12:58:04] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 12:58:09] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 12:58:14] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 12:58:18] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 12:58:23] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 12:58:27] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 12:58:32] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 12:58:36] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 12:58:41] RAM Usage: 9%
+CPU Usage: 2%
+[2024-06-25 12:58:46] RAM Usage: 9%
+CPU Usage: 3%
+[2024-06-25 12:58:50] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 12:58:55] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 12:59:00] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 12:59:04] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 12:59:09] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 12:59:14] RAM Usage: 9%
+CPU Usage: 3%
+[2024-06-25 12:59:18] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 12:59:23] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 12:59:27] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 12:59:31] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 12:59:36] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 12:59:41] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 12:59:45] RAM Usage: 9%
+CPU Usage: 2%
+[2024-06-25 12:59:50] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 12:59:54] RAM Usage: 9%
+CPU Usage: 2%
+[2024-06-25 13:00:00] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 13:19:19] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:19:22] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:19:46] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 13:19:50] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:19:55] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 13:20:00] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:20:04] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 13:20:09] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:54:44] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:54:49] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:54:53] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:54:58] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 13:55:02] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:55:06] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:55:11] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 13:55:16] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:55:20] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:55:24] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:55:29] RAM Usage: 9%
+CPU Usage: 2%
+[2024-06-25 13:55:33] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 13:55:38] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:55:51] RAM Usage: 9%
+CPU Usage: 2%
+[2024-06-25 13:55:57] RAM Usage: 9%
+CPU Usage: 1%
+[2024-06-25 13:56:02] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:56:07] RAM Usage: 9%
+CPU Usage: 5%
+[2024-06-25 13:56:12] RAM Usage: 9%
+CPU Usage: 3%
+[2024-06-25 13:56:18] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:56:43] RAM Usage: 9%
+CPU Usage: 0%
+[2024-06-25 13:57:01] RAM Usage: 9%
 CPU Usage: 0%

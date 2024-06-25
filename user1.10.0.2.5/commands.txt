@@ -1,0 +1,169 @@
+ssh user1@10.0.2.15
+ssh aless@10.0.2.15
+ssh
+ssh aless@10.0.2.15
+ssh user1@10.0.2.15
+exit
+sudo apt-get install libnotify-bin
+ls
+bash solicitare.sh 
+ls
+cd Desktop/
+ls
+mkdir test123
+history
+sleep 1000
+history
+sudo vim .bashrc
+history
+ls
+history
+mkdir testmonitorizare
+history
+ls
+ps
+ps aux
+history
+ls
+who
+ifconfig
+ssh user1@10.0.2.15
+sudo vim ~/.bashrc
+ls
+history
+source ~/.bashrc
+ls
+cd Desktop/
+ls
+mkdir testhistory
+cd Downloads/
+history
+cd ..
+ls
+history
+vim ~/.bashrc
+ls
+mkdir test
+ls
+rm -rf test
+history
+history
+sudo vim ~/.bashrc
+ls
+history
+ls
+ls -l
+cd test123
+ls
+cd ..
+ls
+rm -rf test123
+rm -rf testhistory/
+ls
+history
+sudo vim ~/.bashrc
+ls
+history
+ls
+history
+ls
+cd Desktop/
+ls
+mkdir testistoric
+ls
+ls
+rm -rf testistoric/
+ls
+history
+ls
+mkdir testnou
+rm -rf testnou/
+ssh user1@10.0.2.15
+#1719301321
+ls
+history
+cd ..
+ls
+vim ~/.bashrc
+#1719301760
+ls
+#1719301764
+vim ~/.bashrc
+#1719301798
+history
+#1719302009
+ls
+#1719302010
+history
+cd ..
+ls
+mkdir mileanos
+rm -rf mileanos/
+ls
+cd Desktop/
+history
+ps | grep sleep
+ps aux
+ps aux | grep sleep
+#1719303954
+sleep 1000
+#1719306605
+exit
+#1719307231
+sudo visudo
+#1719307291
+sudo vim visudo
+#1719307301
+sudo visudo
+#1719307709
+code .
+#1719307715
+sudo apt-get install code
+#1719307719
+sudo apt-get install visual-studio
+#1719307721
+ls
+#1719307726
+sudo apt-get install vim
+#1719307737
+gedit
+#1719307739
+gedit ana
+cd ..
+ls
+cd Desktop/
+ls
+cd ..
+ls
+#1719310836
+cd ..
+#1719310836
+ls
+#1719310839
+cd /home/aless/Desktop/practica/MonitorizareSisteme
+#1719310840
+ls
+#1719310846
+cd ~/home/aless/Desktop/practica/MonitorizareSisteme
+#1719310847
+ls
+#1719310848
+clear
+#1719310849
+ls
+#1719310854
+cd user1/
+#1719310854
+ls
+#1719310860
+cat solicitare.sh 
+#1719310863
+cd Desktop/
+#1719310864
+ls
+#1719310865
+cd ..
+#1719310865
+ls
+#1719301325
+ssh user1@10.0.2.15

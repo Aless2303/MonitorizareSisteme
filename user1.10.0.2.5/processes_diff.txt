@@ -1,0 +1,4181 @@
+[2024-06-25 10:42:13] Diferențe procese:
+211c211
+<   13277 kworker/3:0-eve Tue Jun 25 10:35:21 2024
+---
+>   13277 kworker/3:0-cgr Tue Jun 25 10:35:21 2024
+217,219c217,220
+<   14552 sshd            Tue Jun 25 10:42:08 2024
+<   14560 sshd            Tue Jun 25 10:42:09 2024
+<   14561 ps              Tue Jun 25 10:42:09 2024
+---
+>   14564 kworker/3:2-eve Tue Jun 25 10:42:09 2024
+>   14619 sshd            Tue Jun 25 10:42:11 2024
+>   14627 sshd            Tue Jun 25 10:42:11 2024
+>   14628 ps              Tue Jun 25 10:42:11 2024
+[2024-06-25 10:42:16] Diferențe procese:
+207c207
+<   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+212c212
+<   13489 kworker/1:0-eve Tue Jun 25 10:37:27 2024
+---
+>   13489 kworker/1:0-cgr Tue Jun 25 10:37:27 2024
+218,220c218,221
+<   14619 sshd            Tue Jun 25 10:42:11 2024
+<   14627 sshd            Tue Jun 25 10:42:11 2024
+<   14628 ps              Tue Jun 25 10:42:11 2024
+---
+>   14642 kworker/2:0-cgr Tue Jun 25 10:42:11 2024
+>   14686 sshd            Tue Jun 25 10:42:13 2024
+>   14694 sshd            Tue Jun 25 10:42:13 2024
+>   14695 ps              Tue Jun 25 10:42:13 2024
+[2024-06-25 10:42:18] Diferențe procese:
+209c209
+<   13203 kworker/0:0-eve Tue Jun 25 10:35:15 2024
+---
+>   13203 kworker/0:0-cgr Tue Jun 25 10:35:15 2024
+212c212
+<   13489 kworker/1:0-cgr Tue Jun 25 10:37:27 2024
+---
+>   13489 kworker/1:0-eve Tue Jun 25 10:37:27 2024
+218,221c218,221
+<   14642 kworker/2:0-cgr Tue Jun 25 10:42:11 2024
+<   14686 sshd            Tue Jun 25 10:42:13 2024
+<   14694 sshd            Tue Jun 25 10:42:13 2024
+<   14695 ps              Tue Jun 25 10:42:13 2024
+---
+>   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+>   14752 sshd            Tue Jun 25 10:42:16 2024
+>   14760 sshd            Tue Jun 25 10:42:16 2024
+>   14761 ps              Tue Jun 25 10:42:16 2024
+[2024-06-25 10:42:20] Diferențe procese:
+205c205
+<   12457 kworker/u8:1-fl Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+213c213
+<   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-fl Tue Jun 25 10:37:37 2024
+219,221c219,221
+<   14752 sshd            Tue Jun 25 10:42:16 2024
+<   14760 sshd            Tue Jun 25 10:42:16 2024
+<   14761 ps              Tue Jun 25 10:42:16 2024
+---
+>   14818 sshd            Tue Jun 25 10:42:18 2024
+>   14826 sshd            Tue Jun 25 10:42:18 2024
+>   14827 ps              Tue Jun 25 10:42:18 2024
+[2024-06-25 10:42:23] Diferențe procese:
+205c205
+<   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+209c209
+<   13203 kworker/0:0-cgr Tue Jun 25 10:35:15 2024
+---
+>   13203 kworker/0:0-eve Tue Jun 25 10:35:15 2024
+213c213
+<   13621 kworker/u8:3-fl Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+219,221c219,221
+<   14818 sshd            Tue Jun 25 10:42:18 2024
+<   14826 sshd            Tue Jun 25 10:42:18 2024
+<   14827 ps              Tue Jun 25 10:42:18 2024
+---
+>   14884 sshd            Tue Jun 25 10:42:20 2024
+>   14892 sshd            Tue Jun 25 10:42:21 2024
+>   14893 ps              Tue Jun 25 10:42:21 2024
+[2024-06-25 10:42:25] Diferențe procese:
+214c214
+<   13930 kworker/0:3-eve Tue Jun 25 10:38:00 2024
+---
+>   13930 kworker/0:3-cgr Tue Jun 25 10:38:00 2024
+217c217
+<   14564 kworker/3:2-eve Tue Jun 25 10:42:09 2024
+---
+>   14564 kworker/3:2-cgr Tue Jun 25 10:42:09 2024
+219,221c219,221
+<   14884 sshd            Tue Jun 25 10:42:20 2024
+<   14892 sshd            Tue Jun 25 10:42:21 2024
+<   14893 ps              Tue Jun 25 10:42:21 2024
+---
+>   14950 sshd            Tue Jun 25 10:42:23 2024
+>   14958 sshd            Tue Jun 25 10:42:23 2024
+>   14959 ps              Tue Jun 25 10:42:23 2024
+[2024-06-25 10:42:27] Diferențe procese:
+217c217
+<   14564 kworker/3:2-cgr Tue Jun 25 10:42:09 2024
+---
+>   14564 kworker/3:2-eve Tue Jun 25 10:42:09 2024
+219,221c219,221
+<   14950 sshd            Tue Jun 25 10:42:23 2024
+<   14958 sshd            Tue Jun 25 10:42:23 2024
+<   14959 ps              Tue Jun 25 10:42:23 2024
+---
+>   15018 sshd            Tue Jun 25 10:42:25 2024
+>   15026 sshd            Tue Jun 25 10:42:25 2024
+>   15027 ps              Tue Jun 25 10:42:25 2024
+[2024-06-25 10:42:30] Diferențe procese:
+203c203
+<   11649 kworker/1:1-eve Tue Jun 25 10:21:02 2024
+---
+>   11649 kworker/1:1-cgr Tue Jun 25 10:21:02 2024
+219,221c219,221
+<   15018 sshd            Tue Jun 25 10:42:25 2024
+<   15026 sshd            Tue Jun 25 10:42:25 2024
+<   15027 ps              Tue Jun 25 10:42:25 2024
+---
+>   15084 sshd            Tue Jun 25 10:42:27 2024
+>   15092 sshd            Tue Jun 25 10:42:28 2024
+>   15093 ps              Tue Jun 25 10:42:28 2024
+[2024-06-25 10:42:32] Diferențe procese:
+202c202
+<   11634 kworker/2:1-eve Tue Jun 25 10:20:59 2024
+---
+>   11634 kworker/2:1-cgr Tue Jun 25 10:20:59 2024
+205c205
+<   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1-fl Tue Jun 25 10:24:48 2024
+213,214c213,214
+<   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+<   13930 kworker/0:3-cgr Tue Jun 25 10:38:00 2024
+---
+>   13621 kworker/u8:3-wr Tue Jun 25 10:37:37 2024
+>   13930 kworker/0:3-eve Tue Jun 25 10:38:00 2024
+219,221c219,221
+<   15084 sshd            Tue Jun 25 10:42:27 2024
+<   15092 sshd            Tue Jun 25 10:42:28 2024
+<   15093 ps              Tue Jun 25 10:42:28 2024
+---
+>   15150 sshd            Tue Jun 25 10:42:30 2024
+>   15158 sshd            Tue Jun 25 10:42:30 2024
+>   15159 ps              Tue Jun 25 10:42:30 2024
+[2024-06-25 10:42:35] Diferențe procese:
+202c202
+<   11634 kworker/2:1-cgr Tue Jun 25 10:20:59 2024
+---
+>   11634 kworker/2:1-eve Tue Jun 25 10:20:59 2024
+209c209
+<   13203 kworker/0:0-eve Tue Jun 25 10:35:15 2024
+---
+>   13203 kworker/0:0-mm_ Tue Jun 25 10:35:15 2024
+213c213
+<   13621 kworker/u8:3-wr Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+219,221c219,221
+<   15150 sshd            Tue Jun 25 10:42:30 2024
+<   15158 sshd            Tue Jun 25 10:42:30 2024
+<   15159 ps              Tue Jun 25 10:42:30 2024
+---
+>   15216 sshd            Tue Jun 25 10:42:32 2024
+>   15224 sshd            Tue Jun 25 10:42:32 2024
+>   15225 ps              Tue Jun 25 10:42:32 2024
+[2024-06-25 10:42:37] Diferențe procese:
+203c203
+<   11649 kworker/1:1-cgr Tue Jun 25 10:21:02 2024
+---
+>   11649 kworker/1:1-eve Tue Jun 25 10:21:02 2024
+209c209
+<   13203 kworker/0:0-mm_ Tue Jun 25 10:35:15 2024
+---
+>   13203 kworker/0:0-eve Tue Jun 25 10:35:15 2024
+219,221c219,221
+<   15216 sshd            Tue Jun 25 10:42:32 2024
+<   15224 sshd            Tue Jun 25 10:42:32 2024
+<   15225 ps              Tue Jun 25 10:42:32 2024
+---
+>   15282 sshd            Tue Jun 25 10:42:35 2024
+>   15290 sshd            Tue Jun 25 10:42:35 2024
+>   15291 ps              Tue Jun 25 10:42:35 2024
+[2024-06-25 10:42:39] Diferențe procese:
+208d207
+<   13187 kworker/1:2-cgr Tue Jun 25 10:32:17 2024
+219,221c218,220
+<   15282 sshd            Tue Jun 25 10:42:35 2024
+<   15290 sshd            Tue Jun 25 10:42:35 2024
+<   15291 ps              Tue Jun 25 10:42:35 2024
+---
+>   15348 sshd            Tue Jun 25 10:42:37 2024
+>   15356 sshd            Tue Jun 25 10:42:37 2024
+>   15357 ps              Tue Jun 25 10:42:37 2024
+[2024-06-25 10:42:44] Diferențe procese:
+203c203
+<   11649 kworker/1:1-eve Tue Jun 25 10:21:02 2024
+---
+>   11649 kworker/1:1-cgr Tue Jun 25 10:21:02 2024
+205c205
+<   12457 kworker/u8:1-fl Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+216,220c216,221
+<   14564 kworker/3:2-eve Tue Jun 25 10:42:09 2024
+<   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+<   15348 sshd            Tue Jun 25 10:42:37 2024
+<   15356 sshd            Tue Jun 25 10:42:37 2024
+<   15357 ps              Tue Jun 25 10:42:37 2024
+---
+>   14564 kworker/3:2-cgr Tue Jun 25 10:42:09 2024
+>   14642 kworker/2:0-cgr Tue Jun 25 10:42:11 2024
+>   15360 kworker/1:2-eve Tue Jun 25 10:42:37 2024
+>   15415 sshd            Tue Jun 25 10:42:42 2024
+>   15423 sshd            Tue Jun 25 10:42:42 2024
+>   15424 ps              Tue Jun 25 10:42:42 2024
+[2024-06-25 10:42:49] Diferențe procese:
+205c205
+<   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1-wr Tue Jun 25 10:24:48 2024
+212c212
+<   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-fl Tue Jun 25 10:37:37 2024
+216c216
+<   14564 kworker/3:2-cgr Tue Jun 25 10:42:09 2024
+---
+>   14564 kworker/3:2-eve Tue Jun 25 10:42:09 2024
+218,221c218,221
+<   15360 kworker/1:2-eve Tue Jun 25 10:42:37 2024
+<   15415 sshd            Tue Jun 25 10:42:42 2024
+<   15423 sshd            Tue Jun 25 10:42:42 2024
+<   15424 ps              Tue Jun 25 10:42:42 2024
+---
+>   15360 kworker/1:2-cgr Tue Jun 25 10:42:37 2024
+>   15481 sshd            Tue Jun 25 10:42:47 2024
+>   15489 sshd            Tue Jun 25 10:42:47 2024
+>   15490 ps              Tue Jun 25 10:42:47 2024
+[2024-06-25 10:42:54] Diferențe procese:
+205c205
+<   12457 kworker/u8:1-wr Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+218,221c218,221
+<   15360 kworker/1:2-cgr Tue Jun 25 10:42:37 2024
+<   15481 sshd            Tue Jun 25 10:42:47 2024
+<   15489 sshd            Tue Jun 25 10:42:47 2024
+<   15490 ps              Tue Jun 25 10:42:47 2024
+---
+>   15360 kworker/1:2-eve Tue Jun 25 10:42:37 2024
+>   15547 sshd            Tue Jun 25 10:42:51 2024
+>   15555 sshd            Tue Jun 25 10:42:51 2024
+>   15556 ps              Tue Jun 25 10:42:51 2024
+[2024-06-25 10:42:59] Diferențe procese:
+200d199
+<   10136 kworker/u8:0-ev Tue Jun 25 10:11:54 2024
+205c204
+<   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+208c207
+<   13203 kworker/0:0-eve Tue Jun 25 10:35:15 2024
+---
+>   13203 kworker/0:0-cgr Tue Jun 25 10:35:15 2024
+219,221c218,220
+<   15547 sshd            Tue Jun 25 10:42:51 2024
+<   15555 sshd            Tue Jun 25 10:42:51 2024
+<   15556 ps              Tue Jun 25 10:42:51 2024
+---
+>   15628 sshd            Tue Jun 25 10:42:57 2024
+>   15636 sshd            Tue Jun 25 10:42:57 2024
+>   15637 ps              Tue Jun 25 10:42:57 2024
+[2024-06-25 10:43:04] Diferențe procese:
+204c204
+<   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+207c207
+<   13203 kworker/0:0-cgr Tue Jun 25 10:35:15 2024
+---
+>   13203 kworker/0:0-eve Tue Jun 25 10:35:15 2024
+211c211
+<   13621 kworker/u8:3-fl Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+216c216
+<   14642 kworker/2:0-cgr Tue Jun 25 10:42:11 2024
+---
+>   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+218,220c218,220
+<   15628 sshd            Tue Jun 25 10:42:57 2024
+<   15636 sshd            Tue Jun 25 10:42:57 2024
+<   15637 ps              Tue Jun 25 10:42:57 2024
+---
+>   15694 sshd            Tue Jun 25 10:43:01 2024
+>   15702 sshd            Tue Jun 25 10:43:01 2024
+>   15703 ps              Tue Jun 25 10:43:02 2024
+[2024-06-25 10:43:09] Diferențe procese:
+203c203
+<   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-mm_ Tue Jun 25 10:21:16 2024
+216c216
+<   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+---
+>   14642 kworker/2:0-mm_ Tue Jun 25 10:42:11 2024
+218,220c218,220
+<   15694 sshd            Tue Jun 25 10:43:01 2024
+<   15702 sshd            Tue Jun 25 10:43:01 2024
+<   15703 ps              Tue Jun 25 10:43:02 2024
+---
+>   15760 sshd            Tue Jun 25 10:43:06 2024
+>   15768 sshd            Tue Jun 25 10:43:06 2024
+>   15769 ps              Tue Jun 25 10:43:06 2024
+[2024-06-25 10:43:13] Diferențe procese:
+200,201c200
+<   10152 kworker/0:1-eve Tue Jun 25 10:15:28 2024
+<   11634 kworker/2:1-eve Tue Jun 25 10:20:59 2024
+---
+>   11634 kworker/2:1-cgr Tue Jun 25 10:20:59 2024
+203c202
+<   11849 kworker/3:1-mm_ Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+205d203
+<   12652 kworker/0:2-eve Tue Jun 25 10:26:25 2024
+211c209
+<   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-fl Tue Jun 25 10:37:37 2024
+216c214
+<   14642 kworker/2:0-mm_ Tue Jun 25 10:42:11 2024
+---
+>   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+218,220c216,219
+<   15760 sshd            Tue Jun 25 10:43:06 2024
+<   15768 sshd            Tue Jun 25 10:43:06 2024
+<   15769 ps              Tue Jun 25 10:43:06 2024
+---
+>   15772 kworker/u8:0    Tue Jun 25 10:43:06 2024
+>   15827 sshd            Tue Jun 25 10:43:11 2024
+>   15835 sshd            Tue Jun 25 10:43:11 2024
+>   15836 ps              Tue Jun 25 10:43:11 2024
+[2024-06-25 10:43:18] Diferențe procese:
+200c200
+<   11634 kworker/2:1-cgr Tue Jun 25 10:20:59 2024
+---
+>   11634 kworker/2:1-eve Tue Jun 25 10:20:59 2024
+203c203
+<   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+209c209
+<   13621 kworker/u8:3-fl Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+216,219c216,220
+<   15772 kworker/u8:0    Tue Jun 25 10:43:06 2024
+<   15827 sshd            Tue Jun 25 10:43:11 2024
+<   15835 sshd            Tue Jun 25 10:43:11 2024
+<   15836 ps              Tue Jun 25 10:43:11 2024
+---
+>   15772 kworker/u8:0-ev Tue Jun 25 10:43:06 2024
+>   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+>   15894 sshd            Tue Jun 25 10:43:16 2024
+>   15902 sshd            Tue Jun 25 10:43:16 2024
+>   15903 ps              Tue Jun 25 10:43:16 2024
+[2024-06-25 10:43:23] Diferențe procese:
+216,220c216,220
+<   15772 kworker/u8:0-ev Tue Jun 25 10:43:06 2024
+<   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+<   15894 sshd            Tue Jun 25 10:43:16 2024
+<   15902 sshd            Tue Jun 25 10:43:16 2024
+<   15903 ps              Tue Jun 25 10:43:16 2024
+---
+>   15772 kworker/u8:0-wr Tue Jun 25 10:43:06 2024
+>   15839 kworker/0:1-cgr Tue Jun 25 10:43:11 2024
+>   15960 sshd            Tue Jun 25 10:43:21 2024
+>   15968 sshd            Tue Jun 25 10:43:21 2024
+>   15969 ps              Tue Jun 25 10:43:21 2024
+[2024-06-25 10:43:28] Diferențe procese:
+209c209
+<   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-fl Tue Jun 25 10:37:37 2024
+216c216
+<   15772 kworker/u8:0-wr Tue Jun 25 10:43:06 2024
+---
+>   15772 kworker/u8:0-ev Tue Jun 25 10:43:06 2024
+218,220c218,220
+<   15960 sshd            Tue Jun 25 10:43:21 2024
+<   15968 sshd            Tue Jun 25 10:43:21 2024
+<   15969 ps              Tue Jun 25 10:43:21 2024
+---
+>   16026 sshd            Tue Jun 25 10:43:25 2024
+>   16034 sshd            Tue Jun 25 10:43:25 2024
+>   16035 ps              Tue Jun 25 10:43:25 2024
+[2024-06-25 10:43:32] Diferențe procese:
+209c209
+<   13621 kworker/u8:3-fl Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+213c213
+<   14564 kworker/3:2-eve Tue Jun 25 10:42:09 2024
+---
+>   14564 kworker/3:2-cgr Tue Jun 25 10:42:09 2024
+218,220c218,220
+<   16026 sshd            Tue Jun 25 10:43:25 2024
+<   16034 sshd            Tue Jun 25 10:43:25 2024
+<   16035 ps              Tue Jun 25 10:43:25 2024
+---
+>   16092 sshd            Tue Jun 25 10:43:30 2024
+>   16100 sshd            Tue Jun 25 10:43:30 2024
+>   16101 ps              Tue Jun 25 10:43:30 2024
+[2024-06-25 10:43:37] Diferențe procese:
+213c213
+<   14564 kworker/3:2-cgr Tue Jun 25 10:42:09 2024
+---
+>   14564 kworker/3:2-eve Tue Jun 25 10:42:09 2024
+217,220c217,220
+<   15839 kworker/0:1-cgr Tue Jun 25 10:43:11 2024
+<   16092 sshd            Tue Jun 25 10:43:30 2024
+<   16100 sshd            Tue Jun 25 10:43:30 2024
+<   16101 ps              Tue Jun 25 10:43:30 2024
+---
+>   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+>   16158 sshd            Tue Jun 25 10:43:35 2024
+>   16166 sshd            Tue Jun 25 10:43:35 2024
+>   16167 ps              Tue Jun 25 10:43:35 2024
+[2024-06-25 10:43:42] Diferențe procese:
+203c203
+<   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+209c209
+<   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-wr Tue Jun 25 10:37:37 2024
+216c216
+<   15772 kworker/u8:0-ev Tue Jun 25 10:43:06 2024
+---
+>   15772 kworker/u8:0-ex Tue Jun 25 10:43:06 2024
+218,220c218,220
+<   16158 sshd            Tue Jun 25 10:43:35 2024
+<   16166 sshd            Tue Jun 25 10:43:35 2024
+<   16167 ps              Tue Jun 25 10:43:35 2024
+---
+>   16224 sshd            Tue Jun 25 10:43:39 2024
+>   16232 sshd            Tue Jun 25 10:43:40 2024
+>   16233 ps              Tue Jun 25 10:43:40 2024
+[2024-06-25 10:43:47] Diferențe procese:
+209c209
+<   13621 kworker/u8:3-wr Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+216c216
+<   15772 kworker/u8:0-ex Tue Jun 25 10:43:06 2024
+---
+>   15772 kworker/u8:0-ev Tue Jun 25 10:43:06 2024
+218,220c218,220
+<   16224 sshd            Tue Jun 25 10:43:39 2024
+<   16232 sshd            Tue Jun 25 10:43:40 2024
+<   16233 ps              Tue Jun 25 10:43:40 2024
+---
+>   16290 sshd            Tue Jun 25 10:43:44 2024
+>   16298 sshd            Tue Jun 25 10:43:44 2024
+>   16299 ps              Tue Jun 25 10:43:44 2024
+[2024-06-25 10:43:51] Diferențe procese:
+209c209
+<   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ex Tue Jun 25 10:37:37 2024
+217,220c217,220
+<   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+<   16290 sshd            Tue Jun 25 10:43:44 2024
+<   16298 sshd            Tue Jun 25 10:43:44 2024
+<   16299 ps              Tue Jun 25 10:43:44 2024
+---
+>   15839 kworker/0:1-cgr Tue Jun 25 10:43:11 2024
+>   16356 sshd            Tue Jun 25 10:43:49 2024
+>   16364 sshd            Tue Jun 25 10:43:49 2024
+>   16365 ps              Tue Jun 25 10:43:49 2024
+[2024-06-25 10:43:56] Diferențe procese:
+218,220c218,220
+<   16356 sshd            Tue Jun 25 10:43:49 2024
+<   16364 sshd            Tue Jun 25 10:43:49 2024
+<   16365 ps              Tue Jun 25 10:43:49 2024
+---
+>   16423 sshd            Tue Jun 25 10:43:54 2024
+>   16431 sshd            Tue Jun 25 10:43:54 2024
+>   16432 ps              Tue Jun 25 10:43:54 2024
+[2024-06-25 10:44:02] Diferențe procese:
+209c209
+<   13621 kworker/u8:3-ex Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+217,220c217,220
+<   15839 kworker/0:1-cgr Tue Jun 25 10:43:11 2024
+<   16423 sshd            Tue Jun 25 10:43:54 2024
+<   16431 sshd            Tue Jun 25 10:43:54 2024
+<   16432 ps              Tue Jun 25 10:43:54 2024
+---
+>   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+>   16504 sshd            Tue Jun 25 10:43:59 2024
+>   16512 sshd            Tue Jun 25 10:43:59 2024
+>   16513 ps              Tue Jun 25 10:43:59 2024
+[2024-06-25 10:44:07] Diferențe procese:
+200c200
+<   11634 kworker/2:1-eve Tue Jun 25 10:20:59 2024
+---
+>   11634 kworker/2:1-cgr Tue Jun 25 10:20:59 2024
+218,220c218,220
+<   16504 sshd            Tue Jun 25 10:43:59 2024
+<   16512 sshd            Tue Jun 25 10:43:59 2024
+<   16513 ps              Tue Jun 25 10:43:59 2024
+---
+>   16570 sshd            Tue Jun 25 10:44:05 2024
+>   16578 sshd            Tue Jun 25 10:44:05 2024
+>   16579 ps              Tue Jun 25 10:44:05 2024
+[2024-06-25 10:44:12] Diferențe procese:
+200c200
+<   11634 kworker/2:1-cgr Tue Jun 25 10:20:59 2024
+---
+>   11634 kworker/2:1-eve Tue Jun 25 10:20:59 2024
+202,203c202,203
+<   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+<   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+---
+>   11849 kworker/3:1-cgr Tue Jun 25 10:21:16 2024
+>   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+209c209
+<   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ex Tue Jun 25 10:37:37 2024
+216,220c216,220
+<   15772 kworker/u8:0-ev Tue Jun 25 10:43:06 2024
+<   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+<   16570 sshd            Tue Jun 25 10:44:05 2024
+<   16578 sshd            Tue Jun 25 10:44:05 2024
+<   16579 ps              Tue Jun 25 10:44:05 2024
+---
+>   15772 kworker/u8:0-ex Tue Jun 25 10:43:06 2024
+>   15839 kworker/0:1-cgr Tue Jun 25 10:43:11 2024
+>   16636 sshd            Tue Jun 25 10:44:10 2024
+>   16644 sshd            Tue Jun 25 10:44:10 2024
+>   16645 ps              Tue Jun 25 10:44:10 2024
+[2024-06-25 10:44:17] Diferențe procese:
+209c209
+<   13621 kworker/u8:3-ex Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+216c216
+<   15772 kworker/u8:0-ex Tue Jun 25 10:43:06 2024
+---
+>   15772 kworker/u8:0-ev Tue Jun 25 10:43:06 2024
+218,220c218,220
+<   16636 sshd            Tue Jun 25 10:44:10 2024
+<   16644 sshd            Tue Jun 25 10:44:10 2024
+<   16645 ps              Tue Jun 25 10:44:10 2024
+---
+>   16702 sshd            Tue Jun 25 10:44:14 2024
+>   16710 sshd            Tue Jun 25 10:44:15 2024
+>   16711 ps              Tue Jun 25 10:44:15 2024
+[2024-06-25 10:45:47] Diferențe procese:
+200c200
+<   11634 kworker/2:1-eve Tue Jun 25 10:20:59 2024
+---
+>   11634 kworker/2:1-cgr Tue Jun 25 10:20:59 2024
+203c203
+<   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+205c205
+<   13203 kworker/0:0-eve Tue Jun 25 10:35:15 2024
+---
+>   13203 kworker/0:0-cgr Tue Jun 25 10:35:15 2024
+214,220c214,221
+<   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+<   15360 kworker/1:2-eve Tue Jun 25 10:42:37 2024
+<   15772 kworker/u8:0-ev Tue Jun 25 10:43:06 2024
+<   15839 kworker/0:1-cgr Tue Jun 25 10:43:11 2024
+<   16702 sshd            Tue Jun 25 10:44:14 2024
+<   16710 sshd            Tue Jun 25 10:44:15 2024
+<   16711 ps              Tue Jun 25 10:44:15 2024
+---
+>   14642 kworker/2:0-cgr Tue Jun 25 10:42:11 2024
+>   15360 kworker/1:2-cgr Tue Jun 25 10:42:37 2024
+>   15772 kworker/u8:0-ex Tue Jun 25 10:43:06 2024
+>   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+>   16754 kworker/2:3-eve Tue Jun 25 10:45:37 2024
+>   16780 sshd            Tue Jun 25 10:45:45 2024
+>   16788 sshd            Tue Jun 25 10:45:45 2024
+>   16789 ps              Tue Jun 25 10:45:45 2024
+[2024-06-25 10:45:52] Diferențe procese:
+1,221d0
+<     PID COMMAND                          STARTED
+<       1 systemd         Tue Jun 25 08:09:20 2024
+<       2 kthreadd        Tue Jun 25 08:09:20 2024
+<       3 rcu_gp          Tue Jun 25 08:09:20 2024
+<       4 rcu_par_gp      Tue Jun 25 08:09:20 2024
+<       5 slub_flushwq    Tue Jun 25 08:09:20 2024
+<       6 netns           Tue Jun 25 08:09:20 2024
+<       8 kworker/0:0H-ev Tue Jun 25 08:09:20 2024
+<      10 mm_percpu_wq    Tue Jun 25 08:09:20 2024
+<      11 rcu_tasks_rude_ Tue Jun 25 08:09:20 2024
+<      12 rcu_tasks_trace Tue Jun 25 08:09:20 2024
+<      13 ksoftirqd/0     Tue Jun 25 08:09:20 2024
+<      14 rcu_sched       Tue Jun 25 08:09:20 2024
+<      15 migration/0     Tue Jun 25 08:09:20 2024
+<      16 idle_inject/0   Tue Jun 25 08:09:20 2024
+<      18 cpuhp/0         Tue Jun 25 08:09:20 2024
+<      19 cpuhp/1         Tue Jun 25 08:09:20 2024
+<      20 idle_inject/1   Tue Jun 25 08:09:20 2024
+<      21 migration/1     Tue Jun 25 08:09:20 2024
+<      22 ksoftirqd/1     Tue Jun 25 08:09:20 2024
+<      24 kworker/1:0H-ev Tue Jun 25 08:09:20 2024
+<      25 cpuhp/2         Tue Jun 25 08:09:20 2024
+<      26 idle_inject/2   Tue Jun 25 08:09:20 2024
+<      27 migration/2     Tue Jun 25 08:09:20 2024
+<      28 ksoftirqd/2     Tue Jun 25 08:09:20 2024
+<      30 kworker/2:0H-ev Tue Jun 25 08:09:20 2024
+<      31 cpuhp/3         Tue Jun 25 08:09:20 2024
+<      32 idle_inject/3   Tue Jun 25 08:09:20 2024
+<      33 migration/3     Tue Jun 25 08:09:20 2024
+<      34 ksoftirqd/3     Tue Jun 25 08:09:20 2024
+<      36 kworker/3:0H-ev Tue Jun 25 08:09:20 2024
+<      37 kdevtmpfs       Tue Jun 25 08:09:20 2024
+<      38 inet_frag_wq    Tue Jun 25 08:09:20 2024
+<      39 kauditd         Tue Jun 25 08:09:20 2024
+<      40 khungtaskd      Tue Jun 25 08:09:20 2024
+<      41 oom_reaper      Tue Jun 25 08:09:20 2024
+<      42 writeback       Tue Jun 25 08:09:20 2024
+<      43 kcompactd0      Tue Jun 25 08:09:20 2024
+<      44 ksmd            Tue Jun 25 08:09:20 2024
+<      45 khugepaged      Tue Jun 25 08:09:20 2024
+<      94 kintegrityd     Tue Jun 25 08:09:20 2024
+<      95 kblockd         Tue Jun 25 08:09:20 2024
+<      96 blkcg_punt_bio  Tue Jun 25 08:09:20 2024
+<      97 tpm_dev_wq      Tue Jun 25 08:09:20 2024
+<      98 ata_sff         Tue Jun 25 08:09:20 2024
+<      99 md              Tue Jun 25 08:09:20 2024
+<     100 edac-poller     Tue Jun 25 08:09:20 2024
+<     101 devfreq_wq      Tue Jun 25 08:09:20 2024
+<     102 watchdogd       Tue Jun 25 08:09:20 2024
+<     104 kworker/0:1H-kb Tue Jun 25 08:09:20 2024
+<     106 kswapd0         Tue Jun 25 08:09:20 2024
+<     107 ecryptfs-kthrea Tue Jun 25 08:09:20 2024
+<     109 kthrotld        Tue Jun 25 08:09:20 2024
+<     110 acpi_thermal_pm Tue Jun 25 08:09:20 2024
+<     112 scsi_eh_0       Tue Jun 25 08:09:20 2024
+<     113 scsi_tmf_0      Tue Jun 25 08:09:20 2024
+<     114 scsi_eh_1       Tue Jun 25 08:09:20 2024
+<     115 scsi_tmf_1      Tue Jun 25 08:09:20 2024
+<     117 vfio-irqfd-clea Tue Jun 25 08:09:20 2024
+<     118 mld             Tue Jun 25 08:09:21 2024
+<     119 ipv6_addrconf   Tue Jun 25 08:09:21 2024
+<     120 kworker/2:1H-kb Tue Jun 25 08:09:21 2024
+<     130 kstrp           Tue Jun 25 08:09:21 2024
+<     133 zswap-shrink    Tue Jun 25 08:09:21 2024
+<     134 kworker/u9:0    Tue Jun 25 08:09:21 2024
+<     139 charger_manager Tue Jun 25 08:09:21 2024
+<     180 kworker/1:1H-kb Tue Jun 25 08:09:22 2024
+<     184 cryptd          Tue Jun 25 08:09:22 2024
+<     198 kworker/3:1H-kb Tue Jun 25 08:09:22 2024
+<     204 scsi_eh_2       Tue Jun 25 08:09:22 2024
+<     205 scsi_tmf_2      Tue Jun 25 08:09:22 2024
+<     217 ttm_swap        Tue Jun 25 08:09:22 2024
+<     218 irq/18-vmwgfx   Tue Jun 25 08:09:22 2024
+<     219 card0-crtc0     Tue Jun 25 08:09:22 2024
+<     220 card0-crtc1     Tue Jun 25 08:09:22 2024
+<     221 card0-crtc2     Tue Jun 25 08:09:22 2024
+<     222 card0-crtc3     Tue Jun 25 08:09:22 2024
+<     223 card0-crtc4     Tue Jun 25 08:09:22 2024
+<     224 card0-crtc5     Tue Jun 25 08:09:22 2024
+<     225 card0-crtc6     Tue Jun 25 08:09:22 2024
+<     226 card0-crtc7     Tue Jun 25 08:09:22 2024
+<     299 jbd2/sda3-8     Tue Jun 25 08:09:23 2024
+<     300 ext4-rsv-conver Tue Jun 25 08:09:23 2024
+<     350 systemd-journal Tue Jun 25 08:09:24 2024
+<     409 iprt-VBoxWQueue Tue Jun 25 08:09:24 2024
+<     532 spl_system_task Tue Jun 25 08:09:25 2024
+<     533 spl_delay_taskq Tue Jun 25 08:09:25 2024
+<     534 spl_dynamic_tas Tue Jun 25 08:09:25 2024
+<     535 spl_kmem_cache  Tue Jun 25 08:09:25 2024
+<     536 zvol            Tue Jun 25 08:09:25 2024
+<     537 arc_prune       Tue Jun 25 08:09:25 2024
+<     538 arc_evict       Tue Jun 25 08:09:25 2024
+<     539 arc_reap        Tue Jun 25 08:09:25 2024
+<     540 dbu_evict       Tue Jun 25 08:09:25 2024
+<     541 dbuf_evict      Tue Jun 25 08:09:25 2024
+<     542 z_vdev_file     Tue Jun 25 08:09:25 2024
+<     543 l2arc_feed      Tue Jun 25 08:09:25 2024
+<     579 systemd-resolve Tue Jun 25 08:09:25 2024
+<     580 systemd-timesyn Tue Jun 25 08:09:25 2024
+<     593 accounts-daemon Tue Jun 25 08:09:26 2024
+<     594 acpid           Tue Jun 25 08:09:26 2024
+<     596 avahi-daemon    Tue Jun 25 08:09:26 2024
+<     598 cron            Tue Jun 25 08:09:26 2024
+<     599 dbus-daemon     Tue Jun 25 08:09:26 2024
+<     600 NetworkManager  Tue Jun 25 08:09:26 2024
+<     609 irqbalance      Tue Jun 25 08:09:26 2024
+<     616 networkd-dispat Tue Jun 25 08:09:26 2024
+<     618 polkitd         Tue Jun 25 08:09:26 2024
+<     623 rsyslogd        Tue Jun 25 08:09:26 2024
+<     625 switcheroo-cont Tue Jun 25 08:09:26 2024
+<     630 systemd-logind  Tue Jun 25 08:09:26 2024
+<     631 touchegg        Tue Jun 25 08:09:26 2024
+<     634 udisksd         Tue Jun 25 08:09:26 2024
+<     637 wpa_supplicant  Tue Jun 25 08:09:26 2024
+<     644 zed             Tue Jun 25 08:09:26 2024
+<     668 avahi-daemon    Tue Jun 25 08:09:26 2024
+<     705 ModemManager    Tue Jun 25 08:09:26 2024
+<     792 cupsd           Tue Jun 25 08:09:26 2024
+<     809 sshd            Tue Jun 25 08:09:26 2024
+<     822 cups-browsed    Tue Jun 25 08:09:26 2024
+<     829 kerneloops      Tue Jun 25 08:09:26 2024
+<     832 kerneloops      Tue Jun 25 08:09:26 2024
+<    1111 lightdm         Tue Jun 25 08:09:27 2024
+<    1122 VBoxDRMClient   Tue Jun 25 08:09:27 2024
+<    1124 VBoxService     Tue Jun 25 08:09:27 2024
+<    1145 Xorg            Tue Jun 25 08:09:27 2024
+<    1147 agetty          Tue Jun 25 08:09:27 2024
+<    1176 lightdm         Tue Jun 25 08:09:28 2024
+<    1181 systemd         Tue Jun 25 08:09:28 2024
+<    1182 (sd-pam)        Tue Jun 25 08:09:28 2024
+<    1189 pipewire        Tue Jun 25 08:09:29 2024
+<    1190 pulseaudio      Tue Jun 25 08:09:29 2024
+<    1191 cinnamon-sessio Tue Jun 25 08:09:29 2024
+<    1192 rtkit-daemon    Tue Jun 25 08:09:29 2024
+<    1201 dbus-daemon     Tue Jun 25 08:09:29 2024
+<    1327 VBoxClient      Tue Jun 25 08:09:29 2024
+<    1328 VBoxClient      Tue Jun 25 08:09:29 2024
+<    1342 VBoxClient      Tue Jun 25 08:09:29 2024
+<    1343 VBoxClient      Tue Jun 25 08:09:29 2024
+<    1350 VBoxClient      Tue Jun 25 08:09:29 2024
+<    1351 VBoxClient      Tue Jun 25 08:09:29 2024
+<    1359 VBoxClient      Tue Jun 25 08:09:29 2024
+<    1360 VBoxClient      Tue Jun 25 08:09:29 2024
+<    1450 gnome-keyring-d Tue Jun 25 08:09:30 2024
+<    1459 csd-xsettings   Tue Jun 25 08:09:30 2024
+<    1462 csd-clipboard   Tue Jun 25 08:09:30 2024
+<    1463 csd-keyboard    Tue Jun 25 08:09:30 2024
+<    1464 csd-media-keys  Tue Jun 25 08:09:30 2024
+<    1465 csd-settings-re Tue Jun 25 08:09:30 2024
+<    1468 csd-screensaver Tue Jun 25 08:09:30 2024
+<    1469 csd-print-notif Tue Jun 25 08:09:30 2024
+<    1470 csd-background  Tue Jun 25 08:09:30 2024
+<    1476 csd-power       Tue Jun 25 08:09:30 2024
+<    1479 csd-housekeepin Tue Jun 25 08:09:30 2024
+<    1481 csd-color       Tue Jun 25 08:09:30 2024
+<    1482 csd-a11y-settin Tue Jun 25 08:09:30 2024
+<    1485 csd-wacom       Tue Jun 25 08:09:30 2024
+<    1488 gvfsd           Tue Jun 25 08:09:30 2024
+<    1491 csd-automount   Tue Jun 25 08:09:30 2024
+<    1503 dconf-service   Tue Jun 25 08:09:30 2024
+<    1507 gvfsd-fuse      Tue Jun 25 08:09:30 2024
+<    1513 at-spi-bus-laun Tue Jun 25 08:09:30 2024
+<    1525 dbus-daemon     Tue Jun 25 08:09:30 2024
+<    1534 at-spi2-registr Tue Jun 25 08:09:30 2024
+<    1550 csd-printer     Tue Jun 25 08:09:30 2024
+<    1557 colord          Tue Jun 25 08:09:30 2024
+<    1558 upowerd         Tue Jun 25 08:09:30 2024
+<    1572 gvfs-udisks2-vo Tue Jun 25 08:09:30 2024
+<    1581 gvfs-goa-volume Tue Jun 25 08:09:30 2024
+<    1591 goa-daemon      Tue Jun 25 08:09:30 2024
+<    1596 cinnamon-launch Tue Jun 25 08:09:31 2024
+<    1607 goa-identity-se Tue Jun 25 08:09:31 2024
+<    1612 gvfs-mtp-volume Tue Jun 25 08:09:31 2024
+<    1616 gvfs-afc-volume Tue Jun 25 08:09:31 2024
+<    1622 gvfs-gphoto2-vo Tue Jun 25 08:09:31 2024
+<    1633 cinnamon        Tue Jun 25 08:09:31 2024
+<    1663 xapp-sn-watcher Tue Jun 25 08:09:33 2024
+<    1681 agent           Tue Jun 25 08:09:33 2024
+<    1684 evolution-alarm Tue Jun 25 08:09:33 2024
+<    1690 blueman-applet  Tue Jun 25 08:09:33 2024
+<    1697 nemo-desktop    Tue Jun 25 08:09:33 2024
+<    1698 nm-applet       Tue Jun 25 08:09:33 2024
+<    1700 polkit-gnome-au Tue Jun 25 08:09:33 2024
+<    1706 cinnamon-killer Tue Jun 25 08:09:33 2024
+<    1765 evolution-sourc Tue Jun 25 08:09:34 2024
+<    1792 evolution-calen Tue Jun 25 08:09:34 2024
+<    1810 evolution-addre Tue Jun 25 08:09:34 2024
+<    1843 obexd           Tue Jun 25 08:09:34 2024
+<    1875 gvfsd-trash     Tue Jun 25 08:09:36 2024
+<    1891 gvfsd-metadata  Tue Jun 25 08:09:36 2024
+<    1918 mintUpdate      Tue Jun 25 08:09:54 2024
+<    1970 applet.py       Tue Jun 25 08:10:03 2024
+<    1975 mintreport-tray Tue Jun 25 08:10:13 2024
+<    1988 gnome-terminal- Tue Jun 25 08:11:13 2024
+<    2023 ssh-agent       Tue Jun 25 08:11:23 2024
+<    2486 packagekitd     Tue Jun 25 08:19:58 2024
+<    7609 bash            Tue Jun 25 08:35:47 2024
+<    7623 bash            Tue Jun 25 08:35:48 2024
+<    8016 systemd-udevd   Tue Jun 25 09:10:02 2024
+<   11634 kworker/2:1-cgr Tue Jun 25 10:20:59 2024
+<   11649 kworker/1:1-cgr Tue Jun 25 10:21:02 2024
+<   11849 kworker/3:1-cgr Tue Jun 25 10:21:16 2024
+<   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+<   13203 kworker/0:0-cgr Tue Jun 25 10:35:15 2024
+<   13252 kworker/2:2-cgr Tue Jun 25 10:35:18 2024
+<   13277 kworker/3:0-cgr Tue Jun 25 10:35:21 2024
+<   13489 kworker/1:0-eve Tue Jun 25 10:37:27 2024
+<   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+<   13930 kworker/0:3-eve Tue Jun 25 10:38:00 2024
+<   14517 bash            Tue Jun 25 10:42:00 2024
+<   14525 ssh             Tue Jun 25 10:42:04 2024
+<   14564 kworker/3:2-eve Tue Jun 25 10:42:09 2024
+<   14642 kworker/2:0-cgr Tue Jun 25 10:42:11 2024
+<   15360 kworker/1:2-cgr Tue Jun 25 10:42:37 2024
+<   15772 kworker/u8:0-ex Tue Jun 25 10:43:06 2024
+<   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+<   16754 kworker/2:3-eve Tue Jun 25 10:45:37 2024
+<   16780 sshd            Tue Jun 25 10:45:45 2024
+<   16788 sshd            Tue Jun 25 10:45:45 2024
+<   16789 ps              Tue Jun 25 10:45:45 2024
+[2024-06-25 10:46:29] Diferențe procese:
+0a1,222
+>     PID COMMAND                          STARTED
+>       1 systemd         Tue Jun 25 08:09:20 2024
+>       2 kthreadd        Tue Jun 25 08:09:20 2024
+>       3 rcu_gp          Tue Jun 25 08:09:20 2024
+>       4 rcu_par_gp      Tue Jun 25 08:09:20 2024
+>       5 slub_flushwq    Tue Jun 25 08:09:20 2024
+>       6 netns           Tue Jun 25 08:09:20 2024
+>       8 kworker/0:0H-ev Tue Jun 25 08:09:20 2024
+>      10 mm_percpu_wq    Tue Jun 25 08:09:20 2024
+>      11 rcu_tasks_rude_ Tue Jun 25 08:09:20 2024
+>      12 rcu_tasks_trace Tue Jun 25 08:09:20 2024
+>      13 ksoftirqd/0     Tue Jun 25 08:09:20 2024
+>      14 rcu_sched       Tue Jun 25 08:09:20 2024
+>      15 migration/0     Tue Jun 25 08:09:20 2024
+>      16 idle_inject/0   Tue Jun 25 08:09:20 2024
+>      18 cpuhp/0         Tue Jun 25 08:09:20 2024
+>      19 cpuhp/1         Tue Jun 25 08:09:20 2024
+>      20 idle_inject/1   Tue Jun 25 08:09:20 2024
+>      21 migration/1     Tue Jun 25 08:09:20 2024
+>      22 ksoftirqd/1     Tue Jun 25 08:09:20 2024
+>      24 kworker/1:0H-ev Tue Jun 25 08:09:20 2024
+>      25 cpuhp/2         Tue Jun 25 08:09:20 2024
+>      26 idle_inject/2   Tue Jun 25 08:09:20 2024
+>      27 migration/2     Tue Jun 25 08:09:20 2024
+>      28 ksoftirqd/2     Tue Jun 25 08:09:20 2024
+>      30 kworker/2:0H-ev Tue Jun 25 08:09:20 2024
+>      31 cpuhp/3         Tue Jun 25 08:09:20 2024
+>      32 idle_inject/3   Tue Jun 25 08:09:20 2024
+>      33 migration/3     Tue Jun 25 08:09:20 2024
+>      34 ksoftirqd/3     Tue Jun 25 08:09:20 2024
+>      36 kworker/3:0H-ev Tue Jun 25 08:09:20 2024
+>      37 kdevtmpfs       Tue Jun 25 08:09:20 2024
+>      38 inet_frag_wq    Tue Jun 25 08:09:20 2024
+>      39 kauditd         Tue Jun 25 08:09:20 2024
+>      40 khungtaskd      Tue Jun 25 08:09:20 2024
+>      41 oom_reaper      Tue Jun 25 08:09:20 2024
+>      42 writeback       Tue Jun 25 08:09:20 2024
+>      43 kcompactd0      Tue Jun 25 08:09:20 2024
+>      44 ksmd            Tue Jun 25 08:09:20 2024
+>      45 khugepaged      Tue Jun 25 08:09:20 2024
+>      94 kintegrityd     Tue Jun 25 08:09:20 2024
+>      95 kblockd         Tue Jun 25 08:09:20 2024
+>      96 blkcg_punt_bio  Tue Jun 25 08:09:20 2024
+>      97 tpm_dev_wq      Tue Jun 25 08:09:20 2024
+>      98 ata_sff         Tue Jun 25 08:09:20 2024
+>      99 md              Tue Jun 25 08:09:20 2024
+>     100 edac-poller     Tue Jun 25 08:09:20 2024
+>     101 devfreq_wq      Tue Jun 25 08:09:20 2024
+>     102 watchdogd       Tue Jun 25 08:09:20 2024
+>     104 kworker/0:1H-kb Tue Jun 25 08:09:20 2024
+>     106 kswapd0         Tue Jun 25 08:09:20 2024
+>     107 ecryptfs-kthrea Tue Jun 25 08:09:20 2024
+>     109 kthrotld        Tue Jun 25 08:09:20 2024
+>     110 acpi_thermal_pm Tue Jun 25 08:09:20 2024
+>     112 scsi_eh_0       Tue Jun 25 08:09:20 2024
+>     113 scsi_tmf_0      Tue Jun 25 08:09:20 2024
+>     114 scsi_eh_1       Tue Jun 25 08:09:20 2024
+>     115 scsi_tmf_1      Tue Jun 25 08:09:20 2024
+>     117 vfio-irqfd-clea Tue Jun 25 08:09:20 2024
+>     118 mld             Tue Jun 25 08:09:21 2024
+>     119 ipv6_addrconf   Tue Jun 25 08:09:21 2024
+>     120 kworker/2:1H-kb Tue Jun 25 08:09:21 2024
+>     130 kstrp           Tue Jun 25 08:09:21 2024
+>     133 zswap-shrink    Tue Jun 25 08:09:21 2024
+>     134 kworker/u9:0    Tue Jun 25 08:09:21 2024
+>     139 charger_manager Tue Jun 25 08:09:21 2024
+>     180 kworker/1:1H-kb Tue Jun 25 08:09:22 2024
+>     184 cryptd          Tue Jun 25 08:09:22 2024
+>     198 kworker/3:1H-kb Tue Jun 25 08:09:22 2024
+>     204 scsi_eh_2       Tue Jun 25 08:09:22 2024
+>     205 scsi_tmf_2      Tue Jun 25 08:09:22 2024
+>     217 ttm_swap        Tue Jun 25 08:09:22 2024
+>     218 irq/18-vmwgfx   Tue Jun 25 08:09:22 2024
+>     219 card0-crtc0     Tue Jun 25 08:09:22 2024
+>     220 card0-crtc1     Tue Jun 25 08:09:22 2024
+>     221 card0-crtc2     Tue Jun 25 08:09:22 2024
+>     222 card0-crtc3     Tue Jun 25 08:09:22 2024
+>     223 card0-crtc4     Tue Jun 25 08:09:22 2024
+>     224 card0-crtc5     Tue Jun 25 08:09:22 2024
+>     225 card0-crtc6     Tue Jun 25 08:09:22 2024
+>     226 card0-crtc7     Tue Jun 25 08:09:22 2024
+>     299 jbd2/sda3-8     Tue Jun 25 08:09:23 2024
+>     300 ext4-rsv-conver Tue Jun 25 08:09:23 2024
+>     350 systemd-journal Tue Jun 25 08:09:24 2024
+>     409 iprt-VBoxWQueue Tue Jun 25 08:09:24 2024
+>     532 spl_system_task Tue Jun 25 08:09:25 2024
+>     533 spl_delay_taskq Tue Jun 25 08:09:25 2024
+>     534 spl_dynamic_tas Tue Jun 25 08:09:25 2024
+>     535 spl_kmem_cache  Tue Jun 25 08:09:25 2024
+>     536 zvol            Tue Jun 25 08:09:25 2024
+>     537 arc_prune       Tue Jun 25 08:09:25 2024
+>     538 arc_evict       Tue Jun 25 08:09:25 2024
+>     539 arc_reap        Tue Jun 25 08:09:25 2024
+>     540 dbu_evict       Tue Jun 25 08:09:25 2024
+>     541 dbuf_evict      Tue Jun 25 08:09:25 2024
+>     542 z_vdev_file     Tue Jun 25 08:09:25 2024
+>     543 l2arc_feed      Tue Jun 25 08:09:25 2024
+>     579 systemd-resolve Tue Jun 25 08:09:25 2024
+>     580 systemd-timesyn Tue Jun 25 08:09:25 2024
+>     593 accounts-daemon Tue Jun 25 08:09:26 2024
+>     594 acpid           Tue Jun 25 08:09:26 2024
+>     596 avahi-daemon    Tue Jun 25 08:09:26 2024
+>     598 cron            Tue Jun 25 08:09:26 2024
+>     599 dbus-daemon     Tue Jun 25 08:09:26 2024
+>     600 NetworkManager  Tue Jun 25 08:09:26 2024
+>     609 irqbalance      Tue Jun 25 08:09:26 2024
+>     616 networkd-dispat Tue Jun 25 08:09:26 2024
+>     618 polkitd         Tue Jun 25 08:09:26 2024
+>     623 rsyslogd        Tue Jun 25 08:09:26 2024
+>     625 switcheroo-cont Tue Jun 25 08:09:26 2024
+>     630 systemd-logind  Tue Jun 25 08:09:26 2024
+>     631 touchegg        Tue Jun 25 08:09:26 2024
+>     634 udisksd         Tue Jun 25 08:09:26 2024
+>     637 wpa_supplicant  Tue Jun 25 08:09:26 2024
+>     644 zed             Tue Jun 25 08:09:26 2024
+>     668 avahi-daemon    Tue Jun 25 08:09:26 2024
+>     705 ModemManager    Tue Jun 25 08:09:26 2024
+>     792 cupsd           Tue Jun 25 08:09:26 2024
+>     809 sshd            Tue Jun 25 08:09:26 2024
+>     822 cups-browsed    Tue Jun 25 08:09:26 2024
+>     829 kerneloops      Tue Jun 25 08:09:26 2024
+>     832 kerneloops      Tue Jun 25 08:09:26 2024
+>    1111 lightdm         Tue Jun 25 08:09:27 2024
+>    1122 VBoxDRMClient   Tue Jun 25 08:09:27 2024
+>    1124 VBoxService     Tue Jun 25 08:09:27 2024
+>    1145 Xorg            Tue Jun 25 08:09:27 2024
+>    1147 agetty          Tue Jun 25 08:09:27 2024
+>    1176 lightdm         Tue Jun 25 08:09:28 2024
+>    1181 systemd         Tue Jun 25 08:09:28 2024
+>    1182 (sd-pam)        Tue Jun 25 08:09:28 2024
+>    1189 pipewire        Tue Jun 25 08:09:29 2024
+>    1190 pulseaudio      Tue Jun 25 08:09:29 2024
+>    1191 cinnamon-sessio Tue Jun 25 08:09:29 2024
+>    1192 rtkit-daemon    Tue Jun 25 08:09:29 2024
+>    1201 dbus-daemon     Tue Jun 25 08:09:29 2024
+>    1327 VBoxClient      Tue Jun 25 08:09:29 2024
+>    1328 VBoxClient      Tue Jun 25 08:09:29 2024
+>    1342 VBoxClient      Tue Jun 25 08:09:29 2024
+>    1343 VBoxClient      Tue Jun 25 08:09:29 2024
+>    1350 VBoxClient      Tue Jun 25 08:09:29 2024
+>    1351 VBoxClient      Tue Jun 25 08:09:29 2024
+>    1359 VBoxClient      Tue Jun 25 08:09:29 2024
+>    1360 VBoxClient      Tue Jun 25 08:09:29 2024
+>    1450 gnome-keyring-d Tue Jun 25 08:09:30 2024
+>    1459 csd-xsettings   Tue Jun 25 08:09:30 2024
+>    1462 csd-clipboard   Tue Jun 25 08:09:30 2024
+>    1463 csd-keyboard    Tue Jun 25 08:09:30 2024
+>    1464 csd-media-keys  Tue Jun 25 08:09:30 2024
+>    1465 csd-settings-re Tue Jun 25 08:09:30 2024
+>    1468 csd-screensaver Tue Jun 25 08:09:30 2024
+>    1469 csd-print-notif Tue Jun 25 08:09:30 2024
+>    1470 csd-background  Tue Jun 25 08:09:30 2024
+>    1476 csd-power       Tue Jun 25 08:09:30 2024
+>    1479 csd-housekeepin Tue Jun 25 08:09:30 2024
+>    1481 csd-color       Tue Jun 25 08:09:30 2024
+>    1482 csd-a11y-settin Tue Jun 25 08:09:30 2024
+>    1485 csd-wacom       Tue Jun 25 08:09:30 2024
+>    1488 gvfsd           Tue Jun 25 08:09:30 2024
+>    1491 csd-automount   Tue Jun 25 08:09:30 2024
+>    1503 dconf-service   Tue Jun 25 08:09:30 2024
+>    1507 gvfsd-fuse      Tue Jun 25 08:09:30 2024
+>    1513 at-spi-bus-laun Tue Jun 25 08:09:30 2024
+>    1525 dbus-daemon     Tue Jun 25 08:09:30 2024
+>    1534 at-spi2-registr Tue Jun 25 08:09:30 2024
+>    1550 csd-printer     Tue Jun 25 08:09:30 2024
+>    1557 colord          Tue Jun 25 08:09:30 2024
+>    1558 upowerd         Tue Jun 25 08:09:30 2024
+>    1572 gvfs-udisks2-vo Tue Jun 25 08:09:30 2024
+>    1581 gvfs-goa-volume Tue Jun 25 08:09:30 2024
+>    1591 goa-daemon      Tue Jun 25 08:09:30 2024
+>    1596 cinnamon-launch Tue Jun 25 08:09:31 2024
+>    1607 goa-identity-se Tue Jun 25 08:09:31 2024
+>    1612 gvfs-mtp-volume Tue Jun 25 08:09:31 2024
+>    1616 gvfs-afc-volume Tue Jun 25 08:09:31 2024
+>    1622 gvfs-gphoto2-vo Tue Jun 25 08:09:31 2024
+>    1633 cinnamon        Tue Jun 25 08:09:31 2024
+>    1663 xapp-sn-watcher Tue Jun 25 08:09:33 2024
+>    1681 agent           Tue Jun 25 08:09:33 2024
+>    1684 evolution-alarm Tue Jun 25 08:09:33 2024
+>    1690 blueman-applet  Tue Jun 25 08:09:33 2024
+>    1697 nemo-desktop    Tue Jun 25 08:09:33 2024
+>    1698 nm-applet       Tue Jun 25 08:09:33 2024
+>    1700 polkit-gnome-au Tue Jun 25 08:09:33 2024
+>    1706 cinnamon-killer Tue Jun 25 08:09:33 2024
+>    1765 evolution-sourc Tue Jun 25 08:09:34 2024
+>    1792 evolution-calen Tue Jun 25 08:09:34 2024
+>    1810 evolution-addre Tue Jun 25 08:09:34 2024
+>    1843 obexd           Tue Jun 25 08:09:34 2024
+>    1875 gvfsd-trash     Tue Jun 25 08:09:36 2024
+>    1891 gvfsd-metadata  Tue Jun 25 08:09:36 2024
+>    1918 mintUpdate      Tue Jun 25 08:09:54 2024
+>    1970 applet.py       Tue Jun 25 08:10:03 2024
+>    1975 mintreport-tray Tue Jun 25 08:10:13 2024
+>    1988 gnome-terminal- Tue Jun 25 08:11:13 2024
+>    2023 ssh-agent       Tue Jun 25 08:11:23 2024
+>    2486 packagekitd     Tue Jun 25 08:19:58 2024
+>    7609 bash            Tue Jun 25 08:35:47 2024
+>    7623 bash            Tue Jun 25 08:35:48 2024
+>    8016 systemd-udevd   Tue Jun 25 09:10:02 2024
+>   11634 kworker/2:1-cgr Tue Jun 25 10:20:59 2024
+>   11649 kworker/1:1-cgr Tue Jun 25 10:21:02 2024
+>   11849 kworker/3:1-cgr Tue Jun 25 10:21:16 2024
+>   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+>   13203 kworker/0:0-cgr Tue Jun 25 10:35:15 2024
+>   13252 kworker/2:2-cgr Tue Jun 25 10:35:18 2024
+>   13277 kworker/3:0-cgr Tue Jun 25 10:35:21 2024
+>   13489 kworker/1:0-eve Tue Jun 25 10:37:27 2024
+>   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+>   13930 kworker/0:3-eve Tue Jun 25 10:38:00 2024
+>   14517 bash            Tue Jun 25 10:42:00 2024
+>   14525 ssh             Tue Jun 25 10:42:04 2024
+>   14564 kworker/3:2-eve Tue Jun 25 10:42:09 2024
+>   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+>   15360 kworker/1:2-eve Tue Jun 25 10:42:37 2024
+>   15772 kworker/u8:0-ex Tue Jun 25 10:43:06 2024
+>   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+>   16754 kworker/2:3-eve Tue Jun 25 10:45:37 2024
+>   16886 vim             Tue Jun 25 10:45:56 2024
+>   16927 sshd            Tue Jun 25 10:46:27 2024
+>   16935 sshd            Tue Jun 25 10:46:27 2024
+>   16936 ps              Tue Jun 25 10:46:27 2024
+[2024-06-25 10:46:34] Diferențe procese:
+202c202
+<   11849 kworker/3:1-cgr Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+209c209
+<   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ex Tue Jun 25 10:37:37 2024
+214c214
+<   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+---
+>   14642 kworker/2:0-cgr Tue Jun 25 10:42:11 2024
+220,222c220,222
+<   16927 sshd            Tue Jun 25 10:46:27 2024
+<   16935 sshd            Tue Jun 25 10:46:27 2024
+<   16936 ps              Tue Jun 25 10:46:27 2024
+---
+>   16993 sshd            Tue Jun 25 10:46:31 2024
+>   17001 sshd            Tue Jun 25 10:46:31 2024
+>   17002 ps              Tue Jun 25 10:46:31 2024
+[2024-06-25 10:46:38] Diferențe procese:
+204c204
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-wr Tue Jun 25 10:30:52 2024
+220,222c220,222
+<   16993 sshd            Tue Jun 25 10:46:31 2024
+<   17001 sshd            Tue Jun 25 10:46:31 2024
+<   17002 ps              Tue Jun 25 10:46:31 2024
+---
+>   17059 sshd            Tue Jun 25 10:46:36 2024
+>   17067 sshd            Tue Jun 25 10:46:36 2024
+>   17068 ps              Tue Jun 25 10:46:36 2024
+[2024-06-25 10:46:43] Diferențe procese:
+204,205c204,205
+<   13182 kworker/u8:2-wr Tue Jun 25 10:30:52 2024
+<   13203 kworker/0:0-cgr Tue Jun 25 10:35:15 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+>   13203 kworker/0:0-eve Tue Jun 25 10:35:15 2024
+214c214
+<   14642 kworker/2:0-cgr Tue Jun 25 10:42:11 2024
+---
+>   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+220,222c220,222
+<   17059 sshd            Tue Jun 25 10:46:36 2024
+<   17067 sshd            Tue Jun 25 10:46:36 2024
+<   17068 ps              Tue Jun 25 10:46:36 2024
+---
+>   17125 sshd            Tue Jun 25 10:46:41 2024
+>   17133 sshd            Tue Jun 25 10:46:41 2024
+>   17134 ps              Tue Jun 25 10:46:41 2024
+[2024-06-25 10:46:48] Diferențe procese:
+209c209
+<   13621 kworker/u8:3-ex Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-fl Tue Jun 25 10:37:37 2024
+220,222c220,222
+<   17125 sshd            Tue Jun 25 10:46:41 2024
+<   17133 sshd            Tue Jun 25 10:46:41 2024
+<   17134 ps              Tue Jun 25 10:46:41 2024
+---
+>   17191 sshd            Tue Jun 25 10:46:46 2024
+>   17199 sshd            Tue Jun 25 10:46:46 2024
+>   17200 ps              Tue Jun 25 10:46:46 2024
+[2024-06-25 10:46:53] Diferențe procese:
+204c204
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ex Tue Jun 25 10:30:52 2024
+209c209
+<   13621 kworker/u8:3-fl Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+214c214
+<   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+---
+>   14642 kworker/2:0-mm_ Tue Jun 25 10:42:11 2024
+217c217
+<   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+---
+>   15839 kworker/0:1-mm_ Tue Jun 25 10:43:11 2024
+220,222c220,222
+<   17191 sshd            Tue Jun 25 10:46:46 2024
+<   17199 sshd            Tue Jun 25 10:46:46 2024
+<   17200 ps              Tue Jun 25 10:46:46 2024
+---
+>   17257 sshd            Tue Jun 25 10:46:50 2024
+>   17265 sshd            Tue Jun 25 10:46:50 2024
+>   17266 ps              Tue Jun 25 10:46:50 2024
+[2024-06-25 10:46:58] Diferențe procese:
+204c204
+<   13182 kworker/u8:2-ex Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+214c214
+<   14642 kworker/2:0-mm_ Tue Jun 25 10:42:11 2024
+---
+>   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+217c217
+<   15839 kworker/0:1-mm_ Tue Jun 25 10:43:11 2024
+---
+>   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+220,222c220,222
+<   17257 sshd            Tue Jun 25 10:46:50 2024
+<   17265 sshd            Tue Jun 25 10:46:50 2024
+<   17266 ps              Tue Jun 25 10:46:50 2024
+---
+>   17323 sshd            Tue Jun 25 10:46:55 2024
+>   17331 sshd            Tue Jun 25 10:46:55 2024
+>   17332 ps              Tue Jun 25 10:46:55 2024
+[2024-06-25 10:47:02] Diferențe procese:
+204c204
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ex Tue Jun 25 10:30:52 2024
+209c209
+<   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ex Tue Jun 25 10:37:37 2024
+220,222c220,222
+<   17323 sshd            Tue Jun 25 10:46:55 2024
+<   17331 sshd            Tue Jun 25 10:46:55 2024
+<   17332 ps              Tue Jun 25 10:46:55 2024
+---
+>   17389 sshd            Tue Jun 25 10:47:00 2024
+>   17397 sshd            Tue Jun 25 10:47:00 2024
+>   17398 ps              Tue Jun 25 10:47:00 2024
+[2024-06-25 10:47:07] Diferențe procese:
+204,205c204,205
+<   13182 kworker/u8:2-ex Tue Jun 25 10:30:52 2024
+<   13203 kworker/0:0-eve Tue Jun 25 10:35:15 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+>   13203 kworker/0:0-cgr Tue Jun 25 10:35:15 2024
+209c209
+<   13621 kworker/u8:3-ex Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+220,222c220,222
+<   17389 sshd            Tue Jun 25 10:47:00 2024
+<   17397 sshd            Tue Jun 25 10:47:00 2024
+<   17398 ps              Tue Jun 25 10:47:00 2024
+---
+>   17455 sshd            Tue Jun 25 10:47:04 2024
+>   17463 sshd            Tue Jun 25 10:47:05 2024
+>   17464 ps              Tue Jun 25 10:47:05 2024
+[2024-06-25 10:47:12] Diferențe procese:
+220,222c220,222
+<   17455 sshd            Tue Jun 25 10:47:04 2024
+<   17463 sshd            Tue Jun 25 10:47:05 2024
+<   17464 ps              Tue Jun 25 10:47:05 2024
+---
+>   17521 sshd            Tue Jun 25 10:47:09 2024
+>   17529 sshd            Tue Jun 25 10:47:10 2024
+>   17530 ps              Tue Jun 25 10:47:10 2024
+[2024-06-25 10:47:17] Diferențe procese:
+204,205c204,205
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+<   13203 kworker/0:0-cgr Tue Jun 25 10:35:15 2024
+---
+>   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+>   13203 kworker/0:0-eve Tue Jun 25 10:35:15 2024
+220,222c220,222
+<   17521 sshd            Tue Jun 25 10:47:09 2024
+<   17529 sshd            Tue Jun 25 10:47:10 2024
+<   17530 ps              Tue Jun 25 10:47:10 2024
+---
+>   17587 sshd            Tue Jun 25 10:47:14 2024
+>   17595 sshd            Tue Jun 25 10:47:14 2024
+>   17596 ps              Tue Jun 25 10:47:14 2024
+[2024-06-25 10:47:22] Diferențe procese:
+204c204
+<   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+207,208c207
+<   13277 kworker/3:0-cgr Tue Jun 25 10:35:21 2024
+<   13489 kworker/1:0-eve Tue Jun 25 10:37:27 2024
+---
+>   13489 kworker/1:0-cgr Tue Jun 25 10:37:27 2024
+217c216
+<   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+---
+>   15839 kworker/0:1-cgr Tue Jun 25 10:43:11 2024
+220,222c219,221
+<   17587 sshd            Tue Jun 25 10:47:14 2024
+<   17595 sshd            Tue Jun 25 10:47:14 2024
+<   17596 ps              Tue Jun 25 10:47:14 2024
+---
+>   17653 sshd            Tue Jun 25 10:47:19 2024
+>   17661 sshd            Tue Jun 25 10:47:19 2024
+>   17662 ps              Tue Jun 25 10:47:19 2024
+[2024-06-25 10:47:26] Diferențe procese:
+204c204
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-wr Tue Jun 25 10:30:52 2024
+207c207
+<   13489 kworker/1:0-cgr Tue Jun 25 10:37:27 2024
+---
+>   13489 kworker/1:0-eve Tue Jun 25 10:37:27 2024
+216c216
+<   15839 kworker/0:1-cgr Tue Jun 25 10:43:11 2024
+---
+>   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+219,221c219,221
+<   17653 sshd            Tue Jun 25 10:47:19 2024
+<   17661 sshd            Tue Jun 25 10:47:19 2024
+<   17662 ps              Tue Jun 25 10:47:19 2024
+---
+>   17719 sshd            Tue Jun 25 10:47:24 2024
+>   17727 sshd            Tue Jun 25 10:47:24 2024
+>   17728 ps              Tue Jun 25 10:47:24 2024
+[2024-06-25 10:47:32] Diferențe procese:
+204c204
+<   13182 kworker/u8:2-wr Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+213c213
+<   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+---
+>   14642 kworker/2:0-cgr Tue Jun 25 10:42:11 2024
+216c216
+<   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+---
+>   15839 kworker/0:1-cgr Tue Jun 25 10:43:11 2024
+219,221c219,222
+<   17719 sshd            Tue Jun 25 10:47:24 2024
+<   17727 sshd            Tue Jun 25 10:47:24 2024
+<   17728 ps              Tue Jun 25 10:47:24 2024
+---
+>   17777 kworker/3:0-eve Tue Jun 25 10:47:29 2024
+>   17803 sshd            Tue Jun 25 10:47:30 2024
+>   17811 sshd            Tue Jun 25 10:47:30 2024
+>   17812 ps              Tue Jun 25 10:47:30 2024
+[2024-06-25 10:47:37] Diferențe procese:
+204,205c204,205
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+<   13203 kworker/0:0-eve Tue Jun 25 10:35:15 2024
+---
+>   13182 kworker/u8:2-wr Tue Jun 25 10:30:52 2024
+>   13203 kworker/0:0-cgr Tue Jun 25 10:35:15 2024
+208c208
+<   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ex Tue Jun 25 10:37:37 2024
+213c213
+<   14642 kworker/2:0-cgr Tue Jun 25 10:42:11 2024
+---
+>   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+220,222c220,222
+<   17803 sshd            Tue Jun 25 10:47:30 2024
+<   17811 sshd            Tue Jun 25 10:47:30 2024
+<   17812 ps              Tue Jun 25 10:47:30 2024
+---
+>   17869 sshd            Tue Jun 25 10:47:34 2024
+>   17877 sshd            Tue Jun 25 10:47:35 2024
+>   17878 ps              Tue Jun 25 10:47:35 2024
+[2024-06-25 10:47:42] Diferențe procese:
+204,205c204,205
+<   13182 kworker/u8:2-wr Tue Jun 25 10:30:52 2024
+<   13203 kworker/0:0-cgr Tue Jun 25 10:35:15 2024
+---
+>   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+>   13203 kworker/0:0-eve Tue Jun 25 10:35:15 2024
+216,217c216,217
+<   15839 kworker/0:1-cgr Tue Jun 25 10:43:11 2024
+<   16754 kworker/2:3-eve Tue Jun 25 10:45:37 2024
+---
+>   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+>   16754 kworker/2:3-cgr Tue Jun 25 10:45:37 2024
+220,222c220,222
+<   17869 sshd            Tue Jun 25 10:47:34 2024
+<   17877 sshd            Tue Jun 25 10:47:35 2024
+<   17878 ps              Tue Jun 25 10:47:35 2024
+---
+>   17935 sshd            Tue Jun 25 10:47:39 2024
+>   17943 sshd            Tue Jun 25 10:47:39 2024
+>   17944 ps              Tue Jun 25 10:47:39 2024
+[2024-06-25 10:47:46] Diferențe procese:
+204c204
+<   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+207,208c207,208
+<   13489 kworker/1:0-eve Tue Jun 25 10:37:27 2024
+<   13621 kworker/u8:3-ex Tue Jun 25 10:37:37 2024
+---
+>   13489 kworker/1:0-cgr Tue Jun 25 10:37:27 2024
+>   13621 kworker/u8:3-fl Tue Jun 25 10:37:37 2024
+220,222c220,222
+<   17935 sshd            Tue Jun 25 10:47:39 2024
+<   17943 sshd            Tue Jun 25 10:47:39 2024
+<   17944 ps              Tue Jun 25 10:47:39 2024
+---
+>   18001 sshd            Tue Jun 25 10:47:44 2024
+>   18009 sshd            Tue Jun 25 10:47:44 2024
+>   18010 ps              Tue Jun 25 10:47:44 2024
+[2024-06-25 10:47:51] Diferențe procese:
+201d200
+<   11649 kworker/1:1-cgr Tue Jun 25 10:21:02 2024
+208c207
+<   13621 kworker/u8:3-fl Tue Jun 25 10:37:37 2024
+---
+>   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+217c216
+<   16754 kworker/2:3-cgr Tue Jun 25 10:45:37 2024
+---
+>   16754 kworker/2:3-eve Tue Jun 25 10:45:37 2024
+220,222c219,221
+<   18001 sshd            Tue Jun 25 10:47:44 2024
+<   18009 sshd            Tue Jun 25 10:47:44 2024
+<   18010 ps              Tue Jun 25 10:47:44 2024
+---
+>   18067 sshd            Tue Jun 25 10:47:49 2024
+>   18075 sshd            Tue Jun 25 10:47:49 2024
+>   18076 ps              Tue Jun 25 10:47:49 2024
+[2024-06-25 10:47:56] Diferențe procese:
+212c212
+<   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+---
+>   14642 kworker/2:0-cgr Tue Jun 25 10:42:11 2024
+219,221c219,221
+<   18067 sshd            Tue Jun 25 10:47:49 2024
+<   18075 sshd            Tue Jun 25 10:47:49 2024
+<   18076 ps              Tue Jun 25 10:47:49 2024
+---
+>   18133 sshd            Tue Jun 25 10:47:54 2024
+>   18141 sshd            Tue Jun 25 10:47:54 2024
+>   18142 ps              Tue Jun 25 10:47:54 2024
+[2024-06-25 10:48:01] Diferențe procese:
+202c202
+<   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1+fl Tue Jun 25 10:24:48 2024
+212c212
+<   14642 kworker/2:0-cgr Tue Jun 25 10:42:11 2024
+---
+>   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+219,221c219,222
+<   18133 sshd            Tue Jun 25 10:47:54 2024
+<   18141 sshd            Tue Jun 25 10:47:54 2024
+<   18142 ps              Tue Jun 25 10:47:54 2024
+---
+>   18166 kworker/1:1-cgr Tue Jun 25 10:47:54 2024
+>   18200 sshd            Tue Jun 25 10:47:58 2024
+>   18208 sshd            Tue Jun 25 10:47:59 2024
+>   18209 ps              Tue Jun 25 10:47:59 2024
+[2024-06-25 10:48:06] Diferențe procese:
+201,202c201,202
+<   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+<   12457 kworker/u8:1+fl Tue Jun 25 10:24:48 2024
+---
+>   11849 kworker/3:1-cgr Tue Jun 25 10:21:16 2024
+>   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+213c213
+<   15360 kworker/1:2-eve Tue Jun 25 10:42:37 2024
+---
+>   15360 kworker/1:2-cgr Tue Jun 25 10:42:37 2024
+219,222c219,222
+<   18166 kworker/1:1-cgr Tue Jun 25 10:47:54 2024
+<   18200 sshd            Tue Jun 25 10:47:58 2024
+<   18208 sshd            Tue Jun 25 10:47:59 2024
+<   18209 ps              Tue Jun 25 10:47:59 2024
+---
+>   18166 kworker/1:1-eve Tue Jun 25 10:47:54 2024
+>   18266 sshd            Tue Jun 25 10:48:03 2024
+>   18274 sshd            Tue Jun 25 10:48:04 2024
+>   18275 ps              Tue Jun 25 10:48:04 2024
+[2024-06-25 10:48:11] Diferențe procese:
+201c201
+<   11849 kworker/3:1-cgr Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+213c213
+<   15360 kworker/1:2-cgr Tue Jun 25 10:42:37 2024
+---
+>   15360 kworker/1:2-eve Tue Jun 25 10:42:37 2024
+220,222c220,222
+<   18266 sshd            Tue Jun 25 10:48:03 2024
+<   18274 sshd            Tue Jun 25 10:48:04 2024
+<   18275 ps              Tue Jun 25 10:48:04 2024
+---
+>   18332 sshd            Tue Jun 25 10:48:08 2024
+>   18340 sshd            Tue Jun 25 10:48:08 2024
+>   18341 ps              Tue Jun 25 10:48:08 2024
+[2024-06-25 10:48:15] Diferențe procese:
+202c202
+<   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+220,222c220,222
+<   18332 sshd            Tue Jun 25 10:48:08 2024
+<   18340 sshd            Tue Jun 25 10:48:08 2024
+<   18341 ps              Tue Jun 25 10:48:08 2024
+---
+>   18398 sshd            Tue Jun 25 10:48:13 2024
+>   18406 sshd            Tue Jun 25 10:48:13 2024
+>   18407 ps              Tue Jun 25 10:48:13 2024
+[2024-06-25 10:48:21] Diferențe procese:
+218c218
+<   17777 kworker/3:0-eve Tue Jun 25 10:47:29 2024
+---
+>   17777 kworker/3:0-cgr Tue Jun 25 10:47:29 2024
+220,222c220,222
+<   18398 sshd            Tue Jun 25 10:48:13 2024
+<   18406 sshd            Tue Jun 25 10:48:13 2024
+<   18407 ps              Tue Jun 25 10:48:13 2024
+---
+>   18464 sshd            Tue Jun 25 10:48:18 2024
+>   18472 sshd            Tue Jun 25 10:48:19 2024
+>   18473 ps              Tue Jun 25 10:48:19 2024
+[2024-06-25 10:48:26] Diferențe procese:
+208d207
+<   13930 kworker/0:3-eve Tue Jun 25 10:38:00 2024
+220,222c219,222
+<   18464 sshd            Tue Jun 25 10:48:18 2024
+<   18472 sshd            Tue Jun 25 10:48:19 2024
+<   18473 ps              Tue Jun 25 10:48:19 2024
+---
+>   18519 kworker/0:2     Tue Jun 25 10:48:23 2024
+>   18531 sshd            Tue Jun 25 10:48:24 2024
+>   18539 sshd            Tue Jun 25 10:48:24 2024
+>   18540 ps              Tue Jun 25 10:48:24 2024
+[2024-06-25 10:48:31] Diferențe procese:
+203c203
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-wr Tue Jun 25 10:30:52 2024
+217c217
+<   17777 kworker/3:0-cgr Tue Jun 25 10:47:29 2024
+---
+>   17777 kworker/3:0-eve Tue Jun 25 10:47:29 2024
+220,222c220,222
+<   18531 sshd            Tue Jun 25 10:48:24 2024
+<   18539 sshd            Tue Jun 25 10:48:24 2024
+<   18540 ps              Tue Jun 25 10:48:24 2024
+---
+>   18597 sshd            Tue Jun 25 10:48:28 2024
+>   18605 sshd            Tue Jun 25 10:48:28 2024
+>   18606 ps              Tue Jun 25 10:48:29 2024
+[2024-06-25 10:48:36] Diferențe procese:
+203c203
+<   13182 kworker/u8:2-wr Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+212c212
+<   15360 kworker/1:2-eve Tue Jun 25 10:42:37 2024
+---
+>   15360 kworker/1:2-cgr Tue Jun 25 10:42:37 2024
+219,222c219,222
+<   18519 kworker/0:2     Tue Jun 25 10:48:23 2024
+<   18597 sshd            Tue Jun 25 10:48:28 2024
+<   18605 sshd            Tue Jun 25 10:48:28 2024
+<   18606 ps              Tue Jun 25 10:48:29 2024
+---
+>   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+>   18678 sshd            Tue Jun 25 10:48:34 2024
+>   18686 sshd            Tue Jun 25 10:48:34 2024
+>   18687 ps              Tue Jun 25 10:48:34 2024
+[2024-06-25 10:48:41] Diferențe procese:
+202c202
+<   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+220,222c220,222
+<   18678 sshd            Tue Jun 25 10:48:34 2024
+<   18686 sshd            Tue Jun 25 10:48:34 2024
+<   18687 ps              Tue Jun 25 10:48:34 2024
+---
+>   18744 sshd            Tue Jun 25 10:48:39 2024
+>   18752 sshd            Tue Jun 25 10:48:39 2024
+>   18753 ps              Tue Jun 25 10:48:39 2024
+[2024-06-25 10:48:46] Diferențe procese:
+202c202
+<   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+212c212
+<   15360 kworker/1:2-cgr Tue Jun 25 10:42:37 2024
+---
+>   15360 kworker/1:2-eve Tue Jun 25 10:42:37 2024
+220,222c220,222
+<   18744 sshd            Tue Jun 25 10:48:39 2024
+<   18752 sshd            Tue Jun 25 10:48:39 2024
+<   18753 ps              Tue Jun 25 10:48:39 2024
+---
+>   18810 sshd            Tue Jun 25 10:48:43 2024
+>   18818 sshd            Tue Jun 25 10:48:44 2024
+>   18819 ps              Tue Jun 25 10:48:44 2024
+[2024-06-25 10:48:50] Diferențe procese:
+211c211
+<   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+---
+>   14642 kworker/2:0-cgr Tue Jun 25 10:42:11 2024
+217c217
+<   17777 kworker/3:0-eve Tue Jun 25 10:47:29 2024
+---
+>   17777 kworker/3:0-cgr Tue Jun 25 10:47:29 2024
+220,222c220,222
+<   18810 sshd            Tue Jun 25 10:48:43 2024
+<   18818 sshd            Tue Jun 25 10:48:44 2024
+<   18819 ps              Tue Jun 25 10:48:44 2024
+---
+>   18876 sshd            Tue Jun 25 10:48:48 2024
+>   18884 sshd            Tue Jun 25 10:48:48 2024
+>   18885 ps              Tue Jun 25 10:48:48 2024
+[2024-06-25 10:50:26] Diferențe procese:
+197d196
+<    7609 bash            Tue Jun 25 08:35:47 2024
+213,214c212
+<   15772 kworker/u8:0-ex Tue Jun 25 10:43:06 2024
+<   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+---
+>   15839 kworker/0:1-cgw Tue Jun 25 10:43:11 2024
+216,217c214
+<   16886 vim             Tue Jun 25 10:45:56 2024
+<   17777 kworker/3:0-cgr Tue Jun 25 10:47:29 2024
+---
+>   17777 kworker/3:0-eve Tue Jun 25 10:47:29 2024
+220,222c217,220
+<   18876 sshd            Tue Jun 25 10:48:48 2024
+<   18884 sshd            Tue Jun 25 10:48:48 2024
+<   18885 ps              Tue Jun 25 10:48:48 2024
+---
+>   18923 bash            Tue Jun 25 10:49:19 2024
+>   18974 sshd            Tue Jun 25 10:50:23 2024
+>   18982 sshd            Tue Jun 25 10:50:23 2024
+>   18983 ps              Tue Jun 25 10:50:23 2024
+[2024-06-25 10:50:30] Diferențe procese:
+201c201
+<   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+---
+>   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+210c210
+<   14642 kworker/2:0-cgr Tue Jun 25 10:42:11 2024
+---
+>   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+212c212
+<   15839 kworker/0:1-cgw Tue Jun 25 10:43:11 2024
+---
+>   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+218,220c218,228
+<   18974 sshd            Tue Jun 25 10:50:23 2024
+<   18982 sshd            Tue Jun 25 10:50:23 2024
+<   18983 ps              Tue Jun 25 10:50:23 2024
+---
+>   19015 systemd-udevd   Tue Jun 25 10:50:27 2024
+>   19018 systemd-udevd   Tue Jun 25 10:50:27 2024
+>   19032 systemd-udevd   Tue Jun 25 10:50:27 2024
+>   19034 systemd-udevd   Tue Jun 25 10:50:27 2024
+>   19035 systemd-udevd   Tue Jun 25 10:50:27 2024
+>   19036 systemd-udevd   Tue Jun 25 10:50:27 2024
+>   19046 systemd-udevd   Tue Jun 25 10:50:27 2024
+>   19047 systemd-udevd   Tue Jun 25 10:50:27 2024
+>   19063 sshd            Tue Jun 25 10:50:28 2024
+>   19071 sshd            Tue Jun 25 10:50:28 2024
+>   19072 ps              Tue Jun 25 10:50:28 2024
+[2024-06-25 10:50:35] Diferențe procese:
+201,202c201,202
+<   12457 kworker/u8:1-ex Tue Jun 25 10:24:48 2024
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+---
+>   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+>   13182 kworker/u8:2-ex Tue Jun 25 10:30:52 2024
+216c216
+<   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+---
+>   18519 kworker/0:2+usb Tue Jun 25 10:48:23 2024
+218,228c218,220
+<   19015 systemd-udevd   Tue Jun 25 10:50:27 2024
+<   19018 systemd-udevd   Tue Jun 25 10:50:27 2024
+<   19032 systemd-udevd   Tue Jun 25 10:50:27 2024
+<   19034 systemd-udevd   Tue Jun 25 10:50:27 2024
+<   19035 systemd-udevd   Tue Jun 25 10:50:27 2024
+<   19036 systemd-udevd   Tue Jun 25 10:50:27 2024
+<   19046 systemd-udevd   Tue Jun 25 10:50:27 2024
+<   19047 systemd-udevd   Tue Jun 25 10:50:27 2024
+<   19063 sshd            Tue Jun 25 10:50:28 2024
+<   19071 sshd            Tue Jun 25 10:50:28 2024
+<   19072 ps              Tue Jun 25 10:50:28 2024
+---
+>   19137 sshd            Tue Jun 25 10:50:33 2024
+>   19145 sshd            Tue Jun 25 10:50:33 2024
+>   19146 ps              Tue Jun 25 10:50:33 2024
+[2024-06-25 10:50:40] Diferențe procese:
+202c202
+<   13182 kworker/u8:2-ex Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+216c216
+<   18519 kworker/0:2+usb Tue Jun 25 10:48:23 2024
+---
+>   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+218,220c218,229
+<   19137 sshd            Tue Jun 25 10:50:33 2024
+<   19145 sshd            Tue Jun 25 10:50:33 2024
+<   19146 ps              Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0    Tue Jun 25 10:50:33 2024
+>   19179 systemd-udevd   Tue Jun 25 10:50:34 2024
+>   19180 systemd-udevd   Tue Jun 25 10:50:34 2024
+>   19182 systemd-udevd   Tue Jun 25 10:50:34 2024
+>   19184 systemd-udevd   Tue Jun 25 10:50:34 2024
+>   19186 systemd-udevd   Tue Jun 25 10:50:34 2024
+>   19188 systemd-udevd   Tue Jun 25 10:50:34 2024
+>   19196 systemd-udevd   Tue Jun 25 10:50:34 2024
+>   19197 systemd-udevd   Tue Jun 25 10:50:34 2024
+>   19235 sshd            Tue Jun 25 10:50:37 2024
+>   19243 sshd            Tue Jun 25 10:50:38 2024
+>   19244 ps              Tue Jun 25 10:50:38 2024
+[2024-06-25 10:50:45] Diferențe procese:
+200c200
+<   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-cgr Tue Jun 25 10:21:16 2024
+215c215
+<   18166 kworker/1:1-eve Tue Jun 25 10:47:54 2024
+---
+>   18166 kworker/1:1-mm_ Tue Jun 25 10:47:54 2024
+218,229c218,221
+<   19149 kworker/u8:0    Tue Jun 25 10:50:33 2024
+<   19179 systemd-udevd   Tue Jun 25 10:50:34 2024
+<   19180 systemd-udevd   Tue Jun 25 10:50:34 2024
+<   19182 systemd-udevd   Tue Jun 25 10:50:34 2024
+<   19184 systemd-udevd   Tue Jun 25 10:50:34 2024
+<   19186 systemd-udevd   Tue Jun 25 10:50:34 2024
+<   19188 systemd-udevd   Tue Jun 25 10:50:34 2024
+<   19196 systemd-udevd   Tue Jun 25 10:50:34 2024
+<   19197 systemd-udevd   Tue Jun 25 10:50:34 2024
+<   19235 sshd            Tue Jun 25 10:50:37 2024
+<   19243 sshd            Tue Jun 25 10:50:38 2024
+<   19244 ps              Tue Jun 25 10:50:38 2024
+---
+>   19149 kworker/u8:0-fl Tue Jun 25 10:50:33 2024
+>   19301 sshd            Tue Jun 25 10:50:42 2024
+>   19309 sshd            Tue Jun 25 10:50:42 2024
+>   19310 ps              Tue Jun 25 10:50:42 2024
+[2024-06-25 10:50:50] Diferențe procese:
+211,212c211,212
+<   15360 kworker/1:2-eve Tue Jun 25 10:42:37 2024
+<   15839 kworker/0:1-eve Tue Jun 25 10:43:11 2024
+---
+>   15360 kworker/1:2-cgr Tue Jun 25 10:42:37 2024
+>   15839 kworker/0:1-cgr Tue Jun 25 10:43:11 2024
+215c215
+<   18166 kworker/1:1-mm_ Tue Jun 25 10:47:54 2024
+---
+>   18166 kworker/1:1-eve Tue Jun 25 10:47:54 2024
+219,221c219,221
+<   19301 sshd            Tue Jun 25 10:50:42 2024
+<   19309 sshd            Tue Jun 25 10:50:42 2024
+<   19310 ps              Tue Jun 25 10:50:42 2024
+---
+>   19367 sshd            Tue Jun 25 10:50:47 2024
+>   19375 sshd            Tue Jun 25 10:50:47 2024
+>   19376 ps              Tue Jun 25 10:50:47 2024
+[2024-06-25 10:59:11] Diferențe procese:
+199d198
+<   11634 kworker/2:1-cgr Tue Jun 25 10:20:59 2024
+201d199
+<   12457 kworker/u8:1-ev Tue Jun 25 10:24:48 2024
+203,206d200
+<   13203 kworker/0:0-eve Tue Jun 25 10:35:15 2024
+<   13252 kworker/2:2-cgr Tue Jun 25 10:35:18 2024
+<   13489 kworker/1:0-cgr Tue Jun 25 10:37:27 2024
+<   13621 kworker/u8:3-ev Tue Jun 25 10:37:37 2024
+209,210d202
+<   14564 kworker/3:2-eve Tue Jun 25 10:42:09 2024
+<   14642 kworker/2:0-eve Tue Jun 25 10:42:11 2024
+218,221c210,218
+<   19149 kworker/u8:0-fl Tue Jun 25 10:50:33 2024
+<   19367 sshd            Tue Jun 25 10:50:47 2024
+<   19375 sshd            Tue Jun 25 10:50:47 2024
+<   19376 ps              Tue Jun 25 10:50:47 2024
+---
+>   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+>   19417 kworker/2:1-eve Tue Jun 25 10:53:39 2024
+>   19420 kworker/u8:1-ev Tue Jun 25 10:56:17 2024
+>   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+>   19450 kworker/u8:3    Tue Jun 25 10:59:08 2024
+>   19463 sshd            Tue Jun 25 10:59:08 2024
+>   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+>   19472 sshd            Tue Jun 25 10:59:09 2024
+>   19473 ps              Tue Jun 25 10:59:09 2024
+[2024-06-25 10:59:16] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-wr Tue Jun 25 10:30:52 2024
+214,215c214
+<   19450 kworker/u8:3    Tue Jun 25 10:59:08 2024
+<   19463 sshd            Tue Jun 25 10:59:08 2024
+---
+>   19450 kworker/u8:3-ev Tue Jun 25 10:59:08 2024
+217,218c216,220
+<   19472 sshd            Tue Jun 25 10:59:09 2024
+<   19473 ps              Tue Jun 25 10:59:09 2024
+---
+>   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+>   19498 kworker/2:0-eve Tue Jun 25 10:59:09 2024
+>   19532 sshd            Tue Jun 25 10:59:13 2024
+>   19540 sshd            Tue Jun 25 10:59:13 2024
+>   19541 ps              Tue Jun 25 10:59:13 2024
+[2024-06-25 10:59:21] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-wr Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+216,220c216,220
+<   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+<   19498 kworker/2:0-eve Tue Jun 25 10:59:09 2024
+<   19532 sshd            Tue Jun 25 10:59:13 2024
+<   19540 sshd            Tue Jun 25 10:59:13 2024
+<   19541 ps              Tue Jun 25 10:59:13 2024
+---
+>   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+>   19498 kworker/2:0-cgr Tue Jun 25 10:59:09 2024
+>   19598 sshd            Tue Jun 25 10:59:18 2024
+>   19606 sshd            Tue Jun 25 10:59:19 2024
+>   19607 ps              Tue Jun 25 10:59:19 2024
+[2024-06-25 10:59:26] Diferențe procese:
+199c199
+<   11849 kworker/3:1-cgr Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+216c216
+<   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+---
+>   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   19598 sshd            Tue Jun 25 10:59:18 2024
+<   19606 sshd            Tue Jun 25 10:59:19 2024
+<   19607 ps              Tue Jun 25 10:59:19 2024
+---
+>   19664 sshd            Tue Jun 25 10:59:23 2024
+>   19672 sshd            Tue Jun 25 10:59:23 2024
+>   19673 ps              Tue Jun 25 10:59:23 2024
+[2024-06-25 10:59:31] Diferențe procese:
+217,220c217,220
+<   19498 kworker/2:0-cgr Tue Jun 25 10:59:09 2024
+<   19664 sshd            Tue Jun 25 10:59:23 2024
+<   19672 sshd            Tue Jun 25 10:59:23 2024
+<   19673 ps              Tue Jun 25 10:59:23 2024
+---
+>   19498 kworker/2:0-eve Tue Jun 25 10:59:09 2024
+>   19730 sshd            Tue Jun 25 10:59:28 2024
+>   19738 sshd            Tue Jun 25 10:59:28 2024
+>   19739 ps              Tue Jun 25 10:59:28 2024
+[2024-06-25 10:59:36] Diferențe procese:
+218,220c218,220
+<   19730 sshd            Tue Jun 25 10:59:28 2024
+<   19738 sshd            Tue Jun 25 10:59:28 2024
+<   19739 ps              Tue Jun 25 10:59:28 2024
+---
+>   19796 sshd            Tue Jun 25 10:59:33 2024
+>   19804 sshd            Tue Jun 25 10:59:33 2024
+>   19805 ps              Tue Jun 25 10:59:33 2024
+[2024-06-25 10:59:41] Diferențe procese:
+218,220c218,220
+<   19796 sshd            Tue Jun 25 10:59:33 2024
+<   19804 sshd            Tue Jun 25 10:59:33 2024
+<   19805 ps              Tue Jun 25 10:59:33 2024
+---
+>   19862 sshd            Tue Jun 25 10:59:38 2024
+>   19870 sshd            Tue Jun 25 10:59:38 2024
+>   19871 ps              Tue Jun 25 10:59:38 2024
+[2024-06-25 10:59:46] Diferențe procese:
+208c208
+<   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+---
+>   18519 kworker/0:2-cgr Tue Jun 25 10:48:23 2024
+218,220c218,220
+<   19862 sshd            Tue Jun 25 10:59:38 2024
+<   19870 sshd            Tue Jun 25 10:59:38 2024
+<   19871 ps              Tue Jun 25 10:59:38 2024
+---
+>   19928 sshd            Tue Jun 25 10:59:43 2024
+>   19936 sshd            Tue Jun 25 10:59:43 2024
+>   19937 ps              Tue Jun 25 10:59:43 2024
+[2024-06-25 10:59:51] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+208c208
+<   18519 kworker/0:2-cgr Tue Jun 25 10:48:23 2024
+---
+>   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+211c211
+<   19417 kworker/2:1-eve Tue Jun 25 10:53:39 2024
+---
+>   19417 kworker/2:1-cgr Tue Jun 25 10:53:39 2024
+216c216
+<   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+---
+>   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   19928 sshd            Tue Jun 25 10:59:43 2024
+<   19936 sshd            Tue Jun 25 10:59:43 2024
+<   19937 ps              Tue Jun 25 10:59:43 2024
+---
+>   19994 sshd            Tue Jun 25 10:59:48 2024
+>   20002 sshd            Tue Jun 25 10:59:48 2024
+>   20003 ps              Tue Jun 25 10:59:48 2024
+[2024-06-25 10:59:56] Diferențe procese:
+210,211c210,211
+<   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+<   19417 kworker/2:1-cgr Tue Jun 25 10:53:39 2024
+---
+>   19149 kworker/u8:0-wr Tue Jun 25 10:50:33 2024
+>   19417 kworker/2:1-eve Tue Jun 25 10:53:39 2024
+213c213
+<   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+215c215
+<   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+---
+>   19465 kworker/1:0-cgr Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   19994 sshd            Tue Jun 25 10:59:48 2024
+<   20002 sshd            Tue Jun 25 10:59:48 2024
+<   20003 ps              Tue Jun 25 10:59:48 2024
+---
+>   20060 sshd            Tue Jun 25 10:59:53 2024
+>   20068 sshd            Tue Jun 25 10:59:53 2024
+>   20069 ps              Tue Jun 25 10:59:53 2024
+[2024-06-25 11:00:01] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ex Tue Jun 25 10:30:52 2024
+210c210
+<   19149 kworker/u8:0-wr Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+215c215
+<   19465 kworker/1:0-cgr Tue Jun 25 10:59:08 2024
+---
+>   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   20060 sshd            Tue Jun 25 10:59:53 2024
+<   20068 sshd            Tue Jun 25 10:59:53 2024
+<   20069 ps              Tue Jun 25 10:59:53 2024
+---
+>   20126 sshd            Tue Jun 25 10:59:58 2024
+>   20134 sshd            Tue Jun 25 10:59:58 2024
+>   20135 ps              Tue Jun 25 10:59:58 2024
+[2024-06-25 11:00:06] Diferențe procese:
+210c210
+<   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+215,216c215,216
+<   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+<   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+---
+>   19465 kworker/1:0-cgr Tue Jun 25 10:59:08 2024
+>   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   20126 sshd            Tue Jun 25 10:59:58 2024
+<   20134 sshd            Tue Jun 25 10:59:58 2024
+<   20135 ps              Tue Jun 25 10:59:58 2024
+---
+>   20193 sshd            Tue Jun 25 11:00:03 2024
+>   20201 sshd            Tue Jun 25 11:00:03 2024
+>   20202 ps              Tue Jun 25 11:00:03 2024
+[2024-06-25 11:00:11] Diferențe procese:
+218,220c218,220
+<   20193 sshd            Tue Jun 25 11:00:03 2024
+<   20201 sshd            Tue Jun 25 11:00:03 2024
+<   20202 ps              Tue Jun 25 11:00:03 2024
+---
+>   20274 sshd            Tue Jun 25 11:00:08 2024
+>   20282 sshd            Tue Jun 25 11:00:08 2024
+>   20283 ps              Tue Jun 25 11:00:08 2024
+[2024-06-25 11:00:16] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-ex Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-wr Tue Jun 25 10:30:52 2024
+215c215
+<   19465 kworker/1:0-cgr Tue Jun 25 10:59:08 2024
+---
+>   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+217,220c217,220
+<   19498 kworker/2:0-eve Tue Jun 25 10:59:09 2024
+<   20274 sshd            Tue Jun 25 11:00:08 2024
+<   20282 sshd            Tue Jun 25 11:00:08 2024
+<   20283 ps              Tue Jun 25 11:00:08 2024
+---
+>   19498 kworker/2:0-cgr Tue Jun 25 10:59:09 2024
+>   20340 sshd            Tue Jun 25 11:00:13 2024
+>   20348 sshd            Tue Jun 25 11:00:13 2024
+>   20349 ps              Tue Jun 25 11:00:13 2024
+[2024-06-25 11:00:21] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-wr Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+208c208
+<   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+---
+>   18519 kworker/0:2-cgr Tue Jun 25 10:48:23 2024
+210c210
+<   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+213c213
+<   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+215c215
+<   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+---
+>   19465 kworker/1:0-cgr Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   20340 sshd            Tue Jun 25 11:00:13 2024
+<   20348 sshd            Tue Jun 25 11:00:13 2024
+<   20349 ps              Tue Jun 25 11:00:13 2024
+---
+>   20406 sshd            Tue Jun 25 11:00:18 2024
+>   20414 sshd            Tue Jun 25 11:00:18 2024
+>   20415 ps              Tue Jun 25 11:00:18 2024
+[2024-06-25 11:00:25] Diferențe procese:
+208c208
+<   18519 kworker/0:2-cgr Tue Jun 25 10:48:23 2024
+---
+>   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+211c211
+<   19417 kworker/2:1-eve Tue Jun 25 10:53:39 2024
+---
+>   19417 kworker/2:1-mm_ Tue Jun 25 10:53:39 2024
+218,220c218,220
+<   20406 sshd            Tue Jun 25 11:00:18 2024
+<   20414 sshd            Tue Jun 25 11:00:18 2024
+<   20415 ps              Tue Jun 25 11:00:18 2024
+---
+>   20472 sshd            Tue Jun 25 11:00:22 2024
+>   20480 sshd            Tue Jun 25 11:00:22 2024
+>   20481 ps              Tue Jun 25 11:00:23 2024
+[2024-06-25 11:00:30] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+211c211
+<   19417 kworker/2:1-mm_ Tue Jun 25 10:53:39 2024
+---
+>   19417 kworker/2:1-eve Tue Jun 25 10:53:39 2024
+218,220c218,220
+<   20472 sshd            Tue Jun 25 11:00:22 2024
+<   20480 sshd            Tue Jun 25 11:00:22 2024
+<   20481 ps              Tue Jun 25 11:00:23 2024
+---
+>   20538 sshd            Tue Jun 25 11:00:27 2024
+>   20546 sshd            Tue Jun 25 11:00:27 2024
+>   20547 ps              Tue Jun 25 11:00:27 2024
+[2024-06-25 11:00:35] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+210c210
+<   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-fl Tue Jun 25 10:50:33 2024
+216,220c216,220
+<   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+<   19498 kworker/2:0-cgr Tue Jun 25 10:59:09 2024
+<   20538 sshd            Tue Jun 25 11:00:27 2024
+<   20546 sshd            Tue Jun 25 11:00:27 2024
+<   20547 ps              Tue Jun 25 11:00:27 2024
+---
+>   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+>   19498 kworker/2:0-eve Tue Jun 25 10:59:09 2024
+>   20604 sshd            Tue Jun 25 11:00:32 2024
+>   20612 sshd            Tue Jun 25 11:00:32 2024
+>   20613 ps              Tue Jun 25 11:00:32 2024
+[2024-06-25 11:00:39] Diferențe procese:
+215c215
+<   19465 kworker/1:0-cgr Tue Jun 25 10:59:08 2024
+---
+>   19465 kworker/1:0-mm_ Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   20604 sshd            Tue Jun 25 11:00:32 2024
+<   20612 sshd            Tue Jun 25 11:00:32 2024
+<   20613 ps              Tue Jun 25 11:00:32 2024
+---
+>   20670 sshd            Tue Jun 25 11:00:36 2024
+>   20678 sshd            Tue Jun 25 11:00:36 2024
+>   20679 ps              Tue Jun 25 11:00:37 2024
+[2024-06-25 11:00:44] Diferențe procese:
+199c199
+<   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-cgr Tue Jun 25 10:21:16 2024
+210c210
+<   19149 kworker/u8:0-fl Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+216c216
+<   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+---
+>   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   20670 sshd            Tue Jun 25 11:00:36 2024
+<   20678 sshd            Tue Jun 25 11:00:36 2024
+<   20679 ps              Tue Jun 25 11:00:37 2024
+---
+>   20736 sshd            Tue Jun 25 11:00:41 2024
+>   20744 sshd            Tue Jun 25 11:00:41 2024
+>   20745 ps              Tue Jun 25 11:00:41 2024
+[2024-06-25 11:00:49] Diferențe procese:
+199c199
+<   11849 kworker/3:1-cgr Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+210c210
+<   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+215c215
+<   19465 kworker/1:0-mm_ Tue Jun 25 10:59:08 2024
+---
+>   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   20736 sshd            Tue Jun 25 11:00:41 2024
+<   20744 sshd            Tue Jun 25 11:00:41 2024
+<   20745 ps              Tue Jun 25 11:00:41 2024
+---
+>   20802 sshd            Tue Jun 25 11:00:46 2024
+>   20810 sshd            Tue Jun 25 11:00:46 2024
+>   20811 ps              Tue Jun 25 11:00:46 2024
+[2024-06-25 11:00:54] Diferențe procese:
+210c210
+<   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+213c213
+<   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+215c215
+<   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+---
+>   19465 kworker/1:0-cgr Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   20802 sshd            Tue Jun 25 11:00:46 2024
+<   20810 sshd            Tue Jun 25 11:00:46 2024
+<   20811 ps              Tue Jun 25 11:00:46 2024
+---
+>   20870 sshd            Tue Jun 25 11:00:50 2024
+>   20878 sshd            Tue Jun 25 11:00:51 2024
+>   20879 ps              Tue Jun 25 11:00:51 2024
+[2024-06-25 11:00:58] Diferențe procese:
+215,216c215,216
+<   19465 kworker/1:0-cgr Tue Jun 25 10:59:08 2024
+<   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+---
+>   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+>   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   20870 sshd            Tue Jun 25 11:00:50 2024
+<   20878 sshd            Tue Jun 25 11:00:51 2024
+<   20879 ps              Tue Jun 25 11:00:51 2024
+---
+>   20936 sshd            Tue Jun 25 11:00:55 2024
+>   20944 sshd            Tue Jun 25 11:00:55 2024
+>   20945 ps              Tue Jun 25 11:00:55 2024
+[2024-06-25 11:01:03] Diferențe procese:
+218,220c218,220
+<   20936 sshd            Tue Jun 25 11:00:55 2024
+<   20944 sshd            Tue Jun 25 11:00:55 2024
+<   20945 ps              Tue Jun 25 11:00:55 2024
+---
+>   21002 sshd            Tue Jun 25 11:01:00 2024
+>   21010 sshd            Tue Jun 25 11:01:00 2024
+>   21011 ps              Tue Jun 25 11:01:00 2024
+[2024-06-25 11:01:08] Diferențe procese:
+210c210
+<   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-wr Tue Jun 25 10:50:33 2024
+216c216
+<   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+---
+>   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   21002 sshd            Tue Jun 25 11:01:00 2024
+<   21010 sshd            Tue Jun 25 11:01:00 2024
+<   21011 ps              Tue Jun 25 11:01:00 2024
+---
+>   21068 sshd            Tue Jun 25 11:01:05 2024
+>   21076 sshd            Tue Jun 25 11:01:05 2024
+>   21077 ps              Tue Jun 25 11:01:05 2024
+[2024-06-25 11:01:13] Diferențe procese:
+207c207
+<   18166 kworker/1:1-eve Tue Jun 25 10:47:54 2024
+---
+>   18166 kworker/1:1-mm_ Tue Jun 25 10:47:54 2024
+213c213
+<   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+217,220c217,220
+<   19498 kworker/2:0-eve Tue Jun 25 10:59:09 2024
+<   21068 sshd            Tue Jun 25 11:01:05 2024
+<   21076 sshd            Tue Jun 25 11:01:05 2024
+<   21077 ps              Tue Jun 25 11:01:05 2024
+---
+>   19498 kworker/2:0-cgr Tue Jun 25 10:59:09 2024
+>   21149 sshd            Tue Jun 25 11:01:10 2024
+>   21157 sshd            Tue Jun 25 11:01:10 2024
+>   21158 ps              Tue Jun 25 11:01:10 2024
+[2024-06-25 11:01:17] Diferențe procese:
+210c210
+<   19149 kworker/u8:0-wr Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+213c213
+<   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+217,220c217,220
+<   19498 kworker/2:0-cgr Tue Jun 25 10:59:09 2024
+<   21149 sshd            Tue Jun 25 11:01:10 2024
+<   21157 sshd            Tue Jun 25 11:01:10 2024
+<   21158 ps              Tue Jun 25 11:01:10 2024
+---
+>   19498 kworker/2:0-eve Tue Jun 25 10:59:09 2024
+>   21215 sshd            Tue Jun 25 11:01:14 2024
+>   21223 sshd            Tue Jun 25 11:01:14 2024
+>   21224 ps              Tue Jun 25 11:01:15 2024
+[2024-06-25 11:01:22] Diferențe procese:
+199c199
+<   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-mm_ Tue Jun 25 10:21:16 2024
+207c207
+<   18166 kworker/1:1-mm_ Tue Jun 25 10:47:54 2024
+---
+>   18166 kworker/1:1-eve Tue Jun 25 10:47:54 2024
+210c210
+<   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+215c215
+<   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+---
+>   19465 kworker/1:0-mm_ Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   21215 sshd            Tue Jun 25 11:01:14 2024
+<   21223 sshd            Tue Jun 25 11:01:14 2024
+<   21224 ps              Tue Jun 25 11:01:15 2024
+---
+>   21281 sshd            Tue Jun 25 11:01:19 2024
+>   21289 sshd            Tue Jun 25 11:01:19 2024
+>   21290 ps              Tue Jun 25 11:01:19 2024
+[2024-06-25 11:01:27] Diferențe procese:
+199c199
+<   11849 kworker/3:1-mm_ Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+213c213
+<   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+215c215
+<   19465 kworker/1:0-mm_ Tue Jun 25 10:59:08 2024
+---
+>   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   21281 sshd            Tue Jun 25 11:01:19 2024
+<   21289 sshd            Tue Jun 25 11:01:19 2024
+<   21290 ps              Tue Jun 25 11:01:19 2024
+---
+>   21347 sshd            Tue Jun 25 11:01:24 2024
+>   21355 sshd            Tue Jun 25 11:01:24 2024
+>   21356 ps              Tue Jun 25 11:01:24 2024
+[2024-06-25 11:01:32] Diferențe procese:
+210c210
+<   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+218,220c218,220
+<   21347 sshd            Tue Jun 25 11:01:24 2024
+<   21355 sshd            Tue Jun 25 11:01:24 2024
+<   21356 ps              Tue Jun 25 11:01:24 2024
+---
+>   21413 sshd            Tue Jun 25 11:01:29 2024
+>   21421 sshd            Tue Jun 25 11:01:29 2024
+>   21422 ps              Tue Jun 25 11:01:29 2024
+[2024-06-25 11:01:37] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ex Tue Jun 25 10:30:52 2024
+210c210
+<   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+213c213
+<   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   21413 sshd            Tue Jun 25 11:01:29 2024
+<   21421 sshd            Tue Jun 25 11:01:29 2024
+<   21422 ps              Tue Jun 25 11:01:29 2024
+---
+>   21479 sshd            Tue Jun 25 11:01:33 2024
+>   21487 sshd            Tue Jun 25 11:01:33 2024
+>   21488 ps              Tue Jun 25 11:01:34 2024
+[2024-06-25 11:01:41] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-ex Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+210c210
+<   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+213c213
+<   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   21479 sshd            Tue Jun 25 11:01:33 2024
+<   21487 sshd            Tue Jun 25 11:01:33 2024
+<   21488 ps              Tue Jun 25 11:01:34 2024
+---
+>   21545 sshd            Tue Jun 25 11:01:38 2024
+>   21553 sshd            Tue Jun 25 11:01:38 2024
+>   21554 ps              Tue Jun 25 11:01:38 2024
+[2024-06-25 11:01:46] Diferențe procese:
+210c210
+<   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-fl Tue Jun 25 10:50:33 2024
+213c213
+<   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+217,220c217,220
+<   19498 kworker/2:0-eve Tue Jun 25 10:59:09 2024
+<   21545 sshd            Tue Jun 25 11:01:38 2024
+<   21553 sshd            Tue Jun 25 11:01:38 2024
+<   21554 ps              Tue Jun 25 11:01:38 2024
+---
+>   19498 kworker/2:0-cgr Tue Jun 25 10:59:09 2024
+>   21611 sshd            Tue Jun 25 11:01:43 2024
+>   21619 sshd            Tue Jun 25 11:01:43 2024
+>   21620 ps              Tue Jun 25 11:01:43 2024
+[2024-06-25 11:01:50] Diferențe procese:
+210c210
+<   19149 kworker/u8:0-fl Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+213c213
+<   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+217,220c217,220
+<   19498 kworker/2:0-cgr Tue Jun 25 10:59:09 2024
+<   21611 sshd            Tue Jun 25 11:01:43 2024
+<   21619 sshd            Tue Jun 25 11:01:43 2024
+<   21620 ps              Tue Jun 25 11:01:43 2024
+---
+>   19498 kworker/2:0-mm_ Tue Jun 25 10:59:09 2024
+>   21677 sshd            Tue Jun 25 11:01:47 2024
+>   21685 sshd            Tue Jun 25 11:01:47 2024
+>   21686 ps              Tue Jun 25 11:01:47 2024
+[2024-06-25 11:01:55] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+210c210
+<   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+216,220c216,220
+<   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+<   19498 kworker/2:0-mm_ Tue Jun 25 10:59:09 2024
+<   21677 sshd            Tue Jun 25 11:01:47 2024
+<   21685 sshd            Tue Jun 25 11:01:47 2024
+<   21686 ps              Tue Jun 25 11:01:47 2024
+---
+>   19476 kworker/0:0-ata Tue Jun 25 10:59:09 2024
+>   19498 kworker/2:0-eve Tue Jun 25 10:59:09 2024
+>   21743 sshd            Tue Jun 25 11:01:52 2024
+>   21751 sshd            Tue Jun 25 11:01:52 2024
+>   21752 ps              Tue Jun 25 11:01:52 2024
+[2024-06-25 11:02:00] Diferențe procese:
+216c216
+<   19476 kworker/0:0-ata Tue Jun 25 10:59:09 2024
+---
+>   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   21743 sshd            Tue Jun 25 11:01:52 2024
+<   21751 sshd            Tue Jun 25 11:01:52 2024
+<   21752 ps              Tue Jun 25 11:01:52 2024
+---
+>   21809 sshd            Tue Jun 25 11:01:57 2024
+>   21817 sshd            Tue Jun 25 11:01:57 2024
+>   21818 ps              Tue Jun 25 11:01:57 2024
+[2024-06-25 11:02:05] Diferențe procese:
+207c207
+<   18166 kworker/1:1-eve Tue Jun 25 10:47:54 2024
+---
+>   18166 kworker/1:1-cgr Tue Jun 25 10:47:54 2024
+218,220c218,220
+<   21809 sshd            Tue Jun 25 11:01:57 2024
+<   21817 sshd            Tue Jun 25 11:01:57 2024
+<   21818 ps              Tue Jun 25 11:01:57 2024
+---
+>   21875 sshd            Tue Jun 25 11:02:02 2024
+>   21883 sshd            Tue Jun 25 11:02:02 2024
+>   21884 ps              Tue Jun 25 11:02:02 2024
+[2024-06-25 11:02:10] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+211c211
+<   19417 kworker/2:1-eve Tue Jun 25 10:53:39 2024
+---
+>   19417 kworker/2:1-cgr Tue Jun 25 10:53:39 2024
+213c213
+<   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+217,220c217,220
+<   19498 kworker/2:0-eve Tue Jun 25 10:59:09 2024
+<   21875 sshd            Tue Jun 25 11:02:02 2024
+<   21883 sshd            Tue Jun 25 11:02:02 2024
+<   21884 ps              Tue Jun 25 11:02:02 2024
+---
+>   19498 kworker/2:0-ata Tue Jun 25 10:59:09 2024
+>   21941 sshd            Tue Jun 25 11:02:06 2024
+>   21949 sshd            Tue Jun 25 11:02:06 2024
+>   21950 ps              Tue Jun 25 11:02:07 2024
+[2024-06-25 11:02:15] Diferențe procese:
+207c207
+<   18166 kworker/1:1-cgr Tue Jun 25 10:47:54 2024
+---
+>   18166 kworker/1:1-eve Tue Jun 25 10:47:54 2024
+213c213
+<   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+217,220c217,220
+<   19498 kworker/2:0-ata Tue Jun 25 10:59:09 2024
+<   21941 sshd            Tue Jun 25 11:02:06 2024
+<   21949 sshd            Tue Jun 25 11:02:06 2024
+<   21950 ps              Tue Jun 25 11:02:07 2024
+---
+>   19498 kworker/2:0-eve Tue Jun 25 10:59:09 2024
+>   22022 sshd            Tue Jun 25 11:02:12 2024
+>   22030 sshd            Tue Jun 25 11:02:12 2024
+>   22031 ps              Tue Jun 25 11:02:12 2024
+[2024-06-25 11:02:20] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+218,220c218,220
+<   22022 sshd            Tue Jun 25 11:02:12 2024
+<   22030 sshd            Tue Jun 25 11:02:12 2024
+<   22031 ps              Tue Jun 25 11:02:12 2024
+---
+>   22088 sshd            Tue Jun 25 11:02:17 2024
+>   22096 sshd            Tue Jun 25 11:02:17 2024
+>   22097 ps              Tue Jun 25 11:02:17 2024
+[2024-06-25 11:02:25] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+207c207
+<   18166 kworker/1:1-eve Tue Jun 25 10:47:54 2024
+---
+>   18166 kworker/1:1-cgr Tue Jun 25 10:47:54 2024
+211c211
+<   19417 kworker/2:1-cgr Tue Jun 25 10:53:39 2024
+---
+>   19417 kworker/2:1-eve Tue Jun 25 10:53:39 2024
+216c216
+<   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+---
+>   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   22088 sshd            Tue Jun 25 11:02:17 2024
+<   22096 sshd            Tue Jun 25 11:02:17 2024
+<   22097 ps              Tue Jun 25 11:02:17 2024
+---
+>   22154 sshd            Tue Jun 25 11:02:22 2024
+>   22162 sshd            Tue Jun 25 11:02:22 2024
+>   22163 ps              Tue Jun 25 11:02:22 2024
+[2024-06-25 11:02:30] Diferențe procese:
+207c207
+<   18166 kworker/1:1-cgr Tue Jun 25 10:47:54 2024
+---
+>   18166 kworker/1:1-eve Tue Jun 25 10:47:54 2024
+218,220c218,220
+<   22154 sshd            Tue Jun 25 11:02:22 2024
+<   22162 sshd            Tue Jun 25 11:02:22 2024
+<   22163 ps              Tue Jun 25 11:02:22 2024
+---
+>   22220 sshd            Tue Jun 25 11:02:27 2024
+>   22228 sshd            Tue Jun 25 11:02:27 2024
+>   22229 ps              Tue Jun 25 11:02:27 2024
+[2024-06-25 11:02:35] Diferențe procese:
+216c216
+<   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+---
+>   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   22220 sshd            Tue Jun 25 11:02:27 2024
+<   22228 sshd            Tue Jun 25 11:02:27 2024
+<   22229 ps              Tue Jun 25 11:02:27 2024
+---
+>   22286 sshd            Tue Jun 25 11:02:32 2024
+>   22294 sshd            Tue Jun 25 11:02:32 2024
+>   22295 ps              Tue Jun 25 11:02:32 2024
+[2024-06-25 11:02:40] Diferențe procese:
+218,220c218,220
+<   22286 sshd            Tue Jun 25 11:02:32 2024
+<   22294 sshd            Tue Jun 25 11:02:32 2024
+<   22295 ps              Tue Jun 25 11:02:32 2024
+---
+>   22352 sshd            Tue Jun 25 11:02:36 2024
+>   22360 sshd            Tue Jun 25 11:02:37 2024
+>   22361 ps              Tue Jun 25 11:02:37 2024
+[2024-06-25 11:02:44] Diferențe procese:
+199c199
+<   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-mm_ Tue Jun 25 10:21:16 2024
+208c208
+<   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+---
+>   18519 kworker/0:2-mm_ Tue Jun 25 10:48:23 2024
+210c210
+<   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-fl Tue Jun 25 10:50:33 2024
+215c215
+<   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+---
+>   19465 kworker/1:0-mm_ Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   22352 sshd            Tue Jun 25 11:02:36 2024
+<   22360 sshd            Tue Jun 25 11:02:37 2024
+<   22361 ps              Tue Jun 25 11:02:37 2024
+---
+>   22418 sshd            Tue Jun 25 11:02:41 2024
+>   22426 sshd            Tue Jun 25 11:02:41 2024
+>   22427 ps              Tue Jun 25 11:02:41 2024
+[2024-06-25 11:02:49] Diferențe procese:
+199c199
+<   11849 kworker/3:1-mm_ Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+208c208
+<   18519 kworker/0:2-mm_ Tue Jun 25 10:48:23 2024
+---
+>   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+210,211c210,211
+<   19149 kworker/u8:0-fl Tue Jun 25 10:50:33 2024
+<   19417 kworker/2:1-eve Tue Jun 25 10:53:39 2024
+---
+>   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+>   19417 kworker/2:1-cgr Tue Jun 25 10:53:39 2024
+215c215
+<   19465 kworker/1:0-mm_ Tue Jun 25 10:59:08 2024
+---
+>   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   22418 sshd            Tue Jun 25 11:02:41 2024
+<   22426 sshd            Tue Jun 25 11:02:41 2024
+<   22427 ps              Tue Jun 25 11:02:41 2024
+---
+>   22484 sshd            Tue Jun 25 11:02:46 2024
+>   22492 sshd            Tue Jun 25 11:02:46 2024
+>   22493 ps              Tue Jun 25 11:02:46 2024
+[2024-06-25 11:02:54] Diferențe procese:
+207c207
+<   18166 kworker/1:1-eve Tue Jun 25 10:47:54 2024
+---
+>   18166 kworker/1:1-cgr Tue Jun 25 10:47:54 2024
+213c213
+<   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   22484 sshd            Tue Jun 25 11:02:46 2024
+<   22492 sshd            Tue Jun 25 11:02:46 2024
+<   22493 ps              Tue Jun 25 11:02:46 2024
+---
+>   22550 sshd            Tue Jun 25 11:02:50 2024
+>   22558 sshd            Tue Jun 25 11:02:51 2024
+>   22559 ps              Tue Jun 25 11:02:51 2024
+[2024-06-25 11:02:58] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ex Tue Jun 25 10:30:52 2024
+207c207
+<   18166 kworker/1:1-cgr Tue Jun 25 10:47:54 2024
+---
+>   18166 kworker/1:1-eve Tue Jun 25 10:47:54 2024
+211c211
+<   19417 kworker/2:1-cgr Tue Jun 25 10:53:39 2024
+---
+>   19417 kworker/2:1-eve Tue Jun 25 10:53:39 2024
+213c213
+<   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   22550 sshd            Tue Jun 25 11:02:50 2024
+<   22558 sshd            Tue Jun 25 11:02:51 2024
+<   22559 ps              Tue Jun 25 11:02:51 2024
+---
+>   22616 sshd            Tue Jun 25 11:02:55 2024
+>   22624 sshd            Tue Jun 25 11:02:55 2024
+>   22625 ps              Tue Jun 25 11:02:55 2024
+[2024-06-25 11:03:03] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-ex Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+208c208
+<   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+---
+>   18519 kworker/0:2-cgr Tue Jun 25 10:48:23 2024
+210c210
+<   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-fl Tue Jun 25 10:50:33 2024
+218,220c218,220
+<   22616 sshd            Tue Jun 25 11:02:55 2024
+<   22624 sshd            Tue Jun 25 11:02:55 2024
+<   22625 ps              Tue Jun 25 11:02:55 2024
+---
+>   22682 sshd            Tue Jun 25 11:03:00 2024
+>   22690 sshd            Tue Jun 25 11:03:00 2024
+>   22691 ps              Tue Jun 25 11:03:00 2024
+[2024-06-25 11:03:08] Diferențe procese:
+207,208c207,208
+<   18166 kworker/1:1-eve Tue Jun 25 10:47:54 2024
+<   18519 kworker/0:2-cgr Tue Jun 25 10:48:23 2024
+---
+>   18166 kworker/1:1-cgr Tue Jun 25 10:47:54 2024
+>   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+218,220c218,220
+<   22682 sshd            Tue Jun 25 11:03:00 2024
+<   22690 sshd            Tue Jun 25 11:03:00 2024
+<   22691 ps              Tue Jun 25 11:03:00 2024
+---
+>   22748 sshd            Tue Jun 25 11:03:05 2024
+>   22756 sshd            Tue Jun 25 11:03:05 2024
+>   22757 ps              Tue Jun 25 11:03:05 2024
+[2024-06-25 11:03:13] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+207c207
+<   18166 kworker/1:1-cgr Tue Jun 25 10:47:54 2024
+---
+>   18166 kworker/1:1-eve Tue Jun 25 10:47:54 2024
+216c216
+<   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+---
+>   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   22748 sshd            Tue Jun 25 11:03:05 2024
+<   22756 sshd            Tue Jun 25 11:03:05 2024
+<   22757 ps              Tue Jun 25 11:03:05 2024
+---
+>   22814 sshd            Tue Jun 25 11:03:10 2024
+>   22822 sshd            Tue Jun 25 11:03:10 2024
+>   22823 ps              Tue Jun 25 11:03:10 2024
+[2024-06-25 11:03:18] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+208c208
+<   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+---
+>   18519 kworker/0:2-ata Tue Jun 25 10:48:23 2024
+210c210
+<   19149 kworker/u8:0-fl Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+216c216
+<   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+---
+>   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   22814 sshd            Tue Jun 25 11:03:10 2024
+<   22822 sshd            Tue Jun 25 11:03:10 2024
+<   22823 ps              Tue Jun 25 11:03:10 2024
+---
+>   22895 sshd            Tue Jun 25 11:03:15 2024
+>   22903 sshd            Tue Jun 25 11:03:15 2024
+>   22904 ps              Tue Jun 25 11:03:15 2024
+[2024-06-25 11:03:23] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+208c208
+<   18519 kworker/0:2-ata Tue Jun 25 10:48:23 2024
+---
+>   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+216c216
+<   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+---
+>   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   22895 sshd            Tue Jun 25 11:03:15 2024
+<   22903 sshd            Tue Jun 25 11:03:15 2024
+<   22904 ps              Tue Jun 25 11:03:15 2024
+---
+>   22961 sshd            Tue Jun 25 11:03:20 2024
+>   22969 sshd            Tue Jun 25 11:03:20 2024
+>   22970 ps              Tue Jun 25 11:03:20 2024
+[2024-06-25 11:03:28] Diferențe procese:
+200c200
+<   13182 kworker/u8:2-fl Tue Jun 25 10:30:52 2024
+---
+>   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+213c213
+<   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+216c216
+<   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+---
+>   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   22961 sshd            Tue Jun 25 11:03:20 2024
+<   22969 sshd            Tue Jun 25 11:03:20 2024
+<   22970 ps              Tue Jun 25 11:03:20 2024
+---
+>   23027 sshd            Tue Jun 25 11:03:24 2024
+>   23035 sshd            Tue Jun 25 11:03:25 2024
+>   23036 ps              Tue Jun 25 11:03:25 2024
+[2024-06-25 11:03:33] Diferențe procese:
+213c213
+<   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+---
+>   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   23027 sshd            Tue Jun 25 11:03:24 2024
+<   23035 sshd            Tue Jun 25 11:03:25 2024
+<   23036 ps              Tue Jun 25 11:03:25 2024
+---
+>   23093 sshd            Tue Jun 25 11:03:29 2024
+>   23101 sshd            Tue Jun 25 11:03:30 2024
+>   23102 ps              Tue Jun 25 11:03:30 2024
+[2024-06-25 11:03:37] Diferențe procese:
+218,220c218,220
+<   23093 sshd            Tue Jun 25 11:03:29 2024
+<   23101 sshd            Tue Jun 25 11:03:30 2024
+<   23102 ps              Tue Jun 25 11:03:30 2024
+---
+>   23159 sshd            Tue Jun 25 11:03:34 2024
+>   23167 sshd            Tue Jun 25 11:03:34 2024
+>   23168 ps              Tue Jun 25 11:03:34 2024
+[2024-06-25 11:03:42] Diferențe procese:
+218,220c218,220
+<   23159 sshd            Tue Jun 25 11:03:34 2024
+<   23167 sshd            Tue Jun 25 11:03:34 2024
+<   23168 ps              Tue Jun 25 11:03:34 2024
+---
+>   23225 sshd            Tue Jun 25 11:03:39 2024
+>   23233 sshd            Tue Jun 25 11:03:39 2024
+>   23234 ps              Tue Jun 25 11:03:39 2024
+[2024-06-25 11:03:47] Diferențe procese:
+210c210
+<   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+216c216
+<   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+---
+>   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   23225 sshd            Tue Jun 25 11:03:39 2024
+<   23233 sshd            Tue Jun 25 11:03:39 2024
+<   23234 ps              Tue Jun 25 11:03:39 2024
+---
+>   23291 sshd            Tue Jun 25 11:03:44 2024
+>   23299 sshd            Tue Jun 25 11:03:44 2024
+>   23300 ps              Tue Jun 25 11:03:44 2024
+[2024-06-25 11:03:52] Diferențe procese:
+210,211c210,211
+<   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+<   19417 kworker/2:1-eve Tue Jun 25 10:53:39 2024
+---
+>   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+>   19417 kworker/2:1-cgr Tue Jun 25 10:53:39 2024
+216c216
+<   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+---
+>   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   23291 sshd            Tue Jun 25 11:03:44 2024
+<   23299 sshd            Tue Jun 25 11:03:44 2024
+<   23300 ps              Tue Jun 25 11:03:44 2024
+---
+>   23357 sshd            Tue Jun 25 11:03:49 2024
+>   23365 sshd            Tue Jun 25 11:03:49 2024
+>   23366 ps              Tue Jun 25 11:03:49 2024
+[2024-06-25 11:03:57] Diferențe procese:
+210c210
+<   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-fl Tue Jun 25 10:50:33 2024
+216c216
+<   19476 kworker/0:0-eve Tue Jun 25 10:59:09 2024
+---
+>   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+218,220c218,220
+<   23357 sshd            Tue Jun 25 11:03:49 2024
+<   23365 sshd            Tue Jun 25 11:03:49 2024
+<   23366 ps              Tue Jun 25 11:03:49 2024
+---
+>   23423 sshd            Tue Jun 25 11:03:53 2024
+>   23431 sshd            Tue Jun 25 11:03:54 2024
+>   23432 ps              Tue Jun 25 11:03:54 2024
+[2024-06-25 11:04:01] Diferențe procese:
+210,211c210,211
+<   19149 kworker/u8:0-fl Tue Jun 25 10:50:33 2024
+<   19417 kworker/2:1-cgr Tue Jun 25 10:53:39 2024
+---
+>   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+>   19417 kworker/2:1-eve Tue Jun 25 10:53:39 2024
+218,220c218,220
+<   23423 sshd            Tue Jun 25 11:03:53 2024
+<   23431 sshd            Tue Jun 25 11:03:54 2024
+<   23432 ps              Tue Jun 25 11:03:54 2024
+---
+>   23489 sshd            Tue Jun 25 11:03:58 2024
+>   23497 sshd            Tue Jun 25 11:03:58 2024
+>   23498 ps              Tue Jun 25 11:03:58 2024
+[2024-06-25 11:04:06] Diferențe procese:
+199c199
+<   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-cgr Tue Jun 25 10:21:16 2024
+218,220c218,220
+<   23489 sshd            Tue Jun 25 11:03:58 2024
+<   23497 sshd            Tue Jun 25 11:03:58 2024
+<   23498 ps              Tue Jun 25 11:03:58 2024
+---
+>   23555 sshd            Tue Jun 25 11:04:03 2024
+>   23563 sshd            Tue Jun 25 11:04:03 2024
+>   23564 ps              Tue Jun 25 11:04:03 2024
+[2024-06-25 11:04:11] Diferențe procese:
+199c199
+<   11849 kworker/3:1-cgr Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+211c211
+<   19417 kworker/2:1-eve Tue Jun 25 10:53:39 2024
+---
+>   19417 kworker/2:1-cgr Tue Jun 25 10:53:39 2024
+217,220c217,220
+<   19498 kworker/2:0-eve Tue Jun 25 10:59:09 2024
+<   23555 sshd            Tue Jun 25 11:04:03 2024
+<   23563 sshd            Tue Jun 25 11:04:03 2024
+<   23564 ps              Tue Jun 25 11:04:03 2024
+---
+>   19498 kworker/2:0-cgr Tue Jun 25 10:59:09 2024
+>   23621 sshd            Tue Jun 25 11:04:08 2024
+>   23629 sshd            Tue Jun 25 11:04:08 2024
+>   23630 ps              Tue Jun 25 11:04:08 2024
+[2024-06-25 11:04:16] Diferențe procese:
+203,206d202
+<   15360 kworker/1:2-cgr Tue Jun 25 10:42:37 2024
+<   15839 kworker/0:1-cgr Tue Jun 25 10:43:11 2024
+<   16754 kworker/2:3-eve Tue Jun 25 10:45:37 2024
+<   17777 kworker/3:0-eve Tue Jun 25 10:47:29 2024
+210,213c206,208
+<   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+<   19417 kworker/2:1-cgr Tue Jun 25 10:53:39 2024
+<   19420 kworker/u8:1-ev Tue Jun 25 10:56:17 2024
+<   19436 kworker/3:2-eve Tue Jun 25 10:59:08 2024
+---
+>   19149 kworker/u8:0-wr Tue Jun 25 10:50:33 2024
+>   19417 kworker/2:1-eve Tue Jun 25 10:53:39 2024
+>   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+217,220c212,217
+<   19498 kworker/2:0-cgr Tue Jun 25 10:59:09 2024
+<   23621 sshd            Tue Jun 25 11:04:08 2024
+<   23629 sshd            Tue Jun 25 11:04:08 2024
+<   23630 ps              Tue Jun 25 11:04:08 2024
+---
+>   19498 kworker/2:0-eve Tue Jun 25 10:59:09 2024
+>   23676 kworker/0:1-eve Tue Jun 25 11:04:13 2024
+>   23688 sshd            Tue Jun 25 11:04:13 2024
+>   23690 kworker/3:0-eve Tue Jun 25 11:04:13 2024
+>   23697 sshd            Tue Jun 25 11:04:13 2024
+>   23698 ps              Tue Jun 25 11:04:13 2024
+[2024-06-25 11:04:22] Diferențe procese:
+206c206
+<   19149 kworker/u8:0-wr Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-fl Tue Jun 25 10:50:33 2024
+214d213
+<   23688 sshd            Tue Jun 25 11:04:13 2024
+216,217c215,219
+<   23697 sshd            Tue Jun 25 11:04:13 2024
+<   23698 ps              Tue Jun 25 11:04:13 2024
+---
+>   23701 kworker/2:2-eve Tue Jun 25 11:04:13 2024
+>   23760 kworker/1:2-eve Tue Jun 25 11:04:18 2024
+>   23772 sshd            Tue Jun 25 11:04:18 2024
+>   23780 sshd            Tue Jun 25 11:04:18 2024
+>   23781 ps              Tue Jun 25 11:04:18 2024
+[2024-06-25 11:04:26] Diferențe procese:
+206c206
+<   19149 kworker/u8:0-fl Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+217,219c217,219
+<   23772 sshd            Tue Jun 25 11:04:18 2024
+<   23780 sshd            Tue Jun 25 11:04:18 2024
+<   23781 ps              Tue Jun 25 11:04:18 2024
+---
+>   23838 sshd            Tue Jun 25 11:04:23 2024
+>   23846 sshd            Tue Jun 25 11:04:23 2024
+>   23847 ps              Tue Jun 25 11:04:23 2024
+[2024-06-25 11:04:31] Diferențe procese:
+206c206
+<   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+216,219c216,219
+<   23760 kworker/1:2-eve Tue Jun 25 11:04:18 2024
+<   23838 sshd            Tue Jun 25 11:04:23 2024
+<   23846 sshd            Tue Jun 25 11:04:23 2024
+<   23847 ps              Tue Jun 25 11:04:23 2024
+---
+>   23760 kworker/1:2-cgr Tue Jun 25 11:04:18 2024
+>   23904 sshd            Tue Jun 25 11:04:28 2024
+>   23912 sshd            Tue Jun 25 11:04:28 2024
+>   23913 ps              Tue Jun 25 11:04:28 2024
+[2024-06-25 11:04:36] Diferențe procese:
+216,219c216,219
+<   23760 kworker/1:2-cgr Tue Jun 25 11:04:18 2024
+<   23904 sshd            Tue Jun 25 11:04:28 2024
+<   23912 sshd            Tue Jun 25 11:04:28 2024
+<   23913 ps              Tue Jun 25 11:04:28 2024
+---
+>   23760 kworker/1:2-mm_ Tue Jun 25 11:04:18 2024
+>   23970 sshd            Tue Jun 25 11:04:33 2024
+>   23978 sshd            Tue Jun 25 11:04:33 2024
+>   23979 ps              Tue Jun 25 11:04:33 2024
+[2024-06-25 11:04:41] Diferențe procese:
+204c204
+<   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+---
+>   18519 kworker/0:2-cgr Tue Jun 25 10:48:23 2024
+217,219c217,219
+<   23970 sshd            Tue Jun 25 11:04:33 2024
+<   23978 sshd            Tue Jun 25 11:04:33 2024
+<   23979 ps              Tue Jun 25 11:04:33 2024
+---
+>   24036 sshd            Tue Jun 25 11:04:37 2024
+>   24044 sshd            Tue Jun 25 11:04:38 2024
+>   24045 ps              Tue Jun 25 11:04:38 2024
+[2024-06-25 11:04:46] Diferențe procese:
+204c204
+<   18519 kworker/0:2-cgr Tue Jun 25 10:48:23 2024
+---
+>   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+206c206
+<   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-wr Tue Jun 25 10:50:33 2024
+209c209
+<   19450 kworker/u8:3-ev Tue Jun 25 10:59:08 2024
+---
+>   19450 kworker/u8:3-fl Tue Jun 25 10:59:08 2024
+216,219c216,220
+<   23760 kworker/1:2-mm_ Tue Jun 25 11:04:18 2024
+<   24036 sshd            Tue Jun 25 11:04:37 2024
+<   24044 sshd            Tue Jun 25 11:04:38 2024
+<   24045 ps              Tue Jun 25 11:04:38 2024
+---
+>   23760 kworker/1:2-eve Tue Jun 25 11:04:18 2024
+>   24068 kworker/u8:1    Tue Jun 25 11:04:38 2024
+>   24103 sshd            Tue Jun 25 11:04:42 2024
+>   24111 sshd            Tue Jun 25 11:04:42 2024
+>   24112 ps              Tue Jun 25 11:04:43 2024
+[2024-06-25 11:04:50] Diferențe procese:
+206c206
+<   19149 kworker/u8:0-wr Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+209c209
+<   19450 kworker/u8:3-fl Tue Jun 25 10:59:08 2024
+---
+>   19450 kworker/u8:3-ev Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   24103 sshd            Tue Jun 25 11:04:42 2024
+<   24111 sshd            Tue Jun 25 11:04:42 2024
+<   24112 ps              Tue Jun 25 11:04:43 2024
+---
+>   24169 sshd            Tue Jun 25 11:04:47 2024
+>   24177 sshd            Tue Jun 25 11:04:47 2024
+>   24178 ps              Tue Jun 25 11:04:47 2024
+[2024-06-25 11:04:56] Diferențe procese:
+199c199
+<   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-cgr Tue Jun 25 10:21:16 2024
+209c209
+<   19450 kworker/u8:3-ev Tue Jun 25 10:59:08 2024
+---
+>   19450 kworker/u8:3-ex Tue Jun 25 10:59:08 2024
+216c216
+<   23760 kworker/1:2-eve Tue Jun 25 11:04:18 2024
+---
+>   23760 kworker/1:2-cgr Tue Jun 25 11:04:18 2024
+218,220c218,220
+<   24169 sshd            Tue Jun 25 11:04:47 2024
+<   24177 sshd            Tue Jun 25 11:04:47 2024
+<   24178 ps              Tue Jun 25 11:04:47 2024
+---
+>   24235 sshd            Tue Jun 25 11:04:52 2024
+>   24243 sshd            Tue Jun 25 11:04:53 2024
+>   24244 ps              Tue Jun 25 11:04:53 2024
+[2024-06-25 11:05:01] Diferențe procese:
+204c204
+<   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+---
+>   18519 kworker/0:2-mm_ Tue Jun 25 10:48:23 2024
+209,210c209,210
+<   19450 kworker/u8:3-ex Tue Jun 25 10:59:08 2024
+<   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+---
+>   19450 kworker/u8:3-fl Tue Jun 25 10:59:08 2024
+>   19465 kworker/1:0-mm_ Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   24235 sshd            Tue Jun 25 11:04:52 2024
+<   24243 sshd            Tue Jun 25 11:04:53 2024
+<   24244 ps              Tue Jun 25 11:04:53 2024
+---
+>   24301 sshd            Tue Jun 25 11:04:57 2024
+>   24309 sshd            Tue Jun 25 11:04:57 2024
+>   24310 ps              Tue Jun 25 11:04:57 2024
+[2024-06-25 11:05:05] Diferențe procese:
+199c199
+<   11849 kworker/3:1-cgr Tue Jun 25 10:21:16 2024
+---
+>   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+204c204
+<   18519 kworker/0:2-mm_ Tue Jun 25 10:48:23 2024
+---
+>   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+209,210c209,210
+<   19450 kworker/u8:3-fl Tue Jun 25 10:59:08 2024
+<   19465 kworker/1:0-mm_ Tue Jun 25 10:59:08 2024
+---
+>   19450 kworker/u8:3-ev Tue Jun 25 10:59:08 2024
+>   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+218,220c218,220
+<   24301 sshd            Tue Jun 25 11:04:57 2024
+<   24309 sshd            Tue Jun 25 11:04:57 2024
+<   24310 ps              Tue Jun 25 11:04:57 2024
+---
+>   24367 sshd            Tue Jun 25 11:05:02 2024
+>   24375 sshd            Tue Jun 25 11:05:02 2024
+>   24376 ps              Tue Jun 25 11:05:02 2024
+[2024-06-25 11:05:10] Diferențe procese:
+206c206
+<   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-wr Tue Jun 25 10:50:33 2024
+209c209
+<   19450 kworker/u8:3-ev Tue Jun 25 10:59:08 2024
+---
+>   19450 kworker/u8:3-fl Tue Jun 25 10:59:08 2024
+216c216
+<   23760 kworker/1:2-cgr Tue Jun 25 11:04:18 2024
+---
+>   23760 kworker/1:2-eve Tue Jun 25 11:04:18 2024
+218,220c218,220
+<   24367 sshd            Tue Jun 25 11:05:02 2024
+<   24375 sshd            Tue Jun 25 11:05:02 2024
+<   24376 ps              Tue Jun 25 11:05:02 2024
+---
+>   24433 sshd            Tue Jun 25 11:05:07 2024
+>   24441 sshd            Tue Jun 25 11:05:07 2024
+>   24442 ps              Tue Jun 25 11:05:07 2024
+[2024-06-25 11:05:15] Diferențe procese:
+206c206
+<   19149 kworker/u8:0-wr Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+209c209
+<   19450 kworker/u8:3-fl Tue Jun 25 10:59:08 2024
+---
+>   19450 kworker/u8:3-ex Tue Jun 25 10:59:08 2024
+213,215c213,215
+<   23676 kworker/0:1-eve Tue Jun 25 11:04:13 2024
+<   23690 kworker/3:0-eve Tue Jun 25 11:04:13 2024
+<   23701 kworker/2:2-eve Tue Jun 25 11:04:13 2024
+---
+>   23676 kworker/0:1-cgr Tue Jun 25 11:04:13 2024
+>   23690 kworker/3:0-cgr Tue Jun 25 11:04:13 2024
+>   23701 kworker/2:2-cgr Tue Jun 25 11:04:13 2024
+218,220c218,220
+<   24433 sshd            Tue Jun 25 11:05:07 2024
+<   24441 sshd            Tue Jun 25 11:05:07 2024
+<   24442 ps              Tue Jun 25 11:05:07 2024
+---
+>   24499 sshd            Tue Jun 25 11:05:11 2024
+>   24507 sshd            Tue Jun 25 11:05:12 2024
+>   24508 ps              Tue Jun 25 11:05:12 2024
+[2024-06-25 11:05:20] Diferențe procese:
+206c206
+<   19149 kworker/u8:0-ex Tue Jun 25 10:50:33 2024
+---
+>   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+209,210c209,210
+<   19450 kworker/u8:3-ex Tue Jun 25 10:59:08 2024
+<   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+---
+>   19450 kworker/u8:3-ev Tue Jun 25 10:59:08 2024
+>   19465 kworker/1:0-cgr Tue Jun 25 10:59:08 2024
+213,214c213,214
+<   23676 kworker/0:1-cgr Tue Jun 25 11:04:13 2024
+<   23690 kworker/3:0-cgr Tue Jun 25 11:04:13 2024
+---
+>   23676 kworker/0:1-eve Tue Jun 25 11:04:13 2024
+>   23690 kworker/3:0-eve Tue Jun 25 11:04:13 2024
+218,220c218,220
+<   24499 sshd            Tue Jun 25 11:05:11 2024
+<   24507 sshd            Tue Jun 25 11:05:12 2024
+<   24508 ps              Tue Jun 25 11:05:12 2024
+---
+>   24565 sshd            Tue Jun 25 11:05:16 2024
+>   24573 sshd            Tue Jun 25 11:05:17 2024
+>   24574 ps              Tue Jun 25 11:05:17 2024
+[2024-06-25 11:05:25] Diferențe procese:
+209,210c209,210
+<   19450 kworker/u8:3-ev Tue Jun 25 10:59:08 2024
+<   19465 kworker/1:0-cgr Tue Jun 25 10:59:08 2024
+---
+>   19450 kworker/u8:3-ex Tue Jun 25 10:59:08 2024
+>   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+213c213
+<   23676 kworker/0:1-eve Tue Jun 25 11:04:13 2024
+---
+>   23676 kworker/0:1-cgr Tue Jun 25 11:04:13 2024
+218,220c218,220
+<   24565 sshd            Tue Jun 25 11:05:16 2024
+<   24573 sshd            Tue Jun 25 11:05:17 2024
+<   24574 ps              Tue Jun 25 11:05:17 2024
+---
+>   24646 sshd            Tue Jun 25 11:05:22 2024
+>   24654 sshd            Tue Jun 25 11:05:22 2024
+>   24655 ps              Tue Jun 25 11:05:22 2024
+[2024-06-25 12:57:58] Diferențe procese:
+199,200d198
+<   11849 kworker/3:1-eve Tue Jun 25 10:21:16 2024
+<   13182 kworker/u8:2-ev Tue Jun 25 10:30:52 2024
+203,204d200
+<   18166 kworker/1:1-eve Tue Jun 25 10:47:54 2024
+<   18519 kworker/0:2-eve Tue Jun 25 10:48:23 2024
+206,220c202,219
+<   19149 kworker/u8:0-ev Tue Jun 25 10:50:33 2024
+<   19417 kworker/2:1-eve Tue Jun 25 10:53:39 2024
+<   19436 kworker/3:2-cgr Tue Jun 25 10:59:08 2024
+<   19450 kworker/u8:3-ex Tue Jun 25 10:59:08 2024
+<   19465 kworker/1:0-eve Tue Jun 25 10:59:08 2024
+<   19476 kworker/0:0-cgr Tue Jun 25 10:59:09 2024
+<   19498 kworker/2:0-eve Tue Jun 25 10:59:09 2024
+<   23676 kworker/0:1-cgr Tue Jun 25 11:04:13 2024
+<   23690 kworker/3:0-eve Tue Jun 25 11:04:13 2024
+<   23701 kworker/2:2-cgr Tue Jun 25 11:04:13 2024
+<   23760 kworker/1:2-eve Tue Jun 25 11:04:18 2024
+<   24068 kworker/u8:1    Tue Jun 25 11:04:38 2024
+<   24646 sshd            Tue Jun 25 11:05:22 2024
+<   24654 sshd            Tue Jun 25 11:05:22 2024
+<   24655 ps              Tue Jun 25 11:05:22 2024
+---
+>   24701 fwupd           Tue Jun 25 11:17:59 2024
+>   24726 gpg-agent       Tue Jun 25 11:18:00 2024
+>   24761 kworker/3:2-eve Tue Jun 25 11:26:18 2024
+>   24925 kworker/u8:0-ev Tue Jun 25 11:43:31 2024
+>   24945 kworker/1:0-eve Tue Jun 25 12:08:20 2024
+>   24957 kworker/2:0-eve Tue Jun 25 12:09:06 2024
+>   25027 kworker/0:2-eve Tue Jun 25 12:12:45 2024
+>   25501 kworker/3:3-eve Tue Jun 25 12:27:49 2024
+>   25517 kworker/2:3-eve Tue Jun 25 12:27:56 2024
+>   25659 kworker/1:1-eve Tue Jun 25 12:29:14 2024
+>   25707 kworker/0:1-eve Tue Jun 25 12:32:38 2024
+>   25710 kworker/u8:2-ev Tue Jun 25 12:38:22 2024
+>   25716 kworker/u8:1-fl Tue Jun 25 12:51:39 2024
+>   25734 kworker/2:1-eve Tue Jun 25 12:57:50 2024
+>   25762 sshd            Tue Jun 25 12:57:52 2024
+>   25764 kworker/0:0-eve Tue Jun 25 12:57:52 2024
+>   25772 sshd            Tue Jun 25 12:57:52 2024
+>   25773 ps              Tue Jun 25 12:57:52 2024
+[2024-06-25 12:58:03] Diferențe procese:
+206c206
+<   24945 kworker/1:0-eve Tue Jun 25 12:08:20 2024
+---
+>   24945 kworker/1:0-cgr Tue Jun 25 12:08:20 2024
+213,214c213,214
+<   25710 kworker/u8:2-ev Tue Jun 25 12:38:22 2024
+<   25716 kworker/u8:1-fl Tue Jun 25 12:51:39 2024
+---
+>   25710 kworker/u8:2-ex Tue Jun 25 12:38:22 2024
+>   25716 kworker/u8:1-ex Tue Jun 25 12:51:39 2024
+216d215
+<   25762 sshd            Tue Jun 25 12:57:52 2024
+218,219c217,220
+<   25772 sshd            Tue Jun 25 12:57:52 2024
+<   25773 ps              Tue Jun 25 12:57:52 2024
+---
+>   25835 sshd            Tue Jun 25 12:57:56 2024
+>   25837 kworker/1:2-eve Tue Jun 25 12:57:56 2024
+>   25845 sshd            Tue Jun 25 12:57:56 2024
+>   25846 ps              Tue Jun 25 12:57:56 2024
+[2024-06-25 12:58:08] Diferențe procese:
+205c205
+<   24925 kworker/u8:0-ev Tue Jun 25 11:43:31 2024
+---
+>   24925 kworker/u8:0-fl Tue Jun 25 11:43:31 2024
+212c212
+<   25707 kworker/0:1-eve Tue Jun 25 12:32:38 2024
+---
+>   25707 kworker/0:1-mm_ Tue Jun 25 12:32:38 2024
+214c214
+<   25716 kworker/u8:1-ex Tue Jun 25 12:51:39 2024
+---
+>   25716 kworker/u8:1-ev Tue Jun 25 12:51:39 2024
+217d216
+<   25835 sshd            Tue Jun 25 12:57:56 2024
+219,220c218,221
+<   25845 sshd            Tue Jun 25 12:57:56 2024
+<   25846 ps              Tue Jun 25 12:57:56 2024
+---
+>   25896 kworker/3:0     Tue Jun 25 12:58:01 2024
+>   25909 sshd            Tue Jun 25 12:58:01 2024
+>   25918 sshd            Tue Jun 25 12:58:01 2024
+>   25919 ps              Tue Jun 25 12:58:02 2024
+[2024-06-25 12:58:13] Diferențe procese:
+205c205
+<   24925 kworker/u8:0-fl Tue Jun 25 11:43:31 2024
+---
+>   24925 kworker/u8:0-ev Tue Jun 25 11:43:31 2024
+212c212
+<   25707 kworker/0:1-mm_ Tue Jun 25 12:32:38 2024
+---
+>   25707 kworker/0:1-eve Tue Jun 25 12:32:38 2024
+219,221c219,221
+<   25909 sshd            Tue Jun 25 12:58:01 2024
+<   25918 sshd            Tue Jun 25 12:58:01 2024
+<   25919 ps              Tue Jun 25 12:58:02 2024
+---
+>   25981 sshd            Tue Jun 25 12:58:06 2024
+>   25990 sshd            Tue Jun 25 12:58:06 2024
+>   25991 ps              Tue Jun 25 12:58:06 2024
+[2024-06-25 12:58:17] Diferențe procese:
+218,221c218,221
+<   25896 kworker/3:0     Tue Jun 25 12:58:01 2024
+<   25981 sshd            Tue Jun 25 12:58:06 2024
+<   25990 sshd            Tue Jun 25 12:58:06 2024
+<   25991 ps              Tue Jun 25 12:58:06 2024
+---
+>   25896 kworker/3:0-cgr Tue Jun 25 12:58:01 2024
+>   26053 sshd            Tue Jun 25 12:58:10 2024
+>   26062 sshd            Tue Jun 25 12:58:10 2024
+>   26063 ps              Tue Jun 25 12:58:11 2024
+[2024-06-25 12:58:22] Diferențe procese:
+210c210
+<   25517 kworker/2:3-eve Tue Jun 25 12:27:56 2024
+---
+>   25517 kworker/2:3-cgr Tue Jun 25 12:27:56 2024
+219,221c219,221
+<   26053 sshd            Tue Jun 25 12:58:10 2024
+<   26062 sshd            Tue Jun 25 12:58:10 2024
+<   26063 ps              Tue Jun 25 12:58:11 2024
+---
+>   26125 sshd            Tue Jun 25 12:58:15 2024
+>   26134 sshd            Tue Jun 25 12:58:15 2024
+>   26135 ps              Tue Jun 25 12:58:15 2024
+[2024-06-25 12:58:26] Diferențe procese:
+210c210
+<   25517 kworker/2:3-cgr Tue Jun 25 12:27:56 2024
+---
+>   25517 kworker/2:3-eve Tue Jun 25 12:27:56 2024
+214c214
+<   25716 kworker/u8:1-ev Tue Jun 25 12:51:39 2024
+---
+>   25716 kworker/u8:1-ex Tue Jun 25 12:51:39 2024
+219,221c219,221
+<   26125 sshd            Tue Jun 25 12:58:15 2024
+<   26134 sshd            Tue Jun 25 12:58:15 2024
+<   26135 ps              Tue Jun 25 12:58:15 2024
+---
+>   26197 sshd            Tue Jun 25 12:58:20 2024
+>   26206 sshd            Tue Jun 25 12:58:20 2024
+>   26207 ps              Tue Jun 25 12:58:20 2024
+[2024-06-25 12:58:31] Diferențe procese:
+214c214
+<   25716 kworker/u8:1-ex Tue Jun 25 12:51:39 2024
+---
+>   25716 kworker/u8:1-ev Tue Jun 25 12:51:39 2024
+219,221c219,221
+<   26197 sshd            Tue Jun 25 12:58:20 2024
+<   26206 sshd            Tue Jun 25 12:58:20 2024
+<   26207 ps              Tue Jun 25 12:58:20 2024
+---
+>   26269 sshd            Tue Jun 25 12:58:24 2024
+>   26278 sshd            Tue Jun 25 12:58:24 2024
+>   26279 ps              Tue Jun 25 12:58:24 2024
+[2024-06-25 12:58:35] Diferențe procese:
+219,221c219,221
+<   26269 sshd            Tue Jun 25 12:58:24 2024
+<   26278 sshd            Tue Jun 25 12:58:24 2024
+<   26279 ps              Tue Jun 25 12:58:24 2024
+---
+>   26341 sshd            Tue Jun 25 12:58:29 2024
+>   26350 sshd            Tue Jun 25 12:58:29 2024
+>   26351 ps              Tue Jun 25 12:58:29 2024
+[2024-06-25 12:58:40] Diferențe procese:
+210c210
+<   25517 kworker/2:3-eve Tue Jun 25 12:27:56 2024
+---
+>   25517 kworker/2:3-cgr Tue Jun 25 12:27:56 2024
+214c214
+<   25716 kworker/u8:1-ev Tue Jun 25 12:51:39 2024
+---
+>   25716 kworker/u8:1-fl Tue Jun 25 12:51:39 2024
+218,221c218,221
+<   25896 kworker/3:0-cgr Tue Jun 25 12:58:01 2024
+<   26341 sshd            Tue Jun 25 12:58:29 2024
+<   26350 sshd            Tue Jun 25 12:58:29 2024
+<   26351 ps              Tue Jun 25 12:58:29 2024
+---
+>   25896 kworker/3:0-eve Tue Jun 25 12:58:01 2024
+>   26413 sshd            Tue Jun 25 12:58:33 2024
+>   26422 sshd            Tue Jun 25 12:58:33 2024
+>   26423 ps              Tue Jun 25 12:58:33 2024
+[2024-06-25 12:58:45] Diferențe procese:
+210c210
+<   25517 kworker/2:3-cgr Tue Jun 25 12:27:56 2024
+---
+>   25517 kworker/2:3-eve Tue Jun 25 12:27:56 2024
+214c214
+<   25716 kworker/u8:1-fl Tue Jun 25 12:51:39 2024
+---
+>   25716 kworker/u8:1-ev Tue Jun 25 12:51:39 2024
+219,221c219,221
+<   26413 sshd            Tue Jun 25 12:58:33 2024
+<   26422 sshd            Tue Jun 25 12:58:33 2024
+<   26423 ps              Tue Jun 25 12:58:33 2024
+---
+>   26485 sshd            Tue Jun 25 12:58:38 2024
+>   26494 sshd            Tue Jun 25 12:58:38 2024
+>   26495 ps              Tue Jun 25 12:58:38 2024
+[2024-06-25 12:58:49] Diferențe procese:
+213,214c213,214
+<   25710 kworker/u8:2-ex Tue Jun 25 12:38:22 2024
+<   25716 kworker/u8:1-ev Tue Jun 25 12:51:39 2024
+---
+>   25710 kworker/u8:2-ev Tue Jun 25 12:38:22 2024
+>   25716 kworker/u8:1-ex Tue Jun 25 12:51:39 2024
+217c217
+<   25837 kworker/1:2-eve Tue Jun 25 12:57:56 2024
+---
+>   25837 kworker/1:2-mm_ Tue Jun 25 12:57:56 2024
+219,221c219,222
+<   26485 sshd            Tue Jun 25 12:58:38 2024
+<   26494 sshd            Tue Jun 25 12:58:38 2024
+<   26495 ps              Tue Jun 25 12:58:38 2024
+---
+>   26509 kworker/u8:3-ev Tue Jun 25 12:58:38 2024
+>   26558 sshd            Tue Jun 25 12:58:42 2024
+>   26567 sshd            Tue Jun 25 12:58:43 2024
+>   26568 ps              Tue Jun 25 12:58:43 2024
+[2024-06-25 12:58:54] Diferențe procese:
+205c205
+<   24925 kworker/u8:0-ev Tue Jun 25 11:43:31 2024
+---
+>   24925 kworker/u8:0-fl Tue Jun 25 11:43:31 2024
+212c212
+<   25707 kworker/0:1-eve Tue Jun 25 12:32:38 2024
+---
+>   25707 kworker/0:1-cgr Tue Jun 25 12:32:38 2024
+217,218c217,218
+<   25837 kworker/1:2-mm_ Tue Jun 25 12:57:56 2024
+<   25896 kworker/3:0-eve Tue Jun 25 12:58:01 2024
+---
+>   25837 kworker/1:2-eve Tue Jun 25 12:57:56 2024
+>   25896 kworker/3:0-cgr Tue Jun 25 12:58:01 2024
+220,222c220,222
+<   26558 sshd            Tue Jun 25 12:58:42 2024
+<   26567 sshd            Tue Jun 25 12:58:43 2024
+<   26568 ps              Tue Jun 25 12:58:43 2024
+---
+>   26630 sshd            Tue Jun 25 12:58:47 2024
+>   26639 sshd            Tue Jun 25 12:58:47 2024
+>   26640 ps              Tue Jun 25 12:58:47 2024
+[2024-06-25 12:58:59] Diferențe procese:
+212c212
+<   25707 kworker/0:1-cgr Tue Jun 25 12:32:38 2024
+---
+>   25707 kworker/0:1-eve Tue Jun 25 12:32:38 2024
+218c218
+<   25896 kworker/3:0-cgr Tue Jun 25 12:58:01 2024
+---
+>   25896 kworker/3:0-eve Tue Jun 25 12:58:01 2024
+220,222c220,222
+<   26630 sshd            Tue Jun 25 12:58:47 2024
+<   26639 sshd            Tue Jun 25 12:58:47 2024
+<   26640 ps              Tue Jun 25 12:58:47 2024
+---
+>   26718 sshd            Tue Jun 25 12:58:52 2024
+>   26727 sshd            Tue Jun 25 12:58:52 2024
+>   26728 ps              Tue Jun 25 12:58:52 2024
+[2024-06-25 12:59:03] Diferențe procese:
+211c211
+<   25659 kworker/1:1-eve Tue Jun 25 12:29:14 2024
+---
+>   25659 kworker/1:1-cgr Tue Jun 25 12:29:14 2024
+220,222c220,222
+<   26718 sshd            Tue Jun 25 12:58:52 2024
+<   26727 sshd            Tue Jun 25 12:58:52 2024
+<   26728 ps              Tue Jun 25 12:58:52 2024
+---
+>   26790 sshd            Tue Jun 25 12:58:56 2024
+>   26799 sshd            Tue Jun 25 12:58:57 2024
+>   26800 ps              Tue Jun 25 12:58:57 2024
+[2024-06-25 12:59:08] Diferențe procese:
+205c205
+<   24925 kworker/u8:0-fl Tue Jun 25 11:43:31 2024
+---
+>   24925 kworker/u8:0-ev Tue Jun 25 11:43:31 2024
+216c216
+<   25764 kworker/0:0-eve Tue Jun 25 12:57:52 2024
+---
+>   25764 kworker/0:0-cgr Tue Jun 25 12:57:52 2024
+220,222c220,222
+<   26790 sshd            Tue Jun 25 12:58:56 2024
+<   26799 sshd            Tue Jun 25 12:58:57 2024
+<   26800 ps              Tue Jun 25 12:58:57 2024
+---
+>   26862 sshd            Tue Jun 25 12:59:01 2024
+>   26871 sshd            Tue Jun 25 12:59:01 2024
+>   26872 ps              Tue Jun 25 12:59:01 2024
+[2024-06-25 12:59:13] Diferențe procese:
+210,211c210,211
+<   25517 kworker/2:3-eve Tue Jun 25 12:27:56 2024
+<   25659 kworker/1:1-cgr Tue Jun 25 12:29:14 2024
+---
+>   25517 kworker/2:3-cgr Tue Jun 25 12:27:56 2024
+>   25659 kworker/1:1-eve Tue Jun 25 12:29:14 2024
+220,222c220,222
+<   26862 sshd            Tue Jun 25 12:59:01 2024
+<   26871 sshd            Tue Jun 25 12:59:01 2024
+<   26872 ps              Tue Jun 25 12:59:01 2024
+---
+>   26934 sshd            Tue Jun 25 12:59:06 2024
+>   26943 sshd            Tue Jun 25 12:59:06 2024
+>   26944 ps              Tue Jun 25 12:59:06 2024
+[2024-06-25 12:59:17] Diferențe procese:
+205c205
+<   24925 kworker/u8:0-ev Tue Jun 25 11:43:31 2024
+---
+>   24925 kworker/u8:0-fl Tue Jun 25 11:43:31 2024
+211c211
+<   25659 kworker/1:1-eve Tue Jun 25 12:29:14 2024
+---
+>   25659 kworker/1:1-cgr Tue Jun 25 12:29:14 2024
+218,222c218,222
+<   25896 kworker/3:0-eve Tue Jun 25 12:58:01 2024
+<   26509 kworker/u8:3-ev Tue Jun 25 12:58:38 2024
+<   26934 sshd            Tue Jun 25 12:59:06 2024
+<   26943 sshd            Tue Jun 25 12:59:06 2024
+<   26944 ps              Tue Jun 25 12:59:06 2024
+---
+>   25896 kworker/3:0-cgr Tue Jun 25 12:58:01 2024
+>   26509 kworker/u8:3-ex Tue Jun 25 12:58:38 2024
+>   27006 sshd            Tue Jun 25 12:59:11 2024
+>   27015 sshd            Tue Jun 25 12:59:11 2024
+>   27016 ps              Tue Jun 25 12:59:11 2024
+[2024-06-25 12:59:22] Diferențe procese:
+205c205
+<   24925 kworker/u8:0-fl Tue Jun 25 11:43:31 2024
+---
+>   24925 kworker/u8:0-ev Tue Jun 25 11:43:31 2024
+211c211
+<   25659 kworker/1:1-cgr Tue Jun 25 12:29:14 2024
+---
+>   25659 kworker/1:1-eve Tue Jun 25 12:29:14 2024
+216c216
+<   25764 kworker/0:0-cgr Tue Jun 25 12:57:52 2024
+---
+>   25764 kworker/0:0-eve Tue Jun 25 12:57:52 2024
+218,222c218,222
+<   25896 kworker/3:0-cgr Tue Jun 25 12:58:01 2024
+<   26509 kworker/u8:3-ex Tue Jun 25 12:58:38 2024
+<   27006 sshd            Tue Jun 25 12:59:11 2024
+<   27015 sshd            Tue Jun 25 12:59:11 2024
+<   27016 ps              Tue Jun 25 12:59:11 2024
+---
+>   25896 kworker/3:0-eve Tue Jun 25 12:58:01 2024
+>   26509 kworker/u8:3-ev Tue Jun 25 12:58:38 2024
+>   27078 sshd            Tue Jun 25 12:59:15 2024
+>   27087 sshd            Tue Jun 25 12:59:15 2024
+>   27088 ps              Tue Jun 25 12:59:15 2024
+[2024-06-25 12:59:26] Diferențe procese:
+210c210
+<   25517 kworker/2:3-cgr Tue Jun 25 12:27:56 2024
+---
+>   25517 kworker/2:3-eve Tue Jun 25 12:27:56 2024
+220,222c220,222
+<   27078 sshd            Tue Jun 25 12:59:15 2024
+<   27087 sshd            Tue Jun 25 12:59:15 2024
+<   27088 ps              Tue Jun 25 12:59:15 2024
+---
+>   27150 sshd            Tue Jun 25 12:59:19 2024
+>   27159 sshd            Tue Jun 25 12:59:20 2024
+>   27160 ps              Tue Jun 25 12:59:20 2024
+[2024-06-25 12:59:31] Diferențe procese:
+210c210
+<   25517 kworker/2:3-eve Tue Jun 25 12:27:56 2024
+---
+>   25517 kworker/2:3-cgr Tue Jun 25 12:27:56 2024
+216c216
+<   25764 kworker/0:0-eve Tue Jun 25 12:57:52 2024
+---
+>   25764 kworker/0:0-cgr Tue Jun 25 12:57:52 2024
+219,222c219,222
+<   26509 kworker/u8:3-ev Tue Jun 25 12:58:38 2024
+<   27150 sshd            Tue Jun 25 12:59:19 2024
+<   27159 sshd            Tue Jun 25 12:59:20 2024
+<   27160 ps              Tue Jun 25 12:59:20 2024
+---
+>   26509 kworker/u8:3-ex Tue Jun 25 12:58:38 2024
+>   27222 sshd            Tue Jun 25 12:59:24 2024
+>   27231 sshd            Tue Jun 25 12:59:24 2024
+>   27232 ps              Tue Jun 25 12:59:24 2024
+[2024-06-25 12:59:35] Diferențe procese:
+209,210c209,210
+<   25501 kworker/3:3-eve Tue Jun 25 12:27:49 2024
+<   25517 kworker/2:3-cgr Tue Jun 25 12:27:56 2024
+---
+>   25501 kworker/3:3-cgr Tue Jun 25 12:27:49 2024
+>   25517 kworker/2:3-eve Tue Jun 25 12:27:56 2024
+215c215
+<   25734 kworker/2:1-eve Tue Jun 25 12:57:50 2024
+---
+>   25734 kworker/2:1-cgr Tue Jun 25 12:57:50 2024
+219,222c219,222
+<   26509 kworker/u8:3-ex Tue Jun 25 12:58:38 2024
+<   27222 sshd            Tue Jun 25 12:59:24 2024
+<   27231 sshd            Tue Jun 25 12:59:24 2024
+<   27232 ps              Tue Jun 25 12:59:24 2024
+---
+>   26509 kworker/u8:3-ev Tue Jun 25 12:58:38 2024
+>   27294 sshd            Tue Jun 25 12:59:28 2024
+>   27303 sshd            Tue Jun 25 12:59:28 2024
+>   27304 ps              Tue Jun 25 12:59:28 2024
+[2024-06-25 12:59:40] Diferențe procese:
+205c205
+<   24925 kworker/u8:0-ev Tue Jun 25 11:43:31 2024
+---
+>   24925 kworker/u8:0-fl Tue Jun 25 11:43:31 2024
+216c216
+<   25764 kworker/0:0-cgr Tue Jun 25 12:57:52 2024
+---
+>   25764 kworker/0:0-eve Tue Jun 25 12:57:52 2024
+220,222c220,222
+<   27294 sshd            Tue Jun 25 12:59:28 2024
+<   27303 sshd            Tue Jun 25 12:59:28 2024
+<   27304 ps              Tue Jun 25 12:59:28 2024
+---
+>   27366 sshd            Tue Jun 25 12:59:33 2024
+>   27375 sshd            Tue Jun 25 12:59:33 2024
+>   27376 ps              Tue Jun 25 12:59:33 2024
+[2024-06-25 12:59:44] Diferențe procese:
+205c205
+<   24925 kworker/u8:0-fl Tue Jun 25 11:43:31 2024
+---
+>   24925 kworker/u8:0-ev Tue Jun 25 11:43:31 2024
+209c209
+<   25501 kworker/3:3-cgr Tue Jun 25 12:27:49 2024
+---
+>   25501 kworker/3:3-eve Tue Jun 25 12:27:49 2024
+220,222c220,222
+<   27366 sshd            Tue Jun 25 12:59:33 2024
+<   27375 sshd            Tue Jun 25 12:59:33 2024
+<   27376 ps              Tue Jun 25 12:59:33 2024
+---
+>   27438 sshd            Tue Jun 25 12:59:37 2024
+>   27447 sshd            Tue Jun 25 12:59:38 2024
+>   27448 ps              Tue Jun 25 12:59:38 2024
+[2024-06-25 12:59:49] Diferențe procese:
+215c215
+<   25734 kworker/2:1-cgr Tue Jun 25 12:57:50 2024
+---
+>   25734 kworker/2:1-eve Tue Jun 25 12:57:50 2024
+217,222c217,222
+<   25837 kworker/1:2-eve Tue Jun 25 12:57:56 2024
+<   25896 kworker/3:0-eve Tue Jun 25 12:58:01 2024
+<   26509 kworker/u8:3-ev Tue Jun 25 12:58:38 2024
+<   27438 sshd            Tue Jun 25 12:59:37 2024
+<   27447 sshd            Tue Jun 25 12:59:38 2024
+<   27448 ps              Tue Jun 25 12:59:38 2024
+---
+>   25837 kworker/1:2-cgr Tue Jun 25 12:57:56 2024
+>   25896 kworker/3:0-cgr Tue Jun 25 12:58:01 2024
+>   26509 kworker/u8:3-ex Tue Jun 25 12:58:38 2024
+>   27510 sshd            Tue Jun 25 12:59:42 2024
+>   27519 sshd            Tue Jun 25 12:59:42 2024
+>   27520 ps              Tue Jun 25 12:59:42 2024
+[2024-06-25 12:59:54] Diferențe procese:
+217c217
+<   25837 kworker/1:2-cgr Tue Jun 25 12:57:56 2024
+---
+>   25837 kworker/1:2-eve Tue Jun 25 12:57:56 2024
+220,222c220,222
+<   27510 sshd            Tue Jun 25 12:59:42 2024
+<   27519 sshd            Tue Jun 25 12:59:42 2024
+<   27520 ps              Tue Jun 25 12:59:42 2024
+---
+>   27582 sshd            Tue Jun 25 12:59:47 2024
+>   27591 sshd            Tue Jun 25 12:59:47 2024
+>   27592 ps              Tue Jun 25 12:59:47 2024
+[2024-06-25 12:59:59] Diferențe procese:
+215,216c215,216
+<   25734 kworker/2:1-eve Tue Jun 25 12:57:50 2024
+<   25764 kworker/0:0-eve Tue Jun 25 12:57:52 2024
+---
+>   25734 kworker/2:1-cgr Tue Jun 25 12:57:50 2024
+>   25764 kworker/0:0-cgr Tue Jun 25 12:57:52 2024
+219,222c219,222
+<   26509 kworker/u8:3-ex Tue Jun 25 12:58:38 2024
+<   27582 sshd            Tue Jun 25 12:59:47 2024
+<   27591 sshd            Tue Jun 25 12:59:47 2024
+<   27592 ps              Tue Jun 25 12:59:47 2024
+---
+>   26509 kworker/u8:3-wr Tue Jun 25 12:58:38 2024
+>   27670 sshd            Tue Jun 25 12:59:52 2024
+>   27679 sshd            Tue Jun 25 12:59:52 2024
+>   27680 ps              Tue Jun 25 12:59:52 2024
+[2024-06-25 13:00:03] Diferențe procese:
+218,222c218,222
+<   25896 kworker/3:0-cgr Tue Jun 25 12:58:01 2024
+<   26509 kworker/u8:3-wr Tue Jun 25 12:58:38 2024
+<   27670 sshd            Tue Jun 25 12:59:52 2024
+<   27679 sshd            Tue Jun 25 12:59:52 2024
+<   27680 ps              Tue Jun 25 12:59:52 2024
+---
+>   25896 kworker/3:0-eve Tue Jun 25 12:58:01 2024
+>   26509 kworker/u8:3-ev Tue Jun 25 12:58:38 2024
+>   27742 sshd            Tue Jun 25 12:59:56 2024
+>   27751 sshd            Tue Jun 25 12:59:56 2024
+>   27752 ps              Tue Jun 25 12:59:56 2024
+[2024-06-25 13:19:18] Diferențe procese:
+202,208d201
+<   24701 fwupd           Tue Jun 25 11:17:59 2024
+<   24726 gpg-agent       Tue Jun 25 11:18:00 2024
+<   24761 kworker/3:2-eve Tue Jun 25 11:26:18 2024
+<   24925 kworker/u8:0-ev Tue Jun 25 11:43:31 2024
+<   24945 kworker/1:0-cgr Tue Jun 25 12:08:20 2024
+<   24957 kworker/2:0-eve Tue Jun 25 12:09:06 2024
+<   25027 kworker/0:2-eve Tue Jun 25 12:12:45 2024
+213,214d205
+<   25710 kworker/u8:2-ev Tue Jun 25 12:38:22 2024
+<   25716 kworker/u8:1-ex Tue Jun 25 12:51:39 2024
+216c207
+<   25764 kworker/0:0-cgr Tue Jun 25 12:57:52 2024
+---
+>   25764 kworker/0:0-eve Tue Jun 25 12:57:52 2024
+218c209
+<   25896 kworker/3:0-eve Tue Jun 25 12:58:01 2024
+---
+>   25896 kworker/3:0-cgw Tue Jun 25 12:58:01 2024
+220,222c211,218
+<   27742 sshd            Tue Jun 25 12:59:56 2024
+<   27751 sshd            Tue Jun 25 12:59:56 2024
+<   27752 ps              Tue Jun 25 12:59:56 2024
+---
+>   27790 kworker/u8:0-ev Tue Jun 25 13:07:19 2024
+>   27794 kworker/1:0-eve Tue Jun 25 13:14:32 2024
+>   27795 kworker/0:2-eve Tue Jun 25 13:14:32 2024
+>   27801 kworker/u8:1-ev Tue Jun 25 13:16:58 2024
+>   27807 kworker/3:1-eve Tue Jun 25 13:18:03 2024
+>   27851 sshd            Tue Jun 25 13:19:11 2024
+>   27860 sshd            Tue Jun 25 13:19:11 2024
+>   27861 ps              Tue Jun 25 13:19:11 2024
+[2024-06-25 13:19:22] Diferențe procese:
+213c213
+<   27795 kworker/0:2-eve Tue Jun 25 13:14:32 2024
+---
+>   27795 kworker/0:2-cgr Tue Jun 25 13:14:32 2024
+216,218c216,219
+<   27851 sshd            Tue Jun 25 13:19:11 2024
+<   27860 sshd            Tue Jun 25 13:19:11 2024
+<   27861 ps              Tue Jun 25 13:19:11 2024
+---
+>   27887 kworker/2:0-eve Tue Jun 25 13:19:11 2024
+>   27924 sshd            Tue Jun 25 13:19:14 2024
+>   27933 sshd            Tue Jun 25 13:19:14 2024
+>   27934 ps              Tue Jun 25 13:19:14 2024
+[2024-06-25 13:19:45] Diferențe procese:
+203,205c203
+<   25517 kworker/2:3-eve Tue Jun 25 12:27:56 2024
+<   25659 kworker/1:1-eve Tue Jun 25 12:29:14 2024
+<   25707 kworker/0:1-eve Tue Jun 25 12:32:38 2024
+---
+>   25517 kworker/2:3-cgr Tue Jun 25 12:27:56 2024
+210c208
+<   26509 kworker/u8:3-ev Tue Jun 25 12:58:38 2024
+---
+>   26509 kworker/u8:3-ex Tue Jun 25 12:58:38 2024
+215,219c213,220
+<   27807 kworker/3:1-eve Tue Jun 25 13:18:03 2024
+<   27887 kworker/2:0-eve Tue Jun 25 13:19:11 2024
+<   27924 sshd            Tue Jun 25 13:19:14 2024
+<   27933 sshd            Tue Jun 25 13:19:14 2024
+<   27934 ps              Tue Jun 25 13:19:14 2024
+---
+>   27807 kworker/3:1-cgr Tue Jun 25 13:18:03 2024
+>   27887 kworker/2:0-cgr Tue Jun 25 13:19:11 2024
+>   27968 kworker/u8:2-ev Tue Jun 25 13:19:15 2024
+>   28013 kworker/1:1-eve Tue Jun 25 13:19:37 2024
+>   28026 sshd            Tue Jun 25 13:19:38 2024
+>   28028 kworker/0:1-eve Tue Jun 25 13:19:38 2024
+>   28036 sshd            Tue Jun 25 13:19:38 2024
+>   28037 ps              Tue Jun 25 13:19:38 2024
+[2024-06-25 13:19:49] Diferențe procese:
+214c214
+<   27887 kworker/2:0-cgr Tue Jun 25 13:19:11 2024
+---
+>   27887 kworker/2:0-eve Tue Jun 25 13:19:11 2024
+217d216
+<   28026 sshd            Tue Jun 25 13:19:38 2024
+219,220c218,220
+<   28036 sshd            Tue Jun 25 13:19:38 2024
+<   28037 ps              Tue Jun 25 13:19:38 2024
+---
+>   28099 sshd            Tue Jun 25 13:19:42 2024
+>   28108 sshd            Tue Jun 25 13:19:42 2024
+>   28109 ps              Tue Jun 25 13:19:42 2024
+[2024-06-25 13:19:54] Diferențe procese:
+203c203
+<   25517 kworker/2:3-cgr Tue Jun 25 12:27:56 2024
+---
+>   25517 kworker/2:3-eve Tue Jun 25 12:27:56 2024
+209,210c209,210
+<   27790 kworker/u8:0-ev Tue Jun 25 13:07:19 2024
+<   27794 kworker/1:0-eve Tue Jun 25 13:14:32 2024
+---
+>   27790 kworker/u8:0-wr Tue Jun 25 13:07:19 2024
+>   27794 kworker/1:0-cgr Tue Jun 25 13:14:32 2024
+215c215
+<   27968 kworker/u8:2-ev Tue Jun 25 13:19:15 2024
+---
+>   27968 kworker/u8:2-ex Tue Jun 25 13:19:15 2024
+218,220c218,220
+<   28099 sshd            Tue Jun 25 13:19:42 2024
+<   28108 sshd            Tue Jun 25 13:19:42 2024
+<   28109 ps              Tue Jun 25 13:19:42 2024
+---
+>   28171 sshd            Tue Jun 25 13:19:47 2024
+>   28180 sshd            Tue Jun 25 13:19:47 2024
+>   28181 ps              Tue Jun 25 13:19:47 2024
+[2024-06-25 13:19:59] Diferențe procese:
+208,210c208,210
+<   26509 kworker/u8:3-ex Tue Jun 25 12:58:38 2024
+<   27790 kworker/u8:0-wr Tue Jun 25 13:07:19 2024
+<   27794 kworker/1:0-cgr Tue Jun 25 13:14:32 2024
+---
+>   26509 kworker/u8:3-ev Tue Jun 25 12:58:38 2024
+>   27790 kworker/u8:0-ev Tue Jun 25 13:07:19 2024
+>   27794 kworker/1:0-mm_ Tue Jun 25 13:14:32 2024
+213,215c213,215
+<   27807 kworker/3:1-cgr Tue Jun 25 13:18:03 2024
+<   27887 kworker/2:0-eve Tue Jun 25 13:19:11 2024
+<   27968 kworker/u8:2-ex Tue Jun 25 13:19:15 2024
+---
+>   27807 kworker/3:1-mm_ Tue Jun 25 13:18:03 2024
+>   27887 kworker/2:0-cgr Tue Jun 25 13:19:11 2024
+>   27968 kworker/u8:2-ev Tue Jun 25 13:19:15 2024
+218,220c218,220
+<   28171 sshd            Tue Jun 25 13:19:47 2024
+<   28180 sshd            Tue Jun 25 13:19:47 2024
+<   28181 ps              Tue Jun 25 13:19:47 2024
+---
+>   28243 sshd            Tue Jun 25 13:19:52 2024
+>   28252 sshd            Tue Jun 25 13:19:52 2024
+>   28253 ps              Tue Jun 25 13:19:52 2024
+[2024-06-25 13:20:03] Diferențe procese:
+210c210
+<   27794 kworker/1:0-mm_ Tue Jun 25 13:14:32 2024
+---
+>   27794 kworker/1:0-eve Tue Jun 25 13:14:32 2024
+214c214
+<   27887 kworker/2:0-cgr Tue Jun 25 13:19:11 2024
+---
+>   27887 kworker/2:0-eve Tue Jun 25 13:19:11 2024
+218,220c218,220
+<   28243 sshd            Tue Jun 25 13:19:52 2024
+<   28252 sshd            Tue Jun 25 13:19:52 2024
+<   28253 ps              Tue Jun 25 13:19:52 2024
+---
+>   28315 sshd            Tue Jun 25 13:19:56 2024
+>   28324 sshd            Tue Jun 25 13:19:56 2024
+>   28325 ps              Tue Jun 25 13:19:56 2024
+[2024-06-25 13:20:08] Diferențe procese:
+213c213
+<   27807 kworker/3:1-mm_ Tue Jun 25 13:18:03 2024
+---
+>   27807 kworker/3:1-eve Tue Jun 25 13:18:03 2024
+218,220c218,220
+<   28315 sshd            Tue Jun 25 13:19:56 2024
+<   28324 sshd            Tue Jun 25 13:19:56 2024
+<   28325 ps              Tue Jun 25 13:19:56 2024
+---
+>   28387 sshd            Tue Jun 25 13:20:01 2024
+>   28396 sshd            Tue Jun 25 13:20:01 2024
+>   28397 ps              Tue Jun 25 13:20:01 2024
+[2024-06-25 13:54:47] Diferențe procese:
+199,200d198
+<   14517 bash            Tue Jun 25 10:42:00 2024
+<   14525 ssh             Tue Jun 25 10:42:04 2024
+204,208c202
+<   25734 kworker/2:1-cgr Tue Jun 25 12:57:50 2024
+<   25764 kworker/0:0-eve Tue Jun 25 12:57:52 2024
+<   25837 kworker/1:2-eve Tue Jun 25 12:57:56 2024
+<   25896 kworker/3:0-cgw Tue Jun 25 12:58:01 2024
+<   26509 kworker/u8:3-ev Tue Jun 25 12:58:38 2024
+---
+>   25764 kworker/0:0-cgr Tue Jun 25 12:57:52 2024
+211,212d204
+<   27795 kworker/0:2-cgr Tue Jun 25 13:14:32 2024
+<   27801 kworker/u8:1-ev Tue Jun 25 13:16:58 2024
+214,220c206,218
+<   27887 kworker/2:0-eve Tue Jun 25 13:19:11 2024
+<   27968 kworker/u8:2-ev Tue Jun 25 13:19:15 2024
+<   28013 kworker/1:1-eve Tue Jun 25 13:19:37 2024
+<   28028 kworker/0:1-eve Tue Jun 25 13:19:38 2024
+<   28387 sshd            Tue Jun 25 13:20:01 2024
+<   28396 sshd            Tue Jun 25 13:20:01 2024
+<   28397 ps              Tue Jun 25 13:20:01 2024
+---
+>   28013 kworker/1:1-cgr Tue Jun 25 13:19:37 2024
+>   28028 kworker/0:1-cgr Tue Jun 25 13:19:38 2024
+>   28450 kworker/u8:1-ev Tue Jun 25 13:25:08 2024
+>   28457 kworker/2:1-eve Tue Jun 25 13:32:59 2024
+>   28462 kworker/u8:2-ev Tue Jun 25 13:47:17 2024
+>   28465 kworker/0:2-cgr Tue Jun 25 13:50:31 2024
+>   28473 bash            Tue Jun 25 13:51:16 2024
+>   28480 ssh             Tue Jun 25 13:51:21 2024
+>   28482 kworker/1:2-eve Tue Jun 25 13:51:22 2024
+>   28499 kworker/2:0-eve Tue Jun 25 13:54:33 2024
+>   28527 sshd            Tue Jun 25 13:54:36 2024
+>   28536 sshd            Tue Jun 25 13:54:36 2024
+>   28537 ps              Tue Jun 25 13:54:36 2024
+[2024-06-25 13:54:56] Diferențe procese:
+206,208c206,208
+<   28013 kworker/1:1-cgr Tue Jun 25 13:19:37 2024
+<   28028 kworker/0:1-cgr Tue Jun 25 13:19:38 2024
+<   28450 kworker/u8:1-ev Tue Jun 25 13:25:08 2024
+---
+>   28013 kworker/1:1-eve Tue Jun 25 13:19:37 2024
+>   28028 kworker/0:1-eve Tue Jun 25 13:19:38 2024
+>   28450 kworker/u8:1-fl Tue Jun 25 13:25:08 2024
+211c211
+<   28465 kworker/0:2-cgr Tue Jun 25 13:50:31 2024
+---
+>   28465 kworker/0:2-eve Tue Jun 25 13:50:31 2024
+214c214
+<   28482 kworker/1:2-eve Tue Jun 25 13:51:22 2024
+---
+>   28482 kworker/1:2-cgr Tue Jun 25 13:51:22 2024
+216,218c216,219
+<   28527 sshd            Tue Jun 25 13:54:36 2024
+<   28536 sshd            Tue Jun 25 13:54:36 2024
+<   28537 ps              Tue Jun 25 13:54:36 2024
+---
+>   28615 sshd            Tue Jun 25 13:54:45 2024
+>   28617 kworker/3:0-eve Tue Jun 25 13:54:45 2024
+>   28625 sshd            Tue Jun 25 13:54:45 2024
+>   28626 ps              Tue Jun 25 13:54:45 2024
+[2024-06-25 13:55:00] Diferențe procese:
+203c203
+<   27790 kworker/u8:0-ev Tue Jun 25 13:07:19 2024
+---
+>   27790 kworker/u8:0-fl Tue Jun 25 13:07:19 2024
+207,208c207,208
+<   28028 kworker/0:1-eve Tue Jun 25 13:19:38 2024
+<   28450 kworker/u8:1-fl Tue Jun 25 13:25:08 2024
+---
+>   28028 kworker/0:1-cgr Tue Jun 25 13:19:38 2024
+>   28450 kworker/u8:1-ev Tue Jun 25 13:25:08 2024
+216d215
+<   28615 sshd            Tue Jun 25 13:54:45 2024
+218,219c217,219
+<   28625 sshd            Tue Jun 25 13:54:45 2024
+<   28626 ps              Tue Jun 25 13:54:45 2024
+---
+>   28688 sshd            Tue Jun 25 13:54:49 2024
+>   28697 sshd            Tue Jun 25 13:54:49 2024
+>   28698 ps              Tue Jun 25 13:54:49 2024
+[2024-06-25 13:55:05] Diferențe procese:
+203c203
+<   27790 kworker/u8:0-fl Tue Jun 25 13:07:19 2024
+---
+>   27790 kworker/u8:0-ev Tue Jun 25 13:07:19 2024
+207c207
+<   28028 kworker/0:1-cgr Tue Jun 25 13:19:38 2024
+---
+>   28028 kworker/0:1-eve Tue Jun 25 13:19:38 2024
+214c214
+<   28482 kworker/1:2-cgr Tue Jun 25 13:51:22 2024
+---
+>   28482 kworker/1:2-eve Tue Jun 25 13:51:22 2024
+217,219c217,220
+<   28688 sshd            Tue Jun 25 13:54:49 2024
+<   28697 sshd            Tue Jun 25 13:54:49 2024
+<   28698 ps              Tue Jun 25 13:54:49 2024
+---
+>   28713 kworker/u8:3    Tue Jun 25 13:54:50 2024
+>   28761 sshd            Tue Jun 25 13:54:54 2024
+>   28770 sshd            Tue Jun 25 13:54:54 2024
+>   28771 ps              Tue Jun 25 13:54:54 2024
+[2024-06-25 13:55:09] Diferențe procese:
+206c206
+<   28013 kworker/1:1-eve Tue Jun 25 13:19:37 2024
+---
+>   28013 kworker/1:1-mm_ Tue Jun 25 13:19:37 2024
+216,220c216,220
+<   28617 kworker/3:0-eve Tue Jun 25 13:54:45 2024
+<   28713 kworker/u8:3    Tue Jun 25 13:54:50 2024
+<   28761 sshd            Tue Jun 25 13:54:54 2024
+<   28770 sshd            Tue Jun 25 13:54:54 2024
+<   28771 ps              Tue Jun 25 13:54:54 2024
+---
+>   28617 kworker/3:0-mm_ Tue Jun 25 13:54:45 2024
+>   28713 kworker/u8:3-ev Tue Jun 25 13:54:50 2024
+>   28833 sshd            Tue Jun 25 13:54:58 2024
+>   28842 sshd            Tue Jun 25 13:54:58 2024
+>   28843 ps              Tue Jun 25 13:54:58 2024
+[2024-06-25 13:55:14] Diferențe procese:
+205,207c205,207
+<   27807 kworker/3:1-eve Tue Jun 25 13:18:03 2024
+<   28013 kworker/1:1-mm_ Tue Jun 25 13:19:37 2024
+<   28028 kworker/0:1-eve Tue Jun 25 13:19:38 2024
+---
+>   27807 kworker/3:1-cgr Tue Jun 25 13:18:03 2024
+>   28013 kworker/1:1-eve Tue Jun 25 13:19:37 2024
+>   28028 kworker/0:1-cgr Tue Jun 25 13:19:38 2024
+216c216
+<   28617 kworker/3:0-mm_ Tue Jun 25 13:54:45 2024
+---
+>   28617 kworker/3:0-eve Tue Jun 25 13:54:45 2024
+218,220c218,220
+<   28833 sshd            Tue Jun 25 13:54:58 2024
+<   28842 sshd            Tue Jun 25 13:54:58 2024
+<   28843 ps              Tue Jun 25 13:54:58 2024
+---
+>   28905 sshd            Tue Jun 25 13:55:03 2024
+>   28914 sshd            Tue Jun 25 13:55:03 2024
+>   28915 ps              Tue Jun 25 13:55:03 2024
+[2024-06-25 13:55:18] Diferențe procese:
+205c205
+<   27807 kworker/3:1-cgr Tue Jun 25 13:18:03 2024
+---
+>   27807 kworker/3:1-eve Tue Jun 25 13:18:03 2024
+207,208c207,208
+<   28028 kworker/0:1-cgr Tue Jun 25 13:19:38 2024
+<   28450 kworker/u8:1-ev Tue Jun 25 13:25:08 2024
+---
+>   28028 kworker/0:1-eve Tue Jun 25 13:19:38 2024
+>   28450 kworker/u8:1-ex Tue Jun 25 13:25:08 2024
+218,220c218,220
+<   28905 sshd            Tue Jun 25 13:55:03 2024
+<   28914 sshd            Tue Jun 25 13:55:03 2024
+<   28915 ps              Tue Jun 25 13:55:03 2024
+---
+>   28977 sshd            Tue Jun 25 13:55:07 2024
+>   28986 sshd            Tue Jun 25 13:55:07 2024
+>   28987 ps              Tue Jun 25 13:55:07 2024
+[2024-06-25 13:55:23] Diferențe procese:
+208c208
+<   28450 kworker/u8:1-ex Tue Jun 25 13:25:08 2024
+---
+>   28450 kworker/u8:1-fl Tue Jun 25 13:25:08 2024
+218,220c218,220
+<   28977 sshd            Tue Jun 25 13:55:07 2024
+<   28986 sshd            Tue Jun 25 13:55:07 2024
+<   28987 ps              Tue Jun 25 13:55:07 2024
+---
+>   29049 sshd            Tue Jun 25 13:55:12 2024
+>   29058 sshd            Tue Jun 25 13:55:12 2024
+>   29059 ps              Tue Jun 25 13:55:12 2024
+[2024-06-25 13:55:27] Diferențe procese:
+208c208
+<   28450 kworker/u8:1-fl Tue Jun 25 13:25:08 2024
+---
+>   28450 kworker/u8:1-ev Tue Jun 25 13:25:08 2024
+211c211
+<   28465 kworker/0:2-eve Tue Jun 25 13:50:31 2024
+---
+>   28465 kworker/0:2-cgr Tue Jun 25 13:50:31 2024
+214,215c214,215
+<   28482 kworker/1:2-eve Tue Jun 25 13:51:22 2024
+<   28499 kworker/2:0-eve Tue Jun 25 13:54:33 2024
+---
+>   28482 kworker/1:2-cgr Tue Jun 25 13:51:22 2024
+>   28499 kworker/2:0-cgr Tue Jun 25 13:54:33 2024
+218,220c218,220
+<   29049 sshd            Tue Jun 25 13:55:12 2024
+<   29058 sshd            Tue Jun 25 13:55:12 2024
+<   29059 ps              Tue Jun 25 13:55:12 2024
+---
+>   29121 sshd            Tue Jun 25 13:55:16 2024
+>   29130 sshd            Tue Jun 25 13:55:16 2024
+>   29131 ps              Tue Jun 25 13:55:16 2024
+[2024-06-25 13:55:32] Diferențe procese:
+214,215c214,215
+<   28482 kworker/1:2-cgr Tue Jun 25 13:51:22 2024
+<   28499 kworker/2:0-cgr Tue Jun 25 13:54:33 2024
+---
+>   28482 kworker/1:2-eve Tue Jun 25 13:51:22 2024
+>   28499 kworker/2:0-eve Tue Jun 25 13:54:33 2024
+218,220c218,220
+<   29121 sshd            Tue Jun 25 13:55:16 2024
+<   29130 sshd            Tue Jun 25 13:55:16 2024
+<   29131 ps              Tue Jun 25 13:55:16 2024
+---
+>   29193 sshd            Tue Jun 25 13:55:21 2024
+>   29202 sshd            Tue Jun 25 13:55:21 2024
+>   29203 ps              Tue Jun 25 13:55:21 2024
+[2024-06-25 13:55:36] Diferențe procese:
+211c211
+<   28465 kworker/0:2-cgr Tue Jun 25 13:50:31 2024
+---
+>   28465 kworker/0:2-eve Tue Jun 25 13:50:31 2024
+214c214
+<   28482 kworker/1:2-eve Tue Jun 25 13:51:22 2024
+---
+>   28482 kworker/1:2-cgr Tue Jun 25 13:51:22 2024
+218,220c218,220
+<   29193 sshd            Tue Jun 25 13:55:21 2024
+<   29202 sshd            Tue Jun 25 13:55:21 2024
+<   29203 ps              Tue Jun 25 13:55:21 2024
+---
+>   29266 sshd            Tue Jun 25 13:55:25 2024
+>   29275 sshd            Tue Jun 25 13:55:25 2024
+>   29276 ps              Tue Jun 25 13:55:25 2024
+[2024-06-25 13:55:55] Diferențe procese:
+202,203c202
+<   25764 kworker/0:0-cgr Tue Jun 25 12:57:52 2024
+<   27790 kworker/u8:0-ev Tue Jun 25 13:07:19 2024
+---
+>   27790 kworker/u8:0-fl Tue Jun 25 13:07:19 2024
+214c213
+<   28482 kworker/1:2-cgr Tue Jun 25 13:51:22 2024
+---
+>   28482 kworker/1:2-eve Tue Jun 25 13:51:22 2024
+217,220c216,225
+<   28713 kworker/u8:3-ev Tue Jun 25 13:54:50 2024
+<   29266 sshd            Tue Jun 25 13:55:25 2024
+<   29275 sshd            Tue Jun 25 13:55:25 2024
+<   29276 ps              Tue Jun 25 13:55:25 2024
+---
+>   28713 kworker/u8:3-wr Tue Jun 25 13:54:50 2024
+>   29313 bash            Tue Jun 25 13:55:27 2024
+>   29316 yes             Tue Jun 25 13:55:27 2024
+>   29317 yes             Tue Jun 25 13:55:27 2024
+>   29318 yes             Tue Jun 25 13:55:27 2024
+>   29319 yes             Tue Jun 25 13:55:27 2024
+>   29363 kworker/0:0-eve Tue Jun 25 13:55:40 2024
+>   29407 sshd            Tue Jun 25 13:55:44 2024
+>   29416 sshd            Tue Jun 25 13:55:44 2024
+>   29417 ps              Tue Jun 25 13:55:44 2024
+[2024-06-25 13:56:00] Diferențe procese:
+207c207
+<   28450 kworker/u8:1-ev Tue Jun 25 13:25:08 2024
+---
+>   28450 kworker/u8:1-fl Tue Jun 25 13:25:08 2024
+216c216
+<   28713 kworker/u8:3-wr Tue Jun 25 13:54:50 2024
+---
+>   28713 kworker/u8:3-ev Tue Jun 25 13:54:50 2024
+223,225c223,225
+<   29407 sshd            Tue Jun 25 13:55:44 2024
+<   29416 sshd            Tue Jun 25 13:55:44 2024
+<   29417 ps              Tue Jun 25 13:55:44 2024
+---
+>   29481 sshd            Tue Jun 25 13:55:49 2024
+>   29490 sshd            Tue Jun 25 13:55:49 2024
+>   29491 ps              Tue Jun 25 13:55:49 2024
+[2024-06-25 13:56:05] Diferențe procese:
+207c207
+<   28450 kworker/u8:1-fl Tue Jun 25 13:25:08 2024
+---
+>   28450 kworker/u8:1-ev Tue Jun 25 13:25:08 2024
+213c213
+<   28482 kworker/1:2-eve Tue Jun 25 13:51:22 2024
+---
+>   28482 kworker/1:2-ata Tue Jun 25 13:51:22 2024
+223,225c223,225
+<   29481 sshd            Tue Jun 25 13:55:49 2024
+<   29490 sshd            Tue Jun 25 13:55:49 2024
+<   29491 ps              Tue Jun 25 13:55:49 2024
+---
+>   29566 sshd            Tue Jun 25 13:55:54 2024
+>   29575 sshd            Tue Jun 25 13:55:54 2024
+>   29576 ps              Tue Jun 25 13:55:54 2024
+[2024-06-25 13:56:10] Diferențe procese:
+202c202
+<   27790 kworker/u8:0-fl Tue Jun 25 13:07:19 2024
+---
+>   27790 kworker/u8:0-ex Tue Jun 25 13:07:19 2024
+204c204
+<   27807 kworker/3:1-eve Tue Jun 25 13:18:03 2024
+---
+>   27807 kworker/3:1-cgr Tue Jun 25 13:18:03 2024
+207c207
+<   28450 kworker/u8:1-ev Tue Jun 25 13:25:08 2024
+---
+>   28450 kworker/u8:1-fl Tue Jun 25 13:25:08 2024
+213c213
+<   28482 kworker/1:2-ata Tue Jun 25 13:51:22 2024
+---
+>   28482 kworker/1:2-eve Tue Jun 25 13:51:22 2024
+223,225c223,225
+<   29566 sshd            Tue Jun 25 13:55:54 2024
+<   29575 sshd            Tue Jun 25 13:55:54 2024
+<   29576 ps              Tue Jun 25 13:55:54 2024
+---
+>   29638 sshd            Tue Jun 25 13:55:59 2024
+>   29647 sshd            Tue Jun 25 13:55:59 2024
+>   29648 ps              Tue Jun 25 13:55:59 2024
+[2024-06-25 13:56:16] Diferențe procese:
+207c207
+<   28450 kworker/u8:1-fl Tue Jun 25 13:25:08 2024
+---
+>   28450 kworker/u8:1-ev Tue Jun 25 13:25:08 2024
+223,225c223,225
+<   29638 sshd            Tue Jun 25 13:55:59 2024
+<   29647 sshd            Tue Jun 25 13:55:59 2024
+<   29648 ps              Tue Jun 25 13:55:59 2024
+---
+>   29723 sshd            Tue Jun 25 13:56:05 2024
+>   29732 sshd            Tue Jun 25 13:56:05 2024
+>   29733 ps              Tue Jun 25 13:56:05 2024
+[2024-06-25 13:56:38] Diferențe procese:
+202c202
+<   27790 kworker/u8:0-ex Tue Jun 25 13:07:19 2024
+---
+>   27790 kworker/u8:0-fl Tue Jun 25 13:07:19 2024
+204c204
+<   27807 kworker/3:1-cgr Tue Jun 25 13:18:03 2024
+---
+>   27807 kworker/3:1-eve Tue Jun 25 13:18:03 2024
+207c207
+<   28450 kworker/u8:1-ev Tue Jun 25 13:25:08 2024
+---
+>   28450 kworker/u8:1-ex Tue Jun 25 13:25:08 2024
+209c209
+<   28462 kworker/u8:2-ev Tue Jun 25 13:47:17 2024
+---
+>   28462 kworker/u8:2-wr Tue Jun 25 13:47:17 2024
+223,225c223,227
+<   29723 sshd            Tue Jun 25 13:56:05 2024
+<   29732 sshd            Tue Jun 25 13:56:05 2024
+<   29733 ps              Tue Jun 25 13:56:05 2024
+---
+>   29795 kworker/u8:4-ev Tue Jun 25 13:56:27 2024
+>   29796 kworker/u8:5-wr Tue Jun 25 13:56:27 2024
+>   29811 sshd            Tue Jun 25 13:56:27 2024
+>   29820 sshd            Tue Jun 25 13:56:28 2024
+>   29821 ps              Tue Jun 25 13:56:28 2024
+[2024-06-25 13:56:47] Diferențe procese:
+202,203c202
+<   27790 kworker/u8:0-fl Tue Jun 25 13:07:19 2024
+<   27794 kworker/1:0-eve Tue Jun 25 13:14:32 2024
+---
+>   27790 kworker/u8:0-ev Tue Jun 25 13:07:19 2024
+205c204
+<   28013 kworker/1:1-eve Tue Jun 25 13:19:37 2024
+---
+>   28013 kworker/1:1-cgr Tue Jun 25 13:19:37 2024
+209c208
+<   28462 kworker/u8:2-wr Tue Jun 25 13:47:17 2024
+---
+>   28462 kworker/u8:2-ex Tue Jun 25 13:47:17 2024
+223,227c222,232
+<   29795 kworker/u8:4-ev Tue Jun 25 13:56:27 2024
+<   29796 kworker/u8:5-wr Tue Jun 25 13:56:27 2024
+<   29811 sshd            Tue Jun 25 13:56:27 2024
+<   29820 sshd            Tue Jun 25 13:56:28 2024
+<   29821 ps              Tue Jun 25 13:56:28 2024
+---
+>   29795 kworker/u8:4-fl Tue Jun 25 13:56:27 2024
+>   29796 kworker/u8:5-ev Tue Jun 25 13:56:27 2024
+>   29856 kworker/1:0-eve Tue Jun 25 13:56:31 2024
+>   29867 systemd-udevd   Tue Jun 25 13:56:35 2024
+>   29873 systemd-udevd   Tue Jun 25 13:56:35 2024
+>   29886 systemd-udevd   Tue Jun 25 13:56:36 2024
+>   29887 systemd-udevd   Tue Jun 25 13:56:36 2024
+>   29889 systemd-udevd   Tue Jun 25 13:56:36 2024
+>   29912 sshd            Tue Jun 25 13:56:36 2024
+>   29921 sshd            Tue Jun 25 13:56:37 2024
+>   29922 ps              Tue Jun 25 13:56:37 2024

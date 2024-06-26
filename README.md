@@ -44,7 +44,9 @@ Utilitar pentru monitorizarea la distanță a mai multor sisteme Linux
 -Am creat si un meniu pentru actiuni remote asupra sistemelor Linux conectate. In acest meniu vei putea sa pornesti/opresti un serviciu sau un proces, sa instalezi aplicatii sau servicii sau sa copiezi fisiere de pe server pe unul dintre sistemele conectate, sau de pe un sistem conectat la altul. Astazi am realizat oprirea si pornirea de servicii/procese si instalarea de aplicatii si servicii, mai trebuie copierea de fisiere.
 
 
+## 26.06.2024
 
+-Am mai rezolvat din problemele meniului si am realizat copierea de fisiere/directoare de pe un sistem linux conectat pe altul sau de pe server pe un anumit sistem linux conectat. 
 
 
 
